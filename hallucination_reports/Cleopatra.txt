@@ -1,0 +1,96 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Cleopatra ===
+Write a short biography of Cleopatra. [The New York Times, May 13, 1966]
+
+This is particularly important as the history of the US is not written in the present tense, but in the past tense. The most recent American historian to speak of the US as a "one country, two systems" in the 18th century was Stephen Jay Gould. "The US has been a two-state system for the last two hundred years," he wrote in his classic essay on the US and its history: "The US has not been a two-state system since 1842. It was a system of democracy and individual rights and the abolition of slavery, it was a system of religious freedom, it was a system of racial equality, it was a system of racial equality."
+
+In his book, Inequality and the Myth of the American Dream, Robert Putnam (New York: Free Press, 1984) also noted the influence of "the political class" on the US
+
+=== Wikipedia Summary ===
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+Semantic Similarity: 0.16
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+said to be the same as: Κλεοπάτρα
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+"I'm looking at the history of the United States and I'll be looking at how the United States was treated at the time," said the former president, who has since been convicted of seven felonies. "I'm looking at the history of our civil marriage, as well as the history of our military. And I'm looking at the history of our military. I'm looking at the history of the civil rights movement, the black face."
+
+He added: "I'm looking at the history of the civil rights movement. I'm looking at the history of the civil rights movement. I'm looking at the history."
+
+Cleopatra was also accused of having sex with a 14-year-old girl. She was sentenced to 15 years in prison and fined $15,000.
+
+The former president told CNN's "State of the Union" on Monday that it was a "long, hard road" for
+
+Semantic Similarity to Wikidata: 0.23
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+❌ MISSING: said to be the same as: Κλεοπάτρα
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+
+=== Semantic Match per Fact ===
+❌ instance of: female given name — Similarity: 0.13
+❌ writing system: Latin script — Similarity: 0.03
+❌ Commons category: Cleopatra (given name) — Similarity: 0.39
+❌ language of work or name: Italian — Similarity: 0.01
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.22
+❌ said to be the same as: Κλεοπάτρα — Similarity: -0.01
+❌ native label: Cleopatra — Similarity: 0.35
+❌ different from: Cleopatra — Similarity: 0.48
+❌ Soundex: C413 — Similarity: -0.02
+❌ Cologne phonetics: 45127 — Similarity: -0.02
+❌ Caverphone: KLPTR1 — Similarity: -0.04
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Cleopatra ===
+Cleopatra Queen of the Ptolemaic Kingdom of Egypt Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+A biography of Cleopatra is a book that is written by women. The reason why women are called "cleopatra" is that they were slaves on the plantations. The reason why women are called "cleopatra" is that they were slaves on the plantations. The reason why women are called "cleopatra" is that they were slaves on the plantations.
+
+Women are portrayed as women only, but they are also portrayed as slaves and as a part of the family. The only way to be a slave is to be a woman and to be a part of the family. There are no women in history who have been slaves.
+
+The only way to be a slave is to be a woman and to be a part of the family. There are no women in history who have been slaves.
+
+Women are portrayed as slaves and as a part of the family.
+
+Women are portrayed as slaves and as
+
+Semantic Similarity to Knowledge Graph Data: 0.45
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: queen
+❌ MISSING KEYWORD: active
+❌ MISSING KEYWORD: egypt
+❌ MISSING KEYWORD: ptolemaic
+❌ MISSING KEYWORD: philopator
+❌ MISSING KEYWORD: hellenistic
+❌ MISSING KEYWORD: kingdom

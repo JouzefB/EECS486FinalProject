@@ -1,0 +1,105 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Søren Bjerg ===
+Write a short biography of Søren Bjerg. He has been writing a novel about his life, and his death has been a painful reminder of the ways in which his family was built on the backs of those who couldn't find a place to live. Bjerg's stories are so poignant that they can be seen as a form of writing that is not only beautiful, but also true.
+
+This book will be accompanied by three short stories.
+
+1. "This is The One" by Søren Bjerg (1854-1926)
+
+This is a novel by Bjerg about his time in Sweden during the Thirty Years' War. It is a journey through an era where the country was once the world's most important country, where the war was fought in the name of Sweden and the war was lost. Bjerg writes about his time in the country as a photographer, the war in order to make a living, and the great work of Gustavo D
+
+=== Wikipedia Summary ===
+Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series (LCS) team. He followed that with shorter stints as a head coach for TSM, and again as a mid laner for Team Liquid and 100 Thieves. He is one of the winningest North American players of all time with 6 domestic titles and 10 finals appearances, and has never finished below 5th place. Internationally, he won IEM Katowice 2015 and qualified to the League of Legends World Championship 5 times, but only advanced past the group stage once. He is best known as the greatest North American player for his individual prowess as a mid laner, where he was a perennial MVP and 1st Team All Pro candidate; he won 4 MVP titles, 3 playoff MVP titles, and 6 1st Team All Pro titles. He has never finished below 4th in All Pro voting, and is the current all-time LCS kills leader. He retired from competitive eSports in April of 2023.
+
+Semantic Similarity: 0.37
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Søren Bjerg (ID: Q19959009) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg
+place of birth: Holstebro
+sex or gender: male
+country of citizenship: Kingdom of Denmark
+instance of: human
+member of sports team: 100 Thieves
+occupation: professional gamer
+Commons category: Bjergsen
+date of birth: 1996-02-21T00:00:00Z
+sport: esports
+Freebase ID: /m/0134y3_9
+family name: Bjerg
+given name: Søren
+sponsor: Red Bull GmbH
+name in native language: Søren Bjerg
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Søren Bjerg.
+
+Søren Bjerg, a Swedish novelist and critic, wrote "An Open Letter to Me," in which he spoke of how his love of a book of poetry began when he read it to his mother. "I was already a writer by the age of 14, living on the outskirts of a beautiful castle in Sweden. But I was only 10 years old and had no idea how to write. So I decided to write my first story, the novel, and after a while, I started to read it again, again and again. It became a sort of literary memoir. I took that as a form of therapy and was able to keep myself writing. I still write now, but I've stopped writing. I only got more and more depressed and I have to stop. I'm very sad for all of us. I feel like I'm dying. My writing was a form of self-transformation, but it was not
+
+Semantic Similarity to Wikidata: 0.22
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg
+❌ MISSING: place of birth: Holstebro
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: Kingdom of Denmark
+❌ MISSING: instance of: human
+❌ MISSING: member of sports team: 100 Thieves
+❌ MISSING: occupation: professional gamer
+❌ MISSING: Commons category: Bjergsen
+❌ MISSING: date of birth: 1996-02-21T00:00:00Z
+❌ MISSING: sport: esports
+❌ MISSING: Freebase ID: /m/0134y3_9
+✅ Mentioned: family name: Bjerg
+✅ Mentioned: given name: Søren
+❌ MISSING: sponsor: Red Bull GmbH
+✅ Mentioned: name in native language: Søren Bjerg
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.07
+❌ place of birth: Holstebro — Similarity: 0.17
+❌ sex or gender: male — Similarity: 0.02
+❌ country of citizenship: Kingdom of Denmark — Similarity: 0.13
+❌ instance of: human — Similarity: -0.06
+❌ member of sports team: 100 Thieves — Similarity: 0.01
+❌ occupation: professional gamer — Similarity: 0.10
+❌ Commons category: Bjergsen — Similarity: 0.15
+❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.11
+❌ sport: esports — Similarity: 0.05
+❌ Freebase ID: /m/0134y3_9 — Similarity: 0.01
+❌ family name: Bjerg — Similarity: 0.23
+❌ given name: Søren — Similarity: 0.24
+❌ sponsor: Red Bull GmbH — Similarity: 0.01
+❌ name in native language: Søren Bjerg — Similarity: 0.31
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Søren Bjerg ===
+Bjergsen Danish gamer Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series team.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Søren Bjerg.
+
+5. What is Søren Bjerg?
+
+Søren Bjerg's name means "a male". He started his career in the Norwegian countryside as a hunter, but eventually, as a singer, he married his wife. He is a well-known singer and songwriter in Norway and has been in his work since 2007.
+
+Søren Bjerg is a member of Swedish and Norwegian pop group, Søren Bjerg's. He is best known for his recent record "Likke" which is a heavy rock record with a mix of rock and heavy metal.
+
+Søren Bjerg was born in Oslo, Norway, on March 13, 1988. He attended an early elementary school in the city, where he met his wife, Lila. After his first love, Lila spent a year in the Danish countryside with the two daughters, and then, after a brief stay in
+
+Semantic Similarity to Knowledge Graph Data: 0.65
+✅ GPT-2 output looks consistent with Knowledge Graph data.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: solomid
+❌ MISSING KEYWORD: championship
+❌ MISSING KEYWORD: former
+❌ MISSING KEYWORD: laner
+❌ MISSING KEYWORD: bjergsen
+❌ MISSING KEYWORD: gamer
+❌ MISSING KEYWORD: better
+❌ MISSING KEYWORD: years
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: league

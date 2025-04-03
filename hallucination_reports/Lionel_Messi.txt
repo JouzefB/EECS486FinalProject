@@ -1,0 +1,135 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Lionel Messi ===
+Write a short biography of Lionel Messi.
+
+The title of "Super Messi" is likely to come from Lionel Messi, the Argentine's most famous football manager.
+
+A source close to the Football Association told ESPN that Messi had not changed his mind after his agent, Jean-Paul Pellé, made an offer to buy the player from Real Madrid in February 2016.
+
+It is understood Messi was in the last year of a contract with Real Madrid, but his decision to switch to Manchester United is the latest to come as the club's financial woes continue to pile up.
+
+Lionel Messi has not changed his mind after his agent, Jean-Paul Pellé, made an offer to buy him from Real Madrid in February 2016
+
+Lionel Messi has not changed his mind after his agent, Jean-Paul Pellé, made an offer to buy him from Real Madrid in February 2016
+
+But Pellé, who was tipped to join the club by Arsenal, has
+
+=== Wikipedia Summary ===
+Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players of all time, Messi set numerous records for individual accolades won throughout his professional footballing career such as eight Ballon d'Or awards and eight times being named the world's best player by FIFA. He is the most decorated player in the history of professional football having won 45 team trophies, including twelve Big Five league titles, four UEFA Champions Leagues, two Copa Américas, and one FIFA World Cup. Messi holds the records for most European Golden Shoes (6), most goals in a calendar year (91), most goals for a single club, most goals (474), hat-tricks (36) and assists (192) in La Liga, most assists (18) and goal contributions (32) in the Copa América, most goal contributions (21) in the World Cup, most international appearances (191) and international goals (112) by a South American male, and the second-most in the latter category outright. A prolific goalscorer and creative playmaker, Messi has scored over 850 senior career goals and has provided over 380 assists for club and country.
+
+Semantic Similarity: 0.54
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Lionel Messi (ID: Q615) ===
+father: Jorge Messi
+spouse: Antonela Roccuzzo
+country of citizenship: Argentina
+instance of: human
+position held: UNICEF Goodwill Ambassador
+child: Ciro Messi Roccuzzo
+member of sports team: Inter Miami CF
+field of work: association football
+native language: Argentine Spanish
+occupation: association football player
+employer: Inter Miami CF
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
+league or competition: Ligue 1
+religion or worldview: Catholicism
+award received: Ballon d'Or
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Lionel Messi.
+
+The profile includes one-word explanations of the current state of football and the future of the sport of football.
+
+He also offers five reasons why he would like to become a football player.
+
+"I want to go back from the age of 14 to the age of 25," he states.
+
+He goes on to say he wants to play football in order to become "the youngest player in the world" to ever achieve that goal.
+
+He was born in Buenos Aires, Argentina, and grew up in a small village, where he joined the football club Loyola Maggiore de Madrid, where he spent three years in the youth team.
+
+He was drafted into the Spanish national team after his first professional game in 2012.
+
+His father, who was born on May 13, 1986, also played football in Argentina before moving to Barcelona with his family.
+
+His father was also a lifelong fan of
+
+Semantic Similarity to Wikidata: 0.60
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+✅ Mentioned: father: Jorge Messi
+❌ MISSING: spouse: Antonela Roccuzzo
+✅ Mentioned: country of citizenship: Argentina
+❌ MISSING: instance of: human
+❌ MISSING: position held: UNICEF Goodwill Ambassador
+❌ MISSING: child: Ciro Messi Roccuzzo
+❌ MISSING: member of sports team: Inter Miami CF
+❌ MISSING: field of work: association football
+❌ MISSING: native language: Argentine Spanish
+❌ MISSING: occupation: association football player
+❌ MISSING: employer: Inter Miami CF
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
+❌ MISSING: league or competition: Ligue 1
+❌ MISSING: religion or worldview: Catholicism
+❌ MISSING: award received: Ballon d'Or
+
+=== Semantic Match per Fact ===
+✅ father: Jorge Messi — Similarity: 0.54
+❌ spouse: Antonela Roccuzzo — Similarity: 0.11
+❌ country of citizenship: Argentina — Similarity: 0.35
+❌ instance of: human — Similarity: -0.03
+❌ position held: UNICEF Goodwill Ambassador — Similarity: 0.09
+✅ child: Ciro Messi Roccuzzo — Similarity: 0.52
+❌ member of sports team: Inter Miami CF — Similarity: 0.28
+❌ field of work: association football — Similarity: 0.25
+❌ native language: Argentine Spanish — Similarity: 0.23
+❌ occupation: association football player — Similarity: 0.37
+❌ employer: Inter Miami CF — Similarity: 0.13
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg — Similarity: 0.04
+❌ league or competition: Ligue 1 — Similarity: 0.20
+❌ religion or worldview: Catholicism — Similarity: 0.09
+❌ award received: Ballon d'Or — Similarity: 0.10
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Lionel Messi ===
+Lionel Messi Argentine footballer Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Lionel Messi.
+
+A full biography of Lionel Messi at the age of 15, which you can read here.
+
+The first book is from the late 1960s, and the second book is from the late 1980s.
+
+The first book is from the late 1990s, and the second book is from the late 2000s.
+
+The first book is from the late 2010s, and the second book is from the late 2012s.
+
+The second book is from the late 2012s, and the third book is from the late 2014s.
+
+The first book is from the late 2015s, and the second book is from the late 2016s.
+
+The first book is from the late 2020s, and the second book is from the late 2030s.
+
+The second book is from the late 2020s, and the third book is from the late 2040s.
+
+The first book is from the late 2050
+
+Semantic Similarity to Knowledge Graph Data: 0.51
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: andrés
+❌ MISSING KEYWORD: inter
+❌ MISSING KEYWORD: miami
+❌ MISSING KEYWORD: argentina
+❌ MISSING KEYWORD: footballer
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: soccer
+❌ MISSING KEYWORD: league
+❌ MISSING KEYWORD: forward
+❌ MISSING KEYWORD: argentine

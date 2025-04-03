@@ -1,0 +1,98 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Marie Curie ===
+Write a short biography of Marie Curie. Please read the biography carefully.
+
+
+Marie Curie was a lawyer at the time she was first asked to represent the government in the early 1900s. In 1907 she led a revolt against the government of Switzerland, in which more than 8,000 people were killed. During the struggle, she was forced to flee to the Austrian countryside in order to escape the fate of her countrymen. She had to be buried near Geneva, where the Austrians had abandoned her. Curie was killed in the action, but was still a symbol of her resistance to the Austrians.
+
+Marie Curie was a lawyer with a large law firm. She was known for her hard-hitting and fearless work. She was a skilled prosecutor and expert on the law of wills. Her work was especially important for the government in the early 1900s. The French government tried to kill her, but she refused to be killed, so it was only after the French government
+
+=== Wikipedia Summary ===
+Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+Semantic Similarity: 0.51
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Marie Curie (ID: Q7186) ===
+MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+member of: Commission on Isotopic Abundances and Atomic Weights
+archives at: Bibliothèque nationale de France
+cause of death: aplastic anemia
+academic degree: doctorate
+Find a Grave memorial ID: 1613
+Mathematics Genealogy Project ID: 177944
+residence: Paris
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+This article originally appeared on VICE France.
+
+
+Want to keep up with the latest and greatest in French culture? Check out our YouTube channel.
+
+Semantic Similarity to Wikidata: 0.22
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+❌ MISSING: member of: Commission on Isotopic Abundances and Atomic Weights
+❌ MISSING: archives at: Bibliothèque nationale de France
+❌ MISSING: cause of death: aplastic anemia
+❌ MISSING: academic degree: doctorate
+❌ MISSING: Find a Grave memorial ID: 1613
+❌ MISSING: Mathematics Genealogy Project ID: 177944
+❌ MISSING: residence: Paris
+
+=== Semantic Match per Fact ===
+❌ MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d — Similarity: 0.03
+❌ member of: Commission on Isotopic Abundances and Atomic Weights — Similarity: 0.05
+❌ archives at: Bibliothèque nationale de France — Similarity: 0.49
+❌ cause of death: aplastic anemia — Similarity: -0.05
+❌ academic degree: doctorate — Similarity: 0.10
+❌ Find a Grave memorial ID: 1613 — Similarity: 0.11
+❌ Mathematics Genealogy Project ID: 177944 — Similarity: 0.13
+❌ residence: Paris — Similarity: 0.35
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Marie Curie ===
+Marie Curie Polish-French physicist and chemist Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+Willingness to do so:
+
+If you're going to do this, you need to have a good idea of what the book will be about.
+
+If you're going to do this, you need to have a good idea of what the book will be about. A bit of history and a little bit more.
+
+A little bit of history and a little bit more. You should have a good idea of what the book will be about.
+
+If you're going to do this, you need to have a good idea of what the book will be about.
+
+You should have a good idea of what the book will be about.
+
+You should have a good idea of what the book will be about.
+
+You should have a good idea of what the book will be about.
+
+You should have a good idea of what the book will be about.
+
+You should have a
+
+Semantic Similarity to Knowledge Graph Data: 0.38
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: simply
+❌ MISSING KEYWORD: research
+❌ MISSING KEYWORD: salomea
+❌ MISSING KEYWORD: pioneering
+❌ MISSING KEYWORD: conducted
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: curie
+❌ MISSING KEYWORD: polish
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: maria

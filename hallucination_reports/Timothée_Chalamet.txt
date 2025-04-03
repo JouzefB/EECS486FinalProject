@@ -1,0 +1,91 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Timothée Chalamet ===
+Write a short biography of Timothée Chalamet.
+
+Timothée Chalamet, an early French historian.
+
+Timothée Chalamet, a French-born philosopher, poet, and social critic. In his early years, Chalamet was a leading thinker on the concept of class and state. He was especially influenced by the writings of Jean-Jacques Rousseau, who later served as president of the French republic.
+
+Timothée Chalamet, a French-born philosopher, poet, and social critic. In his early years, Chalamet was a leading thinker on the concept of class and state. He was especially influenced by the writings of Jean-Jacques Rousseau, who later served as president of the French republic. Chalamet is the son of French immigrants and a native of Switzerland. In his early years, Chalamet was a leading thinker on the concept of class and state. He was especially influenced by the writings
+
+=== Wikipedia Summary ===
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+Semantic Similarity: 0.48
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+place of birth: Manhattan
+sex or gender: male
+country of citizenship: France
+instance of: human
+educated at: PS 87 William T. Sherman School
+field of work: acting
+native language: American English
+occupation: actor
+religion or worldview: Judaism
+award received: Gold Derby Awards
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet. The book deals with his life and legacy in the field of biographies. Written by Robert P. Mair.
+
+Semantic Similarity to Wikidata: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+❌ MISSING: place of birth: Manhattan
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: France
+❌ MISSING: instance of: human
+❌ MISSING: educated at: PS 87 William T. Sherman School
+❌ MISSING: field of work: acting
+❌ MISSING: native language: American English
+❌ MISSING: occupation: actor
+❌ MISSING: religion or worldview: Judaism
+❌ MISSING: award received: Gold Derby Awards
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.34
+❌ place of birth: Manhattan — Similarity: 0.17
+❌ sex or gender: male — Similarity: 0.06
+❌ country of citizenship: France — Similarity: 0.06
+❌ instance of: human — Similarity: 0.01
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.21
+❌ field of work: acting — Similarity: 0.20
+❌ native language: American English — Similarity: 0.21
+❌ occupation: actor — Similarity: 0.29
+❌ religion or worldview: Judaism — Similarity: 0.09
+❌ award received: Gold Derby Awards — Similarity: 0.17
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Timothée Chalamet ===
+Timothée Chalamet American-French actor Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+Timothée Chalamet, who wrote the classic novels "The Devil's King" and "The Man Who Stole Christmas," died May 8 in Bremen, Germany, according to his daughter, Lola.
+
+The book, which has been translated into 16 languages, has been hailed as a landmark in the science fiction field and is a must-read for the aspiring filmmaker.
+
+"It's a classic that people have never seen before," said Chalamet, who worked in science fiction for nearly a decade. "Everyone is fascinated by it, but there are a lot of people who won't be able to read it. I'm very lucky to have a copy of it."
+
+The book chronicles a life that began with a short story, "The Devil's King," written in 1833, and was published in 1839 as an eulogy to his wife, a daughter
+
+Semantic Similarity to Knowledge Graph Data: 0.28
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: academy
+❌ MISSING KEYWORD: screen
+❌ MISSING KEYWORD: actor
+❌ MISSING KEYWORD: awards
+❌ MISSING KEYWORD: nominations
+❌ MISSING KEYWORD: french
+❌ MISSING KEYWORD: include
+❌ MISSING KEYWORD: chalamet
+❌ MISSING KEYWORD: guild

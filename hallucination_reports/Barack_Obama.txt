@@ -1,0 +1,123 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Barack Obama ===
+Write a short biography of Barack Obama.
+
+Brenton said he has written a book about Barack Obama, but "I think it would be in a more political book. I think that it would be a more political book in a way, but I think that it would be a more political book in a way. I think that it would be a more political book in a way."
+
+The book is being published this week in Princeton.
+
+Brenton said he thinks the book is not a political issue.
+
+"I think what's interesting about this book is that I think it's a matter of understanding what's going on in Washington, D.C., and that it's not a matter of, 'Oh, I'm not going to do this anymore,' but 'Well, let's do something.' And that's what this book is about."
+
+=== Wikipedia Summary ===
+Barack Hussein Obama II is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.
+
+Semantic Similarity: 0.40
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Barack Obama (ID: Q76) ===
+video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+place of birth: Kapiolani Medical Center for Women and Children
+sex or gender: male
+father: Barack Obama Sr.
+mother: Stanley Ann Dunham
+spouse: Michelle Obama
+country of citizenship: Kenya
+instance of: human
+position held: member of the State Senate of Illinois
+child: Sasha Obama
+family: family of Barack Obama
+educated at: Harvard Law School
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Barack Obama. The book will contain a full biography of Barack Obama, with links to the biography.
+
+The book will also include a selection of the best books about Barack Obama, the first lady, and the first lady's legacy.
+
+The book will run through April 6, 2016.
+
+Obama's biography will be published in two volumes (one for both the first and second editions) as well as a separate collection of essays.
+
+The books will be available at Amazon, Barnes & Noble, and other online bookstores.
+
+The first edition of the biography will be available in April 2016.
+
+The second edition, the book will be available in November 2016.
+
+The book will be available as digital download on Amazon and other digital outlets.
+
+The book will also be available on eBook and the Kindle.
+
+The book will launch with a $20 price tag in the U.S. on April 6, 2016.
+
+Semantic Similarity to Wikidata: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+❌ MISSING: place of birth: Kapiolani Medical Center for Women and Children
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Barack Obama Sr.
+❌ MISSING: mother: Stanley Ann Dunham
+❌ MISSING: spouse: Michelle Obama
+❌ MISSING: country of citizenship: Kenya
+❌ MISSING: instance of: human
+❌ MISSING: position held: member of the State Senate of Illinois
+❌ MISSING: child: Sasha Obama
+❌ MISSING: family: family of Barack Obama
+❌ MISSING: educated at: Harvard Law School
+
+=== Semantic Match per Fact ===
+❌ video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm — Similarity: 0.02
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg — Similarity: 0.23
+❌ place of birth: Kapiolani Medical Center for Women and Children — Similarity: 0.07
+❌ sex or gender: male — Similarity: 0.06
+❌ father: Barack Obama Sr. — Similarity: 0.40
+❌ mother: Stanley Ann Dunham — Similarity: 0.14
+❌ spouse: Michelle Obama — Similarity: 0.39
+❌ country of citizenship: Kenya — Similarity: 0.18
+❌ instance of: human — Similarity: 0.07
+❌ position held: member of the State Senate of Illinois — Similarity: 0.11
+❌ child: Sasha Obama — Similarity: 0.32
+❌ family: family of Barack Obama — Similarity: 0.43
+❌ educated at: Harvard Law School — Similarity: 0.15
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Barack Obama ===
+Barack Obama 44th U.S. President Barack Hussein Obama II is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Barack Obama.
+
+The book is about Barack Obama, who died in June 2014 from a heart attack. The book is about his life and life lessons and life experiences.
+
+In the book, Barack was accused of being a pathological liar, in public and off in the press. He was accused of dishonesty, not just in the press but also in the state department. In his memoir, he says he was falsely accused of lying because he did not know that the allegations he made were true.
+
+In the book, Barack was accused of being a misogynist. And he was accused of being a racist.
+
+In the book, he is accused of being a terrorist in war. And he was accused of being a serial liar.
+
+The book is about Barack Obama.
+
+Hillary Clinton has received praise for her book, "The Making of Barack Obama: A Memoir," which was published in October last year.
+
+But a
+
+Semantic Similarity to Knowledge Graph Data: 0.47
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: member
+❌ MISSING KEYWORD: democratic
+❌ MISSING KEYWORD: president
+❌ MISSING KEYWORD: united
+❌ MISSING KEYWORD: obama
+❌ MISSING KEYWORD: politician
+❌ MISSING KEYWORD: first
+❌ MISSING KEYWORD: states
+❌ MISSING KEYWORD: hussein

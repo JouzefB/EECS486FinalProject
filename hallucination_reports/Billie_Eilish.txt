@@ -1,0 +1,119 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Billie Eilish ===
+Write a short biography of Billie Eilish.
+
+Billie Eilish, like her husband, was a real estate developer in her teens, but she never got to meet her husband.
+
+"I didn't know that Billie Eilish was a journalist," says David Burchfield, the co-founder of The Boston Globe, a magazine that has been covering the Billie Eilish case ever since the 1980s. "I thought, 'Well, she's an insider.' "
+
+Eilish, a former state senator, who in 2004 became the first female mayor of Boston, went through a series of difficult circumstances.
+
+For one thing, she was a woman. She was a woman who married and had children.
+
+Eilish suffered from "a couple of miscarriages, a couple of strokes, and a couple of heart attacks," says Burchfield.
+
+She had an occasional miscarriage and a heart attack. She
+
+=== Wikipedia Summary ===
+Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows. In 2017, she released her debut extended play (EP), Don't Smile at Me. Commercially successful, it reached the top 15 of record charts in numerous countries, including the US, UK, Canada, and Australia.
+
+Semantic Similarity: 0.25
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Billie Eilish (ID: Q29564107) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+place of birth: Los Angeles
+sex or gender: female
+father: Patrick O'Connell
+mother: Maggie Baird
+country of citizenship: United States
+instance of: human
+sexual orientation: non-heterosexuality
+field of work: music
+native language: American English
+occupation: dancer
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+genre: alternative pop
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+award received: MTV Europe Music Award for Best Song
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+Billie Eilish was a prominent political figure in the 1920's, as well as a member of the Democratic National Committee, and in some ways she was the most influential woman in the party. She was a fierce advocate of women's suffrage and was also the only person to vote for the war in Vietnam, which effectively ended the Vietnam War.
+
+Billie Eilish was in her early 20's, and she was a member of the New York City Democratic Party.
+
+Billie Eilish was a strong supporter of civil rights and the Civil Rights Act of 1964. She was a member of the New York City Democratic Party and also voted for the New Deal.
+
+Billie Eilish was a member of the New York City Democratic Party from 1933 to 1937, and on March 7, 1936, she was assassinated in front of the New York City Board of Directors in front of the first black
+
+Semantic Similarity to Wikidata: 0.29
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+❌ MISSING: place of birth: Los Angeles
+❌ MISSING: sex or gender: female
+❌ MISSING: father: Patrick O'Connell
+❌ MISSING: mother: Maggie Baird
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+❌ MISSING: sexual orientation: non-heterosexuality
+❌ MISSING: field of work: music
+❌ MISSING: native language: American English
+❌ MISSING: occupation: dancer
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+❌ MISSING: genre: alternative pop
+❌ MISSING: logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+❌ MISSING: award received: MTV Europe Music Award for Best Song
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg — Similarity: 0.24
+❌ place of birth: Los Angeles — Similarity: 0.14
+❌ sex or gender: female — Similarity: 0.09
+❌ father: Patrick O'Connell — Similarity: 0.05
+❌ mother: Maggie Baird — Similarity: 0.11
+❌ country of citizenship: United States — Similarity: 0.12
+❌ instance of: human — Similarity: 0.02
+❌ sexual orientation: non-heterosexuality — Similarity: 0.14
+❌ field of work: music — Similarity: 0.02
+❌ native language: American English — Similarity: 0.04
+❌ occupation: dancer — Similarity: 0.09
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg — Similarity: 0.26
+❌ genre: alternative pop — Similarity: 0.03
+❌ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg — Similarity: 0.32
+❌ award received: MTV Europe Music Award for Best Song — Similarity: -0.02
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Billie Eilish ===
+Billie Eilish American singer-songwriter and musician Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+How To Get In: How to Get In
+
+To be a good writer, you have to be able to get your head around the "how to" part. What is the basic idea behind writing a book? How do you get into a story? How do you find your own meaning in it?
+
+The problem with these questions is that they don't really get your head around them. They just get in your face. What if you're an author, and you're like, "I'm like this? I was like this a long time ago, and I want to write about that?" And then you get in the habit of saying, "Okay, well, what was that like back then?" or "I'm doing this a long time ago, and I want to write about that now."
+
+Do you really think that's really a good idea?
+
+Well, yeah, I do.
+
+Semantic Similarity to Knowledge Graph Data: 0.26
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: pirate
+❌ MISSING KEYWORD: brother
+❌ MISSING KEYWORD: attention
+❌ MISSING KEYWORD: music
+❌ MISSING KEYWORD: collaborates
+❌ MISSING KEYWORD: finneas
+❌ MISSING KEYWORD: musician
+❌ MISSING KEYWORD: public
+❌ MISSING KEYWORD: baird

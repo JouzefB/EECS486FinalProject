@@ -1,0 +1,167 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Serena Williams ===
+Write a short biography of Serena Williams.
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+The Daily Mail
+
+
+=== Wikipedia Summary ===
+Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 319 weeks, and finished as the year-end No. 1 five times. Williams won 73 WTA Tour-level singles titles, including 23 major women's singles titles — the most in the Open Era, and the second-most of all time. She is the only player to accomplish a career Golden Slam in both singles and doubles.
+
+Semantic Similarity: 0.47
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Serena Williams (ID: Q11459) ===
+Rotten Tomatoes ID: celebrity/serena_williams
+Notable Names Database: 205/000023136
+Munzinger Sport number: 01000005440
+Gran Enciclopèdia Catalana ID (former scheme): 0256196
+partner in business or sport: Venus Williams
+eye color: dark brown
+described by source: Notable Black American Women
+participant in: 2007 Fed Cup
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams. (Photo: Steve Russell/The Republic)
+
+Serena Williams is the first woman to win the Tour de France. (Photo: Steve Russell/The Republic)
+
+"I'm going to be honest with you," Williams told the Times, referring to the announcement of the win. "I'm not going to be a politician… I'm going to be a true champion. And now I'm going to stand up for what I believe in.
+
+"I think I'll be the greatest woman of the world. I'm going to be the greatest woman of the world. So I'm going to let you know what I have to say about a lot of things."
+
+She was the first woman to come out of retirement to win a world title in a single year.
+
+Williams was the first person to win a world title in a single year. (Photo: Steve Russell/The Republic)
+
+The Times
+
+Semantic Similarity to Wikidata: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Rotten Tomatoes ID: celebrity/serena_williams
+❌ MISSING: Notable Names Database: 205/000023136
+❌ MISSING: Munzinger Sport number: 01000005440
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0256196
+❌ MISSING: partner in business or sport: Venus Williams
+❌ MISSING: eye color: dark brown
+❌ MISSING: described by source: Notable Black American Women
+❌ MISSING: participant in: 2007 Fed Cup
+
+=== Semantic Match per Fact ===
+❌ Rotten Tomatoes ID: celebrity/serena_williams — Similarity: 0.47
+❌ Notable Names Database: 205/000023136 — Similarity: 0.14
+❌ Munzinger Sport number: 01000005440 — Similarity: 0.13
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0256196 — Similarity: 0.08
+✅ partner in business or sport: Venus Williams — Similarity: 0.54
+❌ eye color: dark brown — Similarity: -0.02
+❌ described by source: Notable Black American Women — Similarity: 0.27
+❌ participant in: 2007 Fed Cup — Similarity: 0.17
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Serena Williams ===
+Serena Williams American former tennis player Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association for 319 weeks, and finished as the year-end No. 1 five times.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+"I'm thrilled to be bringing the Serena Williams Legacy to the world," said Jeff Bezos, the CEO of Amazon.com, in a statement. "I am thrilled that this great woman has stepped forward to speak to our world and to build a world where everyone can have a chance to see her face again."
+
+Williams, who was born in New York, moved to Seattle from the South Pacific in 1985. She married her first husband, Bill Williams Jr., in 1994.
+
+"I was so happy to have him around and how close my family and my children were to him, that I was thrilled to join him," Williams said in a statement. "I will miss him dearly."
+
+Her first husband, Sam Stein, joined the company in the early 2000s. He now lives in Seattle.
+
+"I thought it was wonderful that he was part of our company — he was kind, generous, funny
+
+Semantic Similarity to Knowledge Graph Data: 0.52
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: former
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: association
+❌ MISSING KEYWORD: tennis
+❌ MISSING KEYWORD: jameka
+❌ MISSING KEYWORD: player
+❌ MISSING KEYWORD: finished
+❌ MISSING KEYWORD: singles
+❌ MISSING KEYWORD: ranked

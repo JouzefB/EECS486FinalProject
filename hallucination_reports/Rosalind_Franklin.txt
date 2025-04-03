@@ -1,0 +1,131 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Rosalind Franklin ===
+Write a short biography of Rosalind Franklin.
+
+What are your favorite foods?
+
+My favorite food is cornbread. It's a delicious and hearty breakfast that comes with a simple and tasty twist. It has a rich and creamy flavor, and it is a wonderful way to spend the evening. The cornbread is a great way to have a late night snack and to take a nap in the evening.
+
+What does your mother say when you talk to her?
+
+"It's like a fairy tale."
+
+When are you going to leave your house?
+
+I'm going to be leaving my house in September. I am going to start my new job with my mom in March. I'm going to do a master's in social work in Fall.
+
+Do you have any hobbies or interests?
+
+I love reading. I love writing. I love to write.
+
+What are your favorite books?
+
+I love novels. I love
+
+=== Wikipedia Summary ===
+Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite. Although her works on coal and viruses were appreciated in her lifetime, Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the "wronged heroine", the "dark lady of DNA", the "forgotten heroine", a "feminist icon", and the "Sylvia Plath of molecular biology".
+
+Semantic Similarity: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Rosalind Franklin (ID: Q7474) ===
+Library of Congress authority ID: n2001016339
+Bibliothèque nationale de France ID: 14486659t
+IdRef ID: 083368078
+NDL Authority ID: 00620682
+Commons category: Rosalind Franklin
+archives at: Wellcome Collection
+cause of death: ovarian cancer
+academic degree: Doctor of Philosophy
+Find a Grave memorial ID: 5858699
+date of birth: 1920-07-25T00:00:00Z
+date of death: 1958-04-16T00:00:00Z
+Freebase ID: /m/0mgnt
+NL CR AUT ID: xx0059521
+family name: Franklin
+given name: Rosalind
+student: John Thomas Finch
+SELIBR ID: 313786
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin.
+
+Trevor Noah, who directed the movie, said he was "excited" to write about the film.
+
+"We've had the opportunity to play a lot of great characters, and I'm thrilled to tell you what's going to happen," Noah said during an interview on MSNBC. "I'll let you know what I think when I get to it."
+
+He also told the network that he'd like to write a short biography of Franklin, who starred in the original version of the film.
+
+"Just to explain, I'm very excited to write about her life, but I'm also very excited to tell you that I'm writing about a character who was never written about," Noah said. "And I've had a lot of good relationships with people, and I've been lucky enough to work with a lot of great people."
+
+He said he'd like to see a bit more than a
+
+Semantic Similarity to Wikidata: 0.37
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Library of Congress authority ID: n2001016339
+❌ MISSING: Bibliothèque nationale de France ID: 14486659t
+❌ MISSING: IdRef ID: 083368078
+❌ MISSING: NDL Authority ID: 00620682
+✅ Mentioned: Commons category: Rosalind Franklin
+❌ MISSING: archives at: Wellcome Collection
+❌ MISSING: cause of death: ovarian cancer
+❌ MISSING: academic degree: Doctor of Philosophy
+❌ MISSING: Find a Grave memorial ID: 5858699
+❌ MISSING: date of birth: 1920-07-25T00:00:00Z
+❌ MISSING: date of death: 1958-04-16T00:00:00Z
+❌ MISSING: Freebase ID: /m/0mgnt
+❌ MISSING: NL CR AUT ID: xx0059521
+✅ Mentioned: family name: Franklin
+✅ Mentioned: given name: Rosalind
+❌ MISSING: student: John Thomas Finch
+❌ MISSING: SELIBR ID: 313786
+
+=== Semantic Match per Fact ===
+❌ Library of Congress authority ID: n2001016339 — Similarity: 0.10
+❌ Bibliothèque nationale de France ID: 14486659t — Similarity: 0.07
+❌ IdRef ID: 083368078 — Similarity: -0.02
+❌ NDL Authority ID: 00620682 — Similarity: -0.01
+❌ Commons category: Rosalind Franklin — Similarity: 0.45
+❌ archives at: Wellcome Collection — Similarity: 0.06
+❌ cause of death: ovarian cancer — Similarity: 0.12
+❌ academic degree: Doctor of Philosophy — Similarity: 0.13
+❌ Find a Grave memorial ID: 5858699 — Similarity: 0.06
+❌ date of birth: 1920-07-25T00:00:00Z — Similarity: 0.19
+❌ date of death: 1958-04-16T00:00:00Z — Similarity: 0.13
+❌ Freebase ID: /m/0mgnt — Similarity: 0.03
+❌ NL CR AUT ID: xx0059521 — Similarity: 0.06
+❌ family name: Franklin — Similarity: 0.39
+❌ given name: Rosalind — Similarity: 0.45
+❌ student: John Thomas Finch — Similarity: 0.19
+❌ SELIBR ID: 313786 — Similarity: -0.01
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Rosalind Franklin ===
+Rosalind Franklin British chemist Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin.
+
+As previously mentioned, this was a very expensive book. It's a very hard book to find. I've found that I'm willing to pay very little for it. I'm also very, very glad to have gotten this book. I'm not sure what the publisher was looking for. They were looking for a place to sell the book. I'm not sure what they were looking for. It's very hard to find a publisher. I'm not sure who's looking for that publisher. I think the publisher is, I think, more of a mystery book publisher.
+
+This book seems to be something that people have been looking for. I can't talk about it, but I know that you're not being asked to do that.
+
+I know that you're not being asked to do that. I'm not. I'm just going to say that there are lots of things you could be doing.
+
+That
+
+Semantic Similarity to Knowledge Graph Data: 0.48
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: structures
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: elsie
+❌ MISSING KEYWORD: understanding
+❌ MISSING KEYWORD: central
+❌ MISSING KEYWORD: molecular
+❌ MISSING KEYWORD: franklin
+❌ MISSING KEYWORD: british
