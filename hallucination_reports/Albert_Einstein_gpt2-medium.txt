@@ -1,0 +1,115 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Albert Einstein ===
+Write a short biography of Albert Einstein.
+
+For more about Einstein's contributions to the history of science and technology, visit www.Einstein.org.
+
+=== Wikipedia Summary ===
+Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.
+
+Semantic Similarity: 0.55
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Albert Einstein (ID: Q937) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
+place of birth: Ulm
+place of death: Princeton
+sex or gender: male
+father: Hermann Einstein
+mother: Pauline Koch
+spouse: Mileva Marić
+country of citizenship: Cisleithania
+instance of: human
+position held: professor
+child: Lieserl (Einstein)
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Albert Einstein. (It's not that hard.)
+
+There are a couple of important things to know about Einstein's life and work:
+
+Einstein's father was a mathematician.
+
+Einstein's father was deeply devoted to science, and he was always studying the subject of gravity.
+
+Einstein was born in an era when science was still in its infancy, so he was probably not as familiar with physics as someone like the famous Victorian scientist John Tyndall.
+
+Einstein's father was an engineer.
+
+Einstein's father was a socialist, and he was a friend of Pierre-Joseph Proudhon, a man who wanted to use science to improve people's lives.
+
+Einstein's father was a big fan of the French Revolution.
+
+Of course, Einstein's biography also has this important caveat: "Einstein was not a scientist, or even a mathematician. He was a scientist with a philosophical bent. He
+
+Semantic Similarity to Wikidata: 0.49
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
+❌ MISSING: place of birth: Ulm
+❌ MISSING: place of death: Princeton
+❌ MISSING: sex or gender: male
+✅ Mentioned: father: Hermann Einstein
+❌ MISSING: mother: Pauline Koch
+❌ MISSING: spouse: Mileva Marić
+❌ MISSING: country of citizenship: Cisleithania
+❌ MISSING: instance of: human
+❌ MISSING: position held: professor
+❌ MISSING: child: Lieserl (Einstein)
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg — Similarity: 0.18
+❌ place of birth: Ulm — Similarity: 0.13
+❌ place of death: Princeton — Similarity: 0.16
+❌ sex or gender: male — Similarity: 0.12
+✅ father: Hermann Einstein — Similarity: 0.68
+❌ mother: Pauline Koch — Similarity: 0.11
+❌ spouse: Mileva Marić — Similarity: 0.00
+❌ country of citizenship: Cisleithania — Similarity: 0.05
+❌ instance of: human — Similarity: 0.05
+❌ position held: professor — Similarity: 0.19
+❌ child: Lieserl (Einstein) — Similarity: 0.41
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Albert Einstein ===
+Albert Einstein. Theoretical physicist. Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Albert Einstein.
+
+Go to the United States Naval Academy in Annapolis, Maryland and visit the Albert Einstein Archives.
+
+Make a short film about the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Make a short film about the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Visit the Einstein Machine at the University of Chicago to explore the history of the Einstein Machine.
+
+Visit
+
+Semantic Similarity to Knowledge Graph Data: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: developing
+❌ MISSING KEYWORD: contributions
+❌ MISSING KEYWORD: theoretical
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: quantum
+❌ MISSING KEYWORD: important
+❌ MISSING KEYWORD: theory
+❌ MISSING KEYWORD: known

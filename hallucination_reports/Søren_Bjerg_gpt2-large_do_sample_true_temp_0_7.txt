@@ -2,22 +2,48 @@
 === GPT-2 Generated Biography for Søren Bjerg ===
 Write a short biography of Søren Bjerg.
 
-When he was in Denmark he wrote a short biography of Richard Wagner, which was published in English in 2004.
+Create a short history of the game.
 
-He also wrote a book about Björk, called "I Love Björk"
+Write a short essay about your journey in the game.
 
-In 2008, he wrote a book called "Jørgensen" about his relationship to the band
+Create a short video about you playing the game.
 
-On his website, he says he is "not interested in anything except enjoying life."
+Create a short video about the game.
 
-In the article, he says: "But this does have to do with a very serious problem - I don't know if I have the ability to feel love. To be fair, I don't think I would find it hard to find the word. But I would certainly have to ask myself, 'Why don't I like the band, and why don't I love them?' And, of course, I can't say for certain what will happen.
+Create a short video about the game.
 
-"It's like having a child.
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a short video about the game.
+
+Create a
 
 === Wikipedia Summary ===
 Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series (LCS) team. He followed that with shorter stints as a head coach for TSM, and again as a mid laner for Team Liquid and 100 Thieves. He is one of the winningest North American players of all time with 6 domestic titles and 10 finals appearances, and has never finished below 5th place. Internationally, he won IEM Katowice 2015 and qualified to the League of Legends World Championship 5 times, but only advanced past the group stage once. He is best known as the greatest North American player for his individual prowess as a mid laner, where he was a perennial MVP and 1st Team All Pro candidate; he won 4 MVP titles, 3 playoff MVP titles, and 6 1st Team All Pro titles. He has never finished below 4th in All Pro voting, and is the current all-time LCS kills leader. He retired from competitive eSports in April of 2023.
 
-Semantic Similarity: 0.33
+Semantic Similarity: 0.36
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Wikidata Comparison ===
@@ -39,11 +65,15 @@ sponsor: Red Bull GmbH
 name in native language: Søren Bjerg
 
 === GPT-2 Generated Biography ===
-Write a short biography of Søren Bjerg.
+Write a short biography of Søren Bjerg. He is a Norwegian journalist who has been covering the events in the Ukraine and the Russian-Ukraine war for over 20 years.
 
-Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short bio of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
+"I'm a writer. I write about politics, life and culture. At the age of 35 I moved to the Ukraine and lived for two months in the Crimea. I was in the Crimea for almost a year for various reasons, from my job to my wife's pregnancy. It was a very interesting experience. I've been writing since then and I've published a few books. In addition to that I've written a number of articles and books about the subject."
 
-Semantic Similarity to Wikidata: 0.50
+We asked the journalist what he thought of the current crisis in Ukraine.
+
+"There is a lot of smoke, but there is a lot of fire underneath it. I think that the worst thing that could happen is that we will see a lot more wars, a lot more bloodshed, both on the sides and between the countries
+
+Semantic Similarity to Wikidata: 0.33
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Fact Presence in GPT-2 Output (Keyword Check) ===
@@ -64,21 +94,21 @@ Semantic Similarity to Wikidata: 0.50
 ✅ Mentioned: name in native language: Søren Bjerg
 
 === Semantic Match per Fact ===
-❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.25
-❌ place of birth: Holstebro — Similarity: 0.14
-❌ sex or gender: male — Similarity: 0.07
-❌ country of citizenship: Kingdom of Denmark — Similarity: 0.22
-❌ instance of: human — Similarity: 0.11
-❌ member of sports team: 100 Thieves — Similarity: 0.12
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.19
+❌ place of birth: Holstebro — Similarity: 0.17
+❌ sex or gender: male — Similarity: 0.08
+❌ country of citizenship: Kingdom of Denmark — Similarity: 0.25
+❌ instance of: human — Similarity: 0.03
+❌ member of sports team: 100 Thieves — Similarity: -0.01
 ❌ occupation: professional gamer — Similarity: 0.13
-❌ Commons category: Bjergsen — Similarity: 0.38
-❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.17
-❌ sport: esports — Similarity: 0.13
-❌ Freebase ID: /m/0134y3_9 — Similarity: 0.12
-❌ family name: Bjerg — Similarity: 0.49
-❌ given name: Søren — Similarity: 0.43
-❌ sponsor: Red Bull GmbH — Similarity: 0.05
-✅ name in native language: Søren Bjerg — Similarity: 0.55
+❌ Commons category: Bjergsen — Similarity: 0.25
+❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.16
+❌ sport: esports — Similarity: 0.12
+❌ Freebase ID: /m/0134y3_9 — Similarity: 0.05
+❌ family name: Bjerg — Similarity: 0.25
+❌ given name: Søren — Similarity: 0.30
+❌ sponsor: Red Bull GmbH — Similarity: 0.07
+❌ name in native language: Søren Bjerg — Similarity: 0.33
 
 === Google Knowledge Graph Comparison ===
 === Knowledge Graph Data for Søren Bjerg ===
@@ -87,41 +117,45 @@ Bjergsen. Danish gamer. Søren Bjerg, better known as Bjergsen, is a Danish form
 === GPT-2 Generated Biography ===
 Write a short biography of Søren Bjerg.
 
-Read about the Norwegian government's involvement in Copenhagen.
+What are some of your favorite books?
 
-Discuss the Norwegian government's involvement in Copenhagen.
+There are many. My favorites are:
 
-Read about the Norwegian government's involvement in Copenhagen.
+The Alchemist by Paulo Coelho
 
-Convert some of the items listed in the "Items on Sale" section to Norwegian Shirts.
+The Alchemist by Paulo Coelho The Secret Service
 
-Find out more about the sale of Norwegian clothing in the "Fashion" section.
+The Secret Service The First World War
 
-Find out more about the sale of Norwegian clothing in the "Fashion" section.
+The First World War The Road to Serfdom
 
-The Norwegian government is sponsoring a conference on "Hotspots" in Oslo, Norway on June 19 and 20, 2012.
+The Road to Serfdom The Great Gatsby
 
-The Norwegian government is sponsoring a conference on "Hotspots" in Oslo, Norway on June 19 and 20, 2012.
+The Great Gatsby The Great Gatsby The Great Gatsby
 
-Do you have any question about Oslo? Ask the Norwegian Embassy
+The Great Gatsby The Great Gatsby The Great Gatsby
 
-Do you have any question about Oslo? Ask the Norwegian Embassy
+In addition to these books, I also read:
 
-Contact your local Norwegian Embassy
+The New York Times bestseller The Great Gatsby
 
-Contact your local
+The New York Times bestseller The Great Gatsby The Great Gatsby (2nd edition)
 
-Semantic Similarity to Knowledge Graph Data: 0.36
+(2nd edition) The Great Gatsby (2nd edition) The Great Gatsby and Other Stories by Paul Auster
+
+(
+
+Semantic Similarity to Knowledge Graph Data: 0.24
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Summary of Differences (Missing Key Terms) ===
 ❌ MISSING KEYWORD: starting
-❌ MISSING KEYWORD: legends
+❌ MISSING KEYWORD: years
+❌ MISSING KEYWORD: solomid
 ❌ MISSING KEYWORD: better
+❌ MISSING KEYWORD: laner
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: legends
 ❌ MISSING KEYWORD: danish
 ❌ MISSING KEYWORD: series
-❌ MISSING KEYWORD: years
 ❌ MISSING KEYWORD: league
-❌ MISSING KEYWORD: laner
-❌ MISSING KEYWORD: known
-❌ MISSING KEYWORD: professional

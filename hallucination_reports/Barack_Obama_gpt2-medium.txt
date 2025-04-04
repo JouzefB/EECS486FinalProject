@@ -1,0 +1,119 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Barack Obama ===
+Write a short biography of Barack Obama.
+
+Don't waste your time with the Obama administration. If it does something stupid, you'll see it in the press.
+
+Don't believe that Obama will help you. Every week he does something that benefits his political opponents.
+
+Don't know how to vote. If the election was tomorrow, you'd probably vote for Bush. Obama's a Democrat. Bush is a Republican.
+
+Don't listen to the media. If they say you don't have what it takes to be president, you'll think they're all delusional.
+
+Don't waste your time on the Internet. The Internet is a dangerous place.
+
+Don't bother with the Internet. The Internet is a dangerous place.
+
+Don't listen to the media. The media is the enemy of the American people. It is really hard to get a story without a story, and the media is the enemy of the American people.
+
+Don't listen
+
+=== Wikipedia Summary ===
+Barack Hussein Obama II is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.
+
+Semantic Similarity: 0.53
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Barack Obama (ID: Q76) ===
+video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+place of birth: Kapiolani Medical Center for Women and Children
+sex or gender: male
+father: Barack Obama Sr.
+mother: Stanley Ann Dunham
+spouse: Michelle Obama
+country of citizenship: Kenya
+instance of: human
+position held: member of the State Senate of Illinois
+child: Sasha Obama
+family: family of Barack Obama
+educated at: Harvard Law School
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Barack Obama.
+
+To: mike
+
+I don't think anyone likes to be called the stupid president, but Obama does seem like he is getting really tired. He is at his wits end every day. He is at his wits end every time he gets the phone call that he's got to go to bed because his son is in the hospital. He is at his wits end every time he gets a letter from his family saying that someone else is dying or is moving out.
+
+
+To: mike
+
+He's just not sure what to do. His job is to try and keep his own house in order and find somewhere else to live. I don't know why he can't see that he can't just get out and live as a free man.
+
+
+by 7 posted onby kosmo (A man who does not understand the concept of freedom is a fool.)
+
+To: mike
+
+Obama
+
+Semantic Similarity to Wikidata: 0.49
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+❌ MISSING: place of birth: Kapiolani Medical Center for Women and Children
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Barack Obama Sr.
+❌ MISSING: mother: Stanley Ann Dunham
+❌ MISSING: spouse: Michelle Obama
+❌ MISSING: country of citizenship: Kenya
+❌ MISSING: instance of: human
+❌ MISSING: position held: member of the State Senate of Illinois
+❌ MISSING: child: Sasha Obama
+✅ Mentioned: family: family of Barack Obama
+❌ MISSING: educated at: Harvard Law School
+
+=== Semantic Match per Fact ===
+❌ video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm — Similarity: 0.13
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg — Similarity: 0.38
+❌ place of birth: Kapiolani Medical Center for Women and Children — Similarity: 0.02
+❌ sex or gender: male — Similarity: 0.03
+❌ father: Barack Obama Sr. — Similarity: 0.45
+❌ mother: Stanley Ann Dunham — Similarity: 0.04
+❌ spouse: Michelle Obama — Similarity: 0.35
+❌ country of citizenship: Kenya — Similarity: 0.27
+❌ instance of: human — Similarity: 0.11
+❌ position held: member of the State Senate of Illinois — Similarity: 0.12
+❌ child: Sasha Obama — Similarity: 0.25
+❌ family: family of Barack Obama — Similarity: 0.45
+❌ educated at: Harvard Law School — Similarity: 0.06
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Barack Obama ===
+Barack Obama. 44th U.S. President. Barack Hussein Obama II is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Barack Obama.
+
+A biography should be short and to the point. It should describe your current interests, hobbies, and ambitions: how you think you might be an effective leader, what you want to do in the future, what you believe you have the potential to accomplish. But it shouldn't be too long.
+
+2. Be open to the idea that you might not be able to do everything, but that you can nonetheless do it well enough to be a good president.
+
+You can't be president of the United States and not be good at something. You can't be president of the United States and not be good at something well enough to be a good president. You can't be president of the United States and not be good at something.
+
+President Obama has not been a great president. He has made mistakes. He's been weak. He's not been a great president. He has made mistakes. He's been weak. He
+
+Semantic Similarity to Knowledge Graph Data: 0.45
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: politician
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: hussein
+❌ MISSING KEYWORD: member
+❌ MISSING KEYWORD: first
+❌ MISSING KEYWORD: democratic

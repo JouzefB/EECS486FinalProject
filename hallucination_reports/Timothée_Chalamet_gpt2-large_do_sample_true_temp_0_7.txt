@@ -1,0 +1,131 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Timothée Chalamet ===
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothermy Chalamet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a short biography of Will Scarlet.
+
+Write a
+
+=== Wikipedia Summary ===
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+Semantic Similarity: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+place of birth: Manhattan
+sex or gender: male
+country of citizenship: France
+instance of: human
+educated at: PS 87 William T. Sherman School
+field of work: acting
+native language: American English
+occupation: actor
+religion or worldview: Judaism
+award received: Gold Derby Awards
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+In the event that a player dies in the game, the player is not automatically revived from the dead, but instead is revived to life with a "dead" score.
+
+It is possible to revive a player who was already dead while playing the game with the "resurrect" option enabled, but this will not be the case in the Event Viewer.
+
+The "dead" score does not affect the player's stats or score in the Event Viewer.
+
+When saving a game, a "dead" score is displayed.
+
+If a player loses a round in the tournament, the score displayed is the "dead" score for that round.
+
+The "dead" score is only displayed when the player is not in the game, and not if the player is still in the game after a round is won.
+
+When the player is in the game, the score is displayed as
+
+Semantic Similarity to Wikidata: 0.13
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+❌ MISSING: place of birth: Manhattan
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: France
+❌ MISSING: instance of: human
+❌ MISSING: educated at: PS 87 William T. Sherman School
+❌ MISSING: field of work: acting
+❌ MISSING: native language: American English
+❌ MISSING: occupation: actor
+❌ MISSING: religion or worldview: Judaism
+❌ MISSING: award received: Gold Derby Awards
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.20
+❌ place of birth: Manhattan — Similarity: -0.06
+❌ sex or gender: male — Similarity: 0.05
+❌ country of citizenship: France — Similarity: -0.03
+❌ instance of: human — Similarity: 0.02
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.03
+❌ field of work: acting — Similarity: 0.10
+❌ native language: American English — Similarity: 0.01
+❌ occupation: actor — Similarity: 0.05
+❌ religion or worldview: Judaism — Similarity: -0.05
+❌ award received: Gold Derby Awards — Similarity: 0.17
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Timothée Chalamet ===
+Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet. Explain why the French poet and writer is one of the world's most influential political writers. Why he is the best-known French novelist and the best-known French writer of the 21st century. What is his famous poem, Le Nouveau Temps? Why the first page of his masterpiece, Les Temps Modernes? What was it like to be his translator? What is the most important work of the French New Wave, and why is it so important? What is a French New Wave novel and why is it so important? Which French film was the most important since Jean-Luc Godard's Cahiers du Cinéma? Why is it so important?
+
+To be honest, my answer to most questions would probably be "why not?" If it's really a good question, I could probably answer it in a very succinct fashion. I think it's important to understand that the French New Wave was a
+
+Semantic Similarity to Knowledge Graph Data: 0.43
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: include
+❌ MISSING KEYWORD: academy
+❌ MISSING KEYWORD: chalamet
+❌ MISSING KEYWORD: globe
+❌ MISSING KEYWORD: accolades
+❌ MISSING KEYWORD: awards
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: addition
+❌ MISSING KEYWORD: nominations
+❌ MISSING KEYWORD: guild

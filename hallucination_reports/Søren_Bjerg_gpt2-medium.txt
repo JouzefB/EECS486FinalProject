@@ -1,0 +1,132 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Søren Bjerg ===
+Write a short biography of Søren Bjerg. If applicable, consider writing a short introduction to him and a short autobiography about him.
+
+Describe the nature of your relationship with Søren Bjerg, and how it developed.
+
+I met Søren while visiting the museum in Oslo. I worked there for three months, and then moved to Oslo for my own job as a bookseller. In my own way, Søren was very special to me. I had met him before, at my first job, and had always felt special to him. I thought he was very cool and had a very different style from other authors. I am very lucky to have worked with him. He was my partner for a long time. I wanted to meet him.
+
+What did you think of the book?
+
+I liked it very much, but there were certain points where I felt I could not understand.
+
+Why did you choose to publish it?
+
+
+=== Wikipedia Summary ===
+Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series (LCS) team. He followed that with shorter stints as a head coach for TSM, and again as a mid laner for Team Liquid and 100 Thieves. He is one of the winningest North American players of all time with 6 domestic titles and 10 finals appearances, and has never finished below 5th place. Internationally, he won IEM Katowice 2015 and qualified to the League of Legends World Championship 5 times, but only advanced past the group stage once. He is best known as the greatest North American player for his individual prowess as a mid laner, where he was a perennial MVP and 1st Team All Pro candidate; he won 4 MVP titles, 3 playoff MVP titles, and 6 1st Team All Pro titles. He has never finished below 4th in All Pro voting, and is the current all-time LCS kills leader. He retired from competitive eSports in April of 2023.
+
+Semantic Similarity: 0.32
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Søren Bjerg (ID: Q19959009) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg
+place of birth: Holstebro
+sex or gender: male
+country of citizenship: Kingdom of Denmark
+instance of: human
+member of sports team: 100 Thieves
+occupation: professional gamer
+Commons category: Bjergsen
+date of birth: 1996-02-21T00:00:00Z
+sport: esports
+Freebase ID: /m/0134y3_9
+family name: Bjerg
+given name: Søren
+sponsor: Red Bull GmbH
+name in native language: Søren Bjerg
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short
+
+Semantic Similarity to Wikidata: 0.47
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg
+❌ MISSING: place of birth: Holstebro
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: Kingdom of Denmark
+❌ MISSING: instance of: human
+❌ MISSING: member of sports team: 100 Thieves
+❌ MISSING: occupation: professional gamer
+❌ MISSING: Commons category: Bjergsen
+❌ MISSING: date of birth: 1996-02-21T00:00:00Z
+❌ MISSING: sport: esports
+❌ MISSING: Freebase ID: /m/0134y3_9
+✅ Mentioned: family name: Bjerg
+✅ Mentioned: given name: Søren
+❌ MISSING: sponsor: Red Bull GmbH
+✅ Mentioned: name in native language: Søren Bjerg
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.23
+❌ place of birth: Holstebro — Similarity: 0.13
+❌ sex or gender: male — Similarity: 0.07
+❌ country of citizenship: Kingdom of Denmark — Similarity: 0.21
+❌ instance of: human — Similarity: 0.10
+❌ member of sports team: 100 Thieves — Similarity: 0.13
+❌ occupation: professional gamer — Similarity: 0.12
+❌ Commons category: Bjergsen — Similarity: 0.36
+❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.15
+❌ sport: esports — Similarity: 0.12
+❌ Freebase ID: /m/0134y3_9 — Similarity: 0.14
+❌ family name: Bjerg — Similarity: 0.46
+❌ given name: Søren — Similarity: 0.42
+❌ sponsor: Red Bull GmbH — Similarity: 0.04
+✅ name in native language: Søren Bjerg — Similarity: 0.53
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Søren Bjerg ===
+Bjergsen. Danish gamer. Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series team.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Søren Bjerg.
+
+Read the letter of support from Bjerg's mother, Johanna Bjergsen, in Norway, which asks that the newspaper not give the interview. She says that the letter is "not an apology, but rather an invitation to me and my family to reconsider the editorial decision to publish this article."
+
+Read the letter from the Norwegian newspaper Dagens Næringsliv.
+
+Read the letter from the Norwegian newspaper Nordea.
+
+Read the letter from the Norwegian newspaper NTB.
+
+Read the letter from the Norwegian newspaper NRK.
+
+Read the letter from Søren Bjerg's family and friends.
+
+Read the letter from the Norwegian newspaper NTB.
+
+Read the letter from the Norwegian newspaper NTB.
+
+Read the letter from the Norwegian newspaper Dagens Næringsliv.
+
+Read the letter from the Norwegian newspaper NTB.
+
+Read the letter from
+
+Semantic Similarity to Knowledge Graph Data: 0.45
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: laner
+❌ MISSING KEYWORD: championship
+❌ MISSING KEYWORD: series
+❌ MISSING KEYWORD: solomid
+❌ MISSING KEYWORD: danish
+❌ MISSING KEYWORD: starting
+❌ MISSING KEYWORD: league
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: better
+❌ MISSING KEYWORD: years

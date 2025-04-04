@@ -1,0 +1,188 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Rosalind Franklin ===
+Write a short biography of Rosalind Franklin. She also wrote a biography of Dr. Franklin.
+
+Write a short biography of John F. Kennedy.
+
+Write a short biography of Franklin D. Roosevelt.
+
+Write a short biography of Abraham Lincoln.
+
+Write a short biography of Theodore Roosevelt.
+
+Write a short biography of Woodrow Wilson.
+
+Write a short biography of Andrew Jackson.
+
+Write a short biography of John Quincy Adams.
+
+Write a short biography of William Harrison.
+
+Write a short biography of Thomas Jefferson.
+
+Write a short biography of John Quincy Adams.
+
+Write a short biography of Theodore Roosevelt.
+
+Write a short biography of Henry Clay.
+
+Write a short biography of James Madison.
+
+Write a short biography of James Monroe.
+
+Write a short biography of James Madison.
+
+Write a short biography of George Washington.
+
+Write a short biography of William Henry Harrison.
+
+
+
+=== Wikipedia Summary ===
+Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite. Although her works on coal and viruses were appreciated in her lifetime, Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the "wronged heroine", the "dark lady of DNA", the "forgotten heroine", a "feminist icon", and the "Sylvia Plath of molecular biology".
+
+Semantic Similarity: 0.26
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Rosalind Franklin (ID: Q7474) ===
+Library of Congress authority ID: n2001016339
+Bibliothèque nationale de France ID: 14486659t
+IdRef ID: 083368078
+NDL Authority ID: 00620682
+Commons category: Rosalind Franklin
+archives at: Wellcome Collection
+cause of death: ovarian cancer
+academic degree: Doctor of Philosophy
+Find a Grave memorial ID: 5858699
+date of birth: 1920-07-25T00:00:00Z
+date of death: 1958-04-16T00:00:00Z
+Freebase ID: /m/0mgnt
+NL CR AUT ID: xx0059521
+family name: Franklin
+given name: Rosalind
+student: John Thomas Finch
+SELIBR ID: 313786
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin.
+
+
+2. Write a short biography of H. L. Mencken.
+
+
+3. Write a short biography of Charles Dickens.
+
+
+4. Write a brief biography of C. S. Lewis.
+
+
+5. Write a short biography of T. S. Eliot.
+
+
+6. Write a short biography of H. L. Mencken.
+
+
+7. Write a short biography of H. L. Mencken.
+
+
+8. Write a short biography of Charles Dickens.
+
+
+9. Write a short biography of T. S. Eliot.
+
+
+10. Write a bio-biography of T. S. Eliot.
+
+
+11. Write a short biography of H. L. Mencken.
+
+What to Write About
+
+
+I recommend that you write about your career in your first book. The more you write, the more specific you'll get. So write a
+
+Semantic Similarity to Wikidata: 0.29
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Library of Congress authority ID: n2001016339
+❌ MISSING: Bibliothèque nationale de France ID: 14486659t
+❌ MISSING: IdRef ID: 083368078
+❌ MISSING: NDL Authority ID: 00620682
+✅ Mentioned: Commons category: Rosalind Franklin
+❌ MISSING: archives at: Wellcome Collection
+❌ MISSING: cause of death: ovarian cancer
+❌ MISSING: academic degree: Doctor of Philosophy
+❌ MISSING: Find a Grave memorial ID: 5858699
+❌ MISSING: date of birth: 1920-07-25T00:00:00Z
+❌ MISSING: date of death: 1958-04-16T00:00:00Z
+❌ MISSING: Freebase ID: /m/0mgnt
+❌ MISSING: NL CR AUT ID: xx0059521
+✅ Mentioned: family name: Franklin
+✅ Mentioned: given name: Rosalind
+❌ MISSING: student: John Thomas Finch
+❌ MISSING: SELIBR ID: 313786
+
+=== Semantic Match per Fact ===
+❌ Library of Congress authority ID: n2001016339 — Similarity: 0.05
+❌ Bibliothèque nationale de France ID: 14486659t — Similarity: 0.10
+❌ IdRef ID: 083368078 — Similarity: -0.03
+❌ NDL Authority ID: 00620682 — Similarity: 0.01
+❌ Commons category: Rosalind Franklin — Similarity: 0.21
+❌ archives at: Wellcome Collection — Similarity: 0.14
+❌ cause of death: ovarian cancer — Similarity: 0.07
+❌ academic degree: Doctor of Philosophy — Similarity: 0.22
+❌ Find a Grave memorial ID: 5858699 — Similarity: 0.06
+❌ date of birth: 1920-07-25T00:00:00Z — Similarity: 0.09
+❌ date of death: 1958-04-16T00:00:00Z — Similarity: 0.13
+❌ Freebase ID: /m/0mgnt — Similarity: -0.00
+❌ NL CR AUT ID: xx0059521 — Similarity: 0.13
+❌ family name: Franklin — Similarity: 0.17
+❌ given name: Rosalind — Similarity: 0.23
+❌ student: John Thomas Finch — Similarity: 0.26
+❌ SELIBR ID: 313786 — Similarity: 0.04
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Rosalind Franklin ===
+Rosalind Franklin. British chemist. Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin.
+
+You are now ready to start taking the test.
+
+The data will be sent to you immediately after you have finished filling in the Test Center form.
+
+The data will be sent to you once you have finished the test.
+
+To get the test results, you will need to complete a quick survey before the next test is due.
+
+The survey will ask you to list what specific pieces of information you remember from Rosalind Franklin's life.
+
+Also, you will be asked to answer a few simple questions that will help us determine your overall profile for the personality test.
+
+The following questions are part of the personality test.
+
+1. How would you describe yourself?
+
+2. What is your favorite memory?
+
+3. What is your greatest weakness?
+
+4. What is the one thing you are most afraid of?
+
+5. What is your biggest fear?
+
+Semantic Similarity to Knowledge Graph Data: 0.34
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: molecular
+❌ MISSING KEYWORD: structures
+❌ MISSING KEYWORD: understanding
+❌ MISSING KEYWORD: elsie
+❌ MISSING KEYWORD: central
+❌ MISSING KEYWORD: franklin
+❌ MISSING KEYWORD: british

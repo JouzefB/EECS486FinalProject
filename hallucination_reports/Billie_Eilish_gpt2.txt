@@ -1,0 +1,125 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Billie Eilish ===
+Write a short biography of Billie Eilish.
+
+The book is a collection of essays by Eilish, who was born in New York City in 1885. The book is a collection of essays by Eilish, who was born in New York City in 1885.
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Bill
+
+=== Wikipedia Summary ===
+Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows. In 2017, she released her debut extended play (EP), Don't Smile at Me. Commercially successful, it reached the top 15 of record charts in numerous countries, including the US, UK, Canada, and Australia.
+
+Semantic Similarity: 0.22
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Billie Eilish (ID: Q29564107) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+place of birth: Los Angeles
+sex or gender: female
+father: Patrick O'Connell
+mother: Maggie Baird
+country of citizenship: United States
+instance of: human
+sexual orientation: non-heterosexuality
+field of work: music
+native language: American English
+occupation: dancer
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+genre: alternative pop
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+award received: MTV Europe Music Award for Best Song
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+The book is a collection of essays by Eilish, who was born in New York City in 1885. The book is a collection of essays by Eilish, who was born in New York City in 1885.
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Bill
+
+Semantic Similarity to Wikidata: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+❌ MISSING: place of birth: Los Angeles
+❌ MISSING: sex or gender: female
+❌ MISSING: father: Patrick O'Connell
+❌ MISSING: mother: Maggie Baird
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+❌ MISSING: sexual orientation: non-heterosexuality
+❌ MISSING: field of work: music
+❌ MISSING: native language: American English
+❌ MISSING: occupation: dancer
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+❌ MISSING: genre: alternative pop
+❌ MISSING: logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+❌ MISSING: award received: MTV Europe Music Award for Best Song
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg — Similarity: 0.29
+❌ place of birth: Los Angeles — Similarity: 0.25
+❌ sex or gender: female — Similarity: 0.08
+❌ father: Patrick O'Connell — Similarity: 0.23
+❌ mother: Maggie Baird — Similarity: 0.15
+❌ country of citizenship: United States — Similarity: 0.08
+❌ instance of: human — Similarity: 0.05
+❌ sexual orientation: non-heterosexuality — Similarity: 0.10
+❌ field of work: music — Similarity: 0.22
+❌ native language: American English — Similarity: 0.21
+❌ occupation: dancer — Similarity: 0.13
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg — Similarity: 0.32
+❌ genre: alternative pop — Similarity: 0.12
+❌ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg — Similarity: 0.37
+❌ award received: MTV Europe Music Award for Best Song — Similarity: 0.03
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Billie Eilish ===
+Billie Eilish. American singer-songwriter and musician. Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+The book is a collection of essays by Eilish, who was born in New York City in 1885. The book is a collection of essays by Eilish, who was born in New York City in 1885.
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Billie Eilish is available online at the following link: http://www.billieeilish.com/
+
+Eilish's biography of Bill
+
+Semantic Similarity to Knowledge Graph Data: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: baird
+❌ MISSING KEYWORD: brother
+❌ MISSING KEYWORD: collaborates
+❌ MISSING KEYWORD: first
+❌ MISSING KEYWORD: debut
+❌ MISSING KEYWORD: produced
+❌ MISSING KEYWORD: music
+❌ MISSING KEYWORD: public
+❌ MISSING KEYWORD: gained
+❌ MISSING KEYWORD: single

@@ -1,0 +1,114 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Serena Williams ===
+Write a short biography of Serena Williams.
+
+Write a short biography of Serena Williams. Learn more about your job and career at the Center for Talent Innovation.
+
+Learn more about your job and career at the Center for Talent Innovation. Work with a professional mentor.
+
+Work with a professional mentor. Learn about the most important skills needed to succeed in the workplace.
+
+Learn about the most important skills needed to succeed in the workplace. Apply for a job with the Center for Talent Innovation, a nonprofit organization that connects employers with qualified candidates.
+
+Apply for a job with the Center for Talent Innovation, a nonprofit organization that connects employers with qualified candidates. Participate in a leadership training program at one of the Center's partners.
+
+Participate in a leadership training program at one of the Center's partners. Learn about career opportunities at the Center for Talent Innovation.
+
+How to Apply
+
+For more information about how to apply, see the Center for Talent Innovation
+
+=== Wikipedia Summary ===
+Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 319 weeks, and finished as the year-end No. 1 five times. Williams won 73 WTA Tour-level singles titles, including 23 major women's singles titles — the most in the Open Era, and the second-most of all time. She is the only player to accomplish a career Golden Slam in both singles and doubles.
+
+Semantic Similarity: 0.37
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Serena Williams (ID: Q11459) ===
+Rotten Tomatoes ID: celebrity/serena_williams
+Notable Names Database: 205/000023136
+Munzinger Sport number: 01000005440
+Gran Enciclopèdia Catalana ID (former scheme): 0256196
+partner in business or sport: Venus Williams
+eye color: dark brown
+described by source: Notable Black American Women
+participant in: 2007 Fed Cup
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+"I don't think there's any doubt that Serena Williams is a special person, and a unique person," Ivey said. "She's one of the very best golfers on the planet.... She's earned that privilege. She's earned her place in history. She's earned that right to be the best."
+
+Ivey said he was honored to have the chance to coach Williams.
+
+"I was honored to coach her. I think she's exceptional," Ivey said. "She's a talented individual. I think she's a special person and a special person. I think she's earned that place in history."
+
+Williams is the first woman to win two major singles titles. She was named the 2011 U.S. Open champion by Roger Federer and won the 2011 Australian Open, and the 2012 U.S. Open, which was played in Australia.
+
+In January, Williams became
+
+Semantic Similarity to Wikidata: 0.39
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Rotten Tomatoes ID: celebrity/serena_williams
+❌ MISSING: Notable Names Database: 205/000023136
+❌ MISSING: Munzinger Sport number: 01000005440
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0256196
+❌ MISSING: partner in business or sport: Venus Williams
+❌ MISSING: eye color: dark brown
+❌ MISSING: described by source: Notable Black American Women
+❌ MISSING: participant in: 2007 Fed Cup
+
+=== Semantic Match per Fact ===
+❌ Rotten Tomatoes ID: celebrity/serena_williams — Similarity: 0.40
+❌ Notable Names Database: 205/000023136 — Similarity: 0.11
+❌ Munzinger Sport number: 01000005440 — Similarity: 0.18
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0256196 — Similarity: 0.02
+✅ partner in business or sport: Venus Williams — Similarity: 0.56
+❌ eye color: dark brown — Similarity: -0.02
+❌ described by source: Notable Black American Women — Similarity: 0.26
+❌ participant in: 2007 Fed Cup — Similarity: 0.19
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Serena Williams ===
+Serena Williams. American former tennis player. Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association for 319 weeks, and finished as the year-end No. 1 five times.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+How to Find a Good Job for Women in Silicon Valley
+
+You can't build a successful startup alone. You need to know the right skills to apply to the right jobs. Learn the 4 essential skills you need to know to become a successful startup founder.
+
+The Real Meaning of "Lean In"
+
+Lean In is a social movement by which women are encouraged to become leaders in their communities using their skills and influence.
+
+The 5 Steps to Make Your Life a Better Place
+
+The 5 Steps to Make Your Life a Better Place: 5 key steps to becoming a better person.
+
+How to Break the Cycle of Unwanted Sex
+
+Fruit is what you eat. What you eat is what you become. Join over 100,000 people who are already doing exactly this.
+
+The Power of Being Loved
+
+What is love? It's the love that is not reciprocated. And it
+
+Semantic Similarity to Knowledge Graph Data: 0.25
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: association
+❌ MISSING KEYWORD: ranked
+❌ MISSING KEYWORD: world
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: williams
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: singles
+❌ MISSING KEYWORD: jameka
+❌ MISSING KEYWORD: finished
+❌ MISSING KEYWORD: tennis

@@ -1,0 +1,99 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Cleopatra ===
+Write a short biography of Cleopatra.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cle
+
+=== Wikipedia Summary ===
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+Semantic Similarity: 0.39
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+said to be the same as: Kleopatra
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cle
+
+Semantic Similarity to Wikidata: 0.33
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: said to be the same as: Kleopatra
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+
+=== Semantic Match per Fact ===
+❌ said to be the same as: Kleopatra — Similarity: 0.01
+❌ native label: Cleopatra — Similarity: 0.38
+❌ different from: Cleopatra — Similarity: 0.44
+❌ Soundex: C413 — Similarity: -0.06
+❌ Cologne phonetics: 45127 — Similarity: 0.05
+❌ Caverphone: KLPTR1 — Similarity: -0.09
+❌ instance of: female given name — Similarity: 0.09
+❌ writing system: Latin script — Similarity: 0.13
+❌ Commons category: Cleopatra (given name) — Similarity: 0.36
+❌ language of work or name: Italian — Similarity: 0.09
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.17
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Cleopatra ===
+Cleopatra. Queen of the Ptolemaic Kingdom of Egypt. Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cle
+
+Semantic Similarity to Knowledge Graph Data: 0.35
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: queen
+❌ MISSING KEYWORD: philopator
+❌ MISSING KEYWORD: egypt
+❌ MISSING KEYWORD: cleopatra
+❌ MISSING KEYWORD: hellenistic
+❌ MISSING KEYWORD: ptolemaic
+❌ MISSING KEYWORD: kingdom
+❌ MISSING KEYWORD: active

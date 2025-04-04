@@ -1,0 +1,137 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Billie Eilish ===
+Write a short biography of Billie Eilish.
+
+The Story
+
+Alyssa is a young girl who loves playing dress up. Her friends call her "The Little Mermaid". She is a shy girl and prefers to hide under a table. She is not a fan of people, but likes to have fun. She is a bit of a tomboy. She likes to dress up, play dress up, and play dress up.
+
+Her first doll was a pink princess doll that she made herself. She was born with the name "Alyssa" and "Lilly". She doesn't like to use feminine pronouns. Her favorite color is pink.
+
+She has a crush on the prince who is her prince. She has three dolls to play with: a dragon, a mermaid, and a mermaid with magic.
+
+Her favorite color is pink.
+
+Her favorite book is The Little Mermaid.
+
+Her favorite song is "The Little Mermaid
+
+=== Wikipedia Summary ===
+Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows. In 2017, she released her debut extended play (EP), Don't Smile at Me. Commercially successful, it reached the top 15 of record charts in numerous countries, including the US, UK, Canada, and Australia.
+
+Semantic Similarity: 0.29
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Billie Eilish (ID: Q29564107) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+place of birth: Los Angeles
+sex or gender: female
+father: Patrick O'Connell
+mother: Maggie Baird
+country of citizenship: United States
+instance of: human
+sexual orientation: non-heterosexuality
+field of work: music
+native language: American English
+occupation: dancer
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+genre: alternative pop
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+award received: MTV Europe Music Award for Best Song
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+Share the experience of watching the film with your friends.
+
+Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends.
+
+Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends.
+
+Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching the film with your friends. Share the experience of watching
+
+Semantic Similarity to Wikidata: 0.29
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+❌ MISSING: place of birth: Los Angeles
+❌ MISSING: sex or gender: female
+❌ MISSING: father: Patrick O'Connell
+❌ MISSING: mother: Maggie Baird
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+❌ MISSING: sexual orientation: non-heterosexuality
+❌ MISSING: field of work: music
+❌ MISSING: native language: American English
+❌ MISSING: occupation: dancer
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+❌ MISSING: genre: alternative pop
+❌ MISSING: logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+❌ MISSING: award received: MTV Europe Music Award for Best Song
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg — Similarity: 0.20
+❌ place of birth: Los Angeles — Similarity: 0.09
+❌ sex or gender: female — Similarity: 0.12
+❌ father: Patrick O'Connell — Similarity: 0.10
+❌ mother: Maggie Baird — Similarity: -0.03
+❌ country of citizenship: United States — Similarity: 0.00
+❌ instance of: human — Similarity: 0.07
+❌ sexual orientation: non-heterosexuality — Similarity: 0.12
+❌ field of work: music — Similarity: 0.12
+❌ native language: American English — Similarity: 0.21
+❌ occupation: dancer — Similarity: 0.04
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg — Similarity: 0.19
+❌ genre: alternative pop — Similarity: 0.12
+❌ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg — Similarity: 0.28
+❌ award received: MTV Europe Music Award for Best Song — Similarity: 0.07
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Billie Eilish ===
+Billie Eilish. American singer-songwriter and musician. Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+Share the results of a poll about the best season of your life.
+
+Write a short biography of a writer who has influenced your life.
+
+Write a short biography of a writer who has inspired your life.
+
+Write a short biography of a writer who has inspired your life.
+
+Write a short biography of a writer who has inspired your life.
+
+Share the results of a poll about the best music of your life.
+
+Write a short biography of a writer who has inspired your life.
+
+Share the results of a poll about the best music of your life.
+
+Write a short biography of a writer who has inspired your life.
+
+Share the results of a poll about the best music of your life.
+
+Write a short biography of a writer who has inspired your life.
+
+Share the results of a poll about the best music of your life.
+
+Write a
+
+Semantic Similarity to Knowledge Graph Data: 0.28
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: written
+❌ MISSING KEYWORD: first
+❌ MISSING KEYWORD: single
+❌ MISSING KEYWORD: attention
+❌ MISSING KEYWORD: gained
+❌ MISSING KEYWORD: eilish
+❌ MISSING KEYWORD: public
+❌ MISSING KEYWORD: debut
+❌ MISSING KEYWORD: brother
+❌ MISSING KEYWORD: american

@@ -1,0 +1,74 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Serena Williams ===
+Write a short biography of Serena Williams.
+
+The first time I saw Serena Williams was in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night
+
+=== Wikipedia Summary ===
+Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 319 weeks, and finished as the year-end No. 1 five times. Williams won 73 WTA Tour-level singles titles, including 23 major women's singles titles — the most in the Open Era, and the second-most of all time. She is the only player to accomplish a career Golden Slam in both singles and doubles.
+
+Semantic Similarity: 0.49
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Serena Williams (ID: Q11459) ===
+Rotten Tomatoes ID: celebrity/serena_williams
+Notable Names Database: 205/000023136
+Munzinger Sport number: 01000005440
+Gran Enciclopèdia Catalana ID (former scheme): 0256196
+partner in business or sport: Venus Williams
+eye color: dark brown
+described by source: Notable Black American Women
+participant in: 2007 Fed Cup
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+The first time I saw Serena Williams was in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night
+
+Semantic Similarity to Wikidata: 0.40
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Rotten Tomatoes ID: celebrity/serena_williams
+❌ MISSING: Notable Names Database: 205/000023136
+❌ MISSING: Munzinger Sport number: 01000005440
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0256196
+❌ MISSING: partner in business or sport: Venus Williams
+❌ MISSING: eye color: dark brown
+❌ MISSING: described by source: Notable Black American Women
+❌ MISSING: participant in: 2007 Fed Cup
+
+=== Semantic Match per Fact ===
+❌ Rotten Tomatoes ID: celebrity/serena_williams — Similarity: 0.49
+❌ Notable Names Database: 205/000023136 — Similarity: 0.12
+❌ Munzinger Sport number: 01000005440 — Similarity: 0.07
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0256196 — Similarity: 0.10
+❌ partner in business or sport: Venus Williams — Similarity: 0.44
+❌ eye color: dark brown — Similarity: 0.11
+❌ described by source: Notable Black American Women — Similarity: 0.25
+❌ participant in: 2007 Fed Cup — Similarity: 0.10
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Serena Williams ===
+Serena Williams. American former tennis player. Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association for 319 weeks, and finished as the year-end No. 1 five times.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+The first time I saw Serena Williams was in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night in the middle of the night
+
+Semantic Similarity to Knowledge Graph Data: 0.50
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: association
+❌ MISSING KEYWORD: singles
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: world
+❌ MISSING KEYWORD: ranked
+❌ MISSING KEYWORD: tennis
+❌ MISSING KEYWORD: former
+❌ MISSING KEYWORD: finished
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: jameka

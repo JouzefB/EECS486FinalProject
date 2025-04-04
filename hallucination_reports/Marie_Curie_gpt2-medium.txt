@@ -1,0 +1,102 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Marie Curie ===
+Write a short biography of Marie Curie. The biography will focus on her contribution to science and engineering.
+
+What is Marie Curie Research?
+
+Marie Curie became the first woman to receive the Nobel Prize for Physiology or Medicine in 1900 for her discovery of the structure of DNA. She was also the first to publish her findings in the medical journal, Nature, in 1900. In the 1940s, she began research on the effects of radiation on the brain. Following the passage of the Manhattan Project, her research on the effects of gamma radiation on human beings, which led to her discovery of a form of cancer called sarcoma, led to the invention of the atom bomb.
+
+In the 1950s, Marie Curie became the first woman in history to be awarded the Nobel Prize for Literature. Her work on the relationship between human thought and language became the cornerstone of modern science. The Nobel Committee has awarded the Nobel Peace Prize to Marie Curie since 1979.
+
+
+
+=== Wikipedia Summary ===
+Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+Semantic Similarity: 0.70
+✅ GPT-2 output looks consistent.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Marie Curie (ID: Q7186) ===
+MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+member of: Commission on Isotopic Abundances and Atomic Weights
+archives at: Bibliothèque nationale de France
+cause of death: aplastic anemia
+academic degree: doctorate
+Find a Grave memorial ID: 1613
+Mathematics Genealogy Project ID: 177944
+residence: Paris
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+I have been working on a series of articles about Marie Curie, both on the internet and in print, for the British Council. I have not yet written a book, but I am still looking for sponsors.
+
+I would like to thank the British Council, the French Academy, and the French Committee for Scientific Research for their support.
+
+Marie Curie in the World
+
+Marie Curie was born into a wealthy French family in 1831. She was trained as a physicist. However, she never had any formal scientific training and it was only in her teens that she began to explore the possibilities that would lie ahead for science.
+
+Curie entered the École Normale Supérieure in Paris in 1849 and joined the faculty of the École Nationale des Sciences in Paris in 1850. The research she was doing there led to her discovery of radioactive decay of elements.
+
+To avoid detection
+
+Semantic Similarity to Wikidata: 0.34
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+❌ MISSING: member of: Commission on Isotopic Abundances and Atomic Weights
+❌ MISSING: archives at: Bibliothèque nationale de France
+❌ MISSING: cause of death: aplastic anemia
+❌ MISSING: academic degree: doctorate
+❌ MISSING: Find a Grave memorial ID: 1613
+❌ MISSING: Mathematics Genealogy Project ID: 177944
+✅ Mentioned: residence: Paris
+
+=== Semantic Match per Fact ===
+❌ MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d — Similarity: 0.05
+❌ member of: Commission on Isotopic Abundances and Atomic Weights — Similarity: 0.20
+❌ archives at: Bibliothèque nationale de France — Similarity: 0.45
+❌ cause of death: aplastic anemia — Similarity: 0.03
+❌ academic degree: doctorate — Similarity: 0.16
+❌ Find a Grave memorial ID: 1613 — Similarity: 0.10
+❌ Mathematics Genealogy Project ID: 177944 — Similarity: 0.21
+❌ residence: Paris — Similarity: 0.29
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Marie Curie ===
+Marie Curie. Polish-French physicist and chemist. Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+What is your favorite type of coffee?
+
+I love coffee. It's the best thing in the world. I think a lot of people think of coffee as a drug, but it's actually a very good thing. It's helpful, it's easy to drink, it's easy to get drunk, it's a nice source of energy. There's a lot of science to it.
+
+What is the most important thing that you learned from being a coffee drinker?
+
+You have to enjoy it. If you enjoy it, you're going to enjoy it.
+
+What was the last coffee drink you had?
+
+I had a cup of coffee for breakfast for lunch yesterday and it was amazing. I mean, my mother and I had coffee for breakfast twice before she died and we loved them. I had a cup of coffee for lunch a couple days ago and it was amazing.
+
+What is one thing
+
+Semantic Similarity to Knowledge Graph Data: 0.32
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: conducted
+❌ MISSING KEYWORD: simply
+❌ MISSING KEYWORD: salomea
+❌ MISSING KEYWORD: known
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: pioneering
+❌ MISSING KEYWORD: polish
+❌ MISSING KEYWORD: research
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: maria

@@ -1,0 +1,146 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Timothée Chalamet ===
+Write a short biography of Timothée Chalamet. Tell us who you are and if you have any questions about your work.
+
+Timothée Chalamet is the author of a number of novels, including The Fifth Estate; A Passage to India, published in 2013. She is also the author of the short story collection The Little Prince, published in 1998.
+
+Timothée Chalamet is a graduate of the University of Chicago, earning her B.A. in English Literature in 2005. Her novel, The Little Prince, was selected by the National Book Critics Circle for two National Book Awards. Her short story collection, The Little Prince, won the Newbery Medal and the Hugo Award.
+
+Timothée Chalamet's other books include The Heart of a Tree, published in 2013 by Penguin Random House. She has also written a collection of poems, titled In the Dark, which won the Nebula Award for Best Novel.
+
+=== Wikipedia Summary ===
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+Semantic Similarity: 0.35
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+AllMovie person ID: p746400
+work period (start): 2008-01-01T00:00:00Z
+height: 1.78
+Swedish Film Database person ID: 461677
+Genius artist ID: Timothee-chalamet
+PORT person ID: 584913
+Models.com person ID: timothee-chalamet
+Scope.dk person ID: 75376
+Geni.com profile ID: 6000000073043978211
+Kinopoisk person ID: 1665224
+ČSFD person ID: 116432
+Danish National Filmography person ID: 256825
+TV.com ID: people/timothee-chalamet
+Filmportal ID: 53bb71a5e06044fe9b9284bb20c8285c
+Apple Music artist ID (U.S. version): 1470814478
+WikiTree person ID: Chalamet-4
+ISzDb person ID: 95315
+Ciné-Ressources person ID: 397215
+KINENOTE person ID: 311152
+sibling: Pauline Chalamet
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+5. Find out what your first show was, and what you've been doing since.
+
+6. Write a short bio of yourself about your career.
+
+7. Review the show you're most passionate about.
+
+8. Review the show you're most passionate about.
+
+9. Write a short biography of yourself about your career.
+
+10. Review the show you're most passionate about.
+
+11. Review the show you're most passionate about.
+
+12. Write a short biography of yourself about your career.
+
+13. Review the show you're most passionate about.
+
+14. Review the show you're most passionate about.
+
+15. Write a brief bio of yourself about your career.
+
+16. Review the show you're most passionate about.
+
+17. Review the show you're most passionate about.
+
+18. Review the show you
+
+Semantic Similarity to Wikidata: 0.35
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: AllMovie person ID: p746400
+❌ MISSING: work period (start): 2008-01-01T00:00:00Z
+❌ MISSING: height: 1.78
+❌ MISSING: Swedish Film Database person ID: 461677
+❌ MISSING: Genius artist ID: Timothee-chalamet
+❌ MISSING: PORT person ID: 584913
+❌ MISSING: Models.com person ID: timothee-chalamet
+❌ MISSING: Scope.dk person ID: 75376
+❌ MISSING: Geni.com profile ID: 6000000073043978211
+❌ MISSING: Kinopoisk person ID: 1665224
+❌ MISSING: ČSFD person ID: 116432
+❌ MISSING: Danish National Filmography person ID: 256825
+❌ MISSING: TV.com ID: people/timothee-chalamet
+❌ MISSING: Filmportal ID: 53bb71a5e06044fe9b9284bb20c8285c
+❌ MISSING: Apple Music artist ID (U.S. version): 1470814478
+❌ MISSING: WikiTree person ID: Chalamet-4
+❌ MISSING: ISzDb person ID: 95315
+❌ MISSING: Ciné-Ressources person ID: 397215
+❌ MISSING: KINENOTE person ID: 311152
+❌ MISSING: sibling: Pauline Chalamet
+
+=== Semantic Match per Fact ===
+❌ AllMovie person ID: p746400 — Similarity: 0.14
+❌ work period (start): 2008-01-01T00:00:00Z — Similarity: 0.05
+❌ height: 1.78 — Similarity: 0.06
+❌ Swedish Film Database person ID: 461677 — Similarity: 0.11
+❌ Genius artist ID: Timothee-chalamet — Similarity: 0.26
+❌ PORT person ID: 584913 — Similarity: -0.01
+❌ Models.com person ID: timothee-chalamet — Similarity: 0.26
+❌ Scope.dk person ID: 75376 — Similarity: 0.07
+❌ Geni.com profile ID: 6000000073043978211 — Similarity: 0.13
+❌ Kinopoisk person ID: 1665224 — Similarity: 0.13
+❌ ČSFD person ID: 116432 — Similarity: 0.07
+❌ Danish National Filmography person ID: 256825 — Similarity: 0.10
+❌ TV.com ID: people/timothee-chalamet — Similarity: 0.33
+❌ Filmportal ID: 53bb71a5e06044fe9b9284bb20c8285c — Similarity: 0.09
+❌ Apple Music artist ID (U.S. version): 1470814478 — Similarity: 0.05
+❌ WikiTree person ID: Chalamet-4 — Similarity: 0.16
+❌ ISzDb person ID: 95315 — Similarity: 0.10
+❌ Ciné-Ressources person ID: 397215 — Similarity: 0.09
+❌ KINENOTE person ID: 311152 — Similarity: 0.11
+❌ sibling: Pauline Chalamet — Similarity: 0.24
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Timothée Chalamet ===
+Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+If you have information that will help us identify the victim, please contact the police.
+
+Find the location of the crime scene on this map.
+
+Please note that these photos are from the police scanner. We do not have the location of the crime scene yet.
+
+Thank you for your help.
+
+Semantic Similarity to Knowledge Graph Data: 0.51
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: french
+❌ MISSING KEYWORD: guild
+❌ MISSING KEYWORD: screen
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: awards
+❌ MISSING KEYWORD: include
+❌ MISSING KEYWORD: golden
+❌ MISSING KEYWORD: nominations
+❌ MISSING KEYWORD: accolades
+❌ MISSING KEYWORD: actors

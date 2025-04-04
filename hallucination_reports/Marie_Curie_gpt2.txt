@@ -1,0 +1,164 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Marie Curie ===
+Write a short biography of Marie Curie.
+
+The book is a collection of essays by Marie Curie, published in 1885. The first of the three volumes is called "The Life of Marie Curie," and the second is called "The Life of Marie Curie."
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available
+
+=== Wikipedia Summary ===
+Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+Semantic Similarity: 0.48
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Marie Curie (ID: Q7186) ===
+Commons Creator page: Marie Curie
+birth name: Marya Salomea Skłodowska
+zbMATH author ID: curie.marie
+name in native language: Maria Skłodowska-Curie
+University of Barcelona authority ID (former scheme): a1028099
+BBC Things ID: 9a3ee39a-8c33-404a-b287-43c1fa7678da
+Canadiana Authorities ID (former scheme): 0061A1254
+NLP ID (old): a0000001180392
+British Museum person or institution ID: 146156
+GTAA ID: 90987
+National Portrait Gallery (London) person ID: mp146878
+genealogics.org person ID: I00726128
+different from: Maria Skłodowska
+CCAB ID: 000071431
+LibriVox author ID: 1551
+Project Gutenberg author ID: 39174
+Discogs artist ID: 2064516
+Erdős number: 7
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+The book is a collection of essays by Marie Curie, published in 1885. The first of the three volumes is called "The Life of Marie Curie," and the second is called "The Life of Marie Curie."
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available
+
+Semantic Similarity to Wikidata: 0.45
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+✅ Mentioned: Commons Creator page: Marie Curie
+❌ MISSING: birth name: Marya Salomea Skłodowska
+❌ MISSING: zbMATH author ID: curie.marie
+❌ MISSING: name in native language: Maria Skłodowska-Curie
+❌ MISSING: University of Barcelona authority ID (former scheme): a1028099
+❌ MISSING: BBC Things ID: 9a3ee39a-8c33-404a-b287-43c1fa7678da
+❌ MISSING: Canadiana Authorities ID (former scheme): 0061A1254
+❌ MISSING: NLP ID (old): a0000001180392
+❌ MISSING: British Museum person or institution ID: 146156
+❌ MISSING: GTAA ID: 90987
+❌ MISSING: National Portrait Gallery (London) person ID: mp146878
+❌ MISSING: genealogics.org person ID: I00726128
+❌ MISSING: different from: Maria Skłodowska
+❌ MISSING: CCAB ID: 000071431
+❌ MISSING: LibriVox author ID: 1551
+❌ MISSING: Project Gutenberg author ID: 39174
+❌ MISSING: Discogs artist ID: 2064516
+❌ MISSING: Erdős number: 7
+
+=== Semantic Match per Fact ===
+✅ Commons Creator page: Marie Curie — Similarity: 0.57
+❌ birth name: Marya Salomea Skłodowska — Similarity: 0.18
+✅ zbMATH author ID: curie.marie — Similarity: 0.51
+❌ name in native language: Maria Skłodowska-Curie — Similarity: 0.32
+❌ University of Barcelona authority ID (former scheme): a1028099 — Similarity: 0.06
+❌ BBC Things ID: 9a3ee39a-8c33-404a-b287-43c1fa7678da — Similarity: -0.05
+❌ Canadiana Authorities ID (former scheme): 0061A1254 — Similarity: -0.01
+❌ NLP ID (old): a0000001180392 — Similarity: -0.02
+❌ British Museum person or institution ID: 146156 — Similarity: 0.16
+❌ GTAA ID: 90987 — Similarity: -0.01
+❌ National Portrait Gallery (London) person ID: mp146878 — Similarity: 0.15
+❌ genealogics.org person ID: I00726128 — Similarity: 0.11
+❌ different from: Maria Skłodowska — Similarity: 0.22
+❌ CCAB ID: 000071431 — Similarity: -0.01
+❌ LibriVox author ID: 1551 — Similarity: 0.16
+❌ Project Gutenberg author ID: 39174 — Similarity: 0.23
+❌ Discogs artist ID: 2064516 — Similarity: 0.04
+❌ Erdős number: 7 — Similarity: -0.06
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Marie Curie ===
+Marie Curie. Polish-French physicist and chemist. Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+The book is a collection of essays by Marie Curie, published in 1885. The first of the three volumes is called "The Life of Marie Curie," and the second is called "The Life of Marie Curie."
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available online at the Library of Congress.
+
+Curie's biography is available
+
+Semantic Similarity to Knowledge Graph Data: 0.53
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: known
+❌ MISSING KEYWORD: maria
+❌ MISSING KEYWORD: research
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: polish
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: pioneering
+❌ MISSING KEYWORD: salomea
+❌ MISSING KEYWORD: simply
+❌ MISSING KEYWORD: conducted

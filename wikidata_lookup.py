@@ -1,9 +1,9 @@
+# wikidata_lookup.py
 import requests
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer, util
 import os
 
-# For Mac compatibility
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
@@ -41,7 +41,7 @@ def get_wikidata_facts(entity_id):
         facts[prop] = val
     return facts
 
-def run_wikidata_comparison(person):
+def run_wikidata_comparison(person, model_name="gpt2"):
     lines = []
     entity_id = get_wikidata_id(person)
     if not entity_id:
@@ -54,14 +54,12 @@ def run_wikidata_comparison(person):
     for prop, val in facts.items():
         lines.append(f"{prop}: {val}")
 
-    # GPT-2 output
-    lines.append(f"\n=== GPT-2 Generated Biography ===")
     prompt = f"Write a short biography of {person}."
-    generator = pipeline("text-generation", model="gpt2", device=-1)
+    generator = pipeline("text-generation", model=model_name, device=-1)
     gpt_output = generator(prompt, max_length=200, do_sample=True, temperature=0.7, truncation=True)[0]["generated_text"]
+    lines.append(f"\n=== GPT-2 Generated Biography ===")
     lines.append(gpt_output)
 
-    # Semantic comparison
     model = SentenceTransformer("all-MiniLM-L6-v2")
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
     embedding_wiki = model.encode(fact_text, convert_to_tensor=True)
@@ -70,7 +68,6 @@ def run_wikidata_comparison(person):
     lines.append(f"\nSemantic Similarity to Wikidata: {similarity:.2f}")
     lines.append("✅ GPT-2 output looks consistent with Wikidata." if similarity >= 0.6 else "⚠️ GPT-2 output is SUSPICIOUS.")
 
-    # Keyword match check
     lines.append("\n=== Fact Presence in GPT-2 Output (Keyword Check) ===")
     for prop, val in facts.items():
         if prop.lower() in gpt_output.lower() or val.lower() in gpt_output.lower():
@@ -78,7 +75,6 @@ def run_wikidata_comparison(person):
         else:
             lines.append(f"❌ MISSING: {prop}: {val}")
 
-    # Semantic per fact
     lines.append("\n=== Semantic Match per Fact ===")
     for prop, val in facts.items():
         fact = f"{prop}: {val}"
@@ -88,8 +84,3 @@ def run_wikidata_comparison(person):
         lines.append(f"{status} {fact} — Similarity: {score:.2f}")
 
     return "\n".join(lines)
-
-if __name__ == "__main__":
-    import sys
-    person = sys.argv[1] if len(sys.argv) > 1 else "Ada Lovelace"
-    print(run_wikidata_comparison(person))

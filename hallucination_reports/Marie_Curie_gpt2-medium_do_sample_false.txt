@@ -1,0 +1,74 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Marie Curie ===
+Write a short biography of Marie Curie.
+
+Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie.
+
+=== Wikipedia Summary ===
+Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+Semantic Similarity: 0.36
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Marie Curie (ID: Q7186) ===
+MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+member of: Commission on Isotopic Abundances and Atomic Weights
+archives at: Bibliothèque nationale de France
+cause of death: aplastic anemia
+academic degree: doctorate
+Find a Grave memorial ID: 1613
+Mathematics Genealogy Project ID: 177944
+residence: Paris
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie.
+
+Semantic Similarity to Wikidata: 0.22
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+❌ MISSING: member of: Commission on Isotopic Abundances and Atomic Weights
+❌ MISSING: archives at: Bibliothèque nationale de France
+❌ MISSING: cause of death: aplastic anemia
+❌ MISSING: academic degree: doctorate
+❌ MISSING: Find a Grave memorial ID: 1613
+❌ MISSING: Mathematics Genealogy Project ID: 177944
+❌ MISSING: residence: Paris
+
+=== Semantic Match per Fact ===
+❌ MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d — Similarity: 0.04
+❌ member of: Commission on Isotopic Abundances and Atomic Weights — Similarity: 0.09
+❌ archives at: Bibliothèque nationale de France — Similarity: 0.29
+❌ cause of death: aplastic anemia — Similarity: 0.03
+❌ academic degree: doctorate — Similarity: 0.11
+❌ Find a Grave memorial ID: 1613 — Similarity: 0.18
+❌ Mathematics Genealogy Project ID: 177944 — Similarity: 0.22
+❌ residence: Paris — Similarity: 0.08
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Marie Curie ===
+Marie Curie. Polish-French physicist and chemist. Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie. Write a short biography of Marie Curie.
+
+Semantic Similarity to Knowledge Graph Data: 0.41
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: pioneering
+❌ MISSING KEYWORD: known
+❌ MISSING KEYWORD: maria
+❌ MISSING KEYWORD: salomea
+❌ MISSING KEYWORD: conducted
+❌ MISSING KEYWORD: polish
+❌ MISSING KEYWORD: research
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: simply
+❌ MISSING KEYWORD: chemist

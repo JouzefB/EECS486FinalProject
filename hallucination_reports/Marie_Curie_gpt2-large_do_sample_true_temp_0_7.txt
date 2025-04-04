@@ -1,0 +1,151 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Marie Curie ===
+Write a short biography of Marie Curie.
+
+Choose a topic to write about.
+
+Write a short article about a topic.
+
+Write a short piece about a subject.
+
+Write a short piece about a subject.
+
+Choose a topic to write about.
+
+Write a short article about a topic.
+
+Write a short piece about a topic.
+
+Write a short piece about a topic.
+
+Choose a topic to write about.
+
+Write a short article about a topic.
+
+Write a short piece about a topic.
+
+Write a short piece about a topic.
+
+Choose a topic to write about.
+
+Write a short article about a topic.
+
+Write a short piece about a topic.
+
+Choose a topic to write about.
+
+Write a short article about a topic.
+
+Write a short piece about a topic.
+
+Choose a topic to write about.
+
+Write a short article about
+
+=== Wikipedia Summary ===
+Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+Semantic Similarity: 0.36
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Marie Curie (ID: Q7186) ===
+MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+member of: Commission on Isotopic Abundances and Atomic Weights
+archives at: Bibliothèque nationale de France
+cause of death: aplastic anemia
+academic degree: doctorate
+Find a Grave memorial ID: 1613
+Mathematics Genealogy Project ID: 177944
+residence: Paris
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie. Don't be shy.
+
+This is a very important step. Marie Curie was the first woman to win a Nobel Prize in Physics. While the Nobel is the most prestigious award in the sciences, having a good biography can be a great way to get noticed. If you're ready to be recognized, it's time to get started.
+
+How to Write a Great Biography
+
+You're probably already thinking this sounds simple, but I promise you that it isn't. There are many factors that go into writing a great biography, and you need to understand these before you begin.
+
+The first thing you need to understand is that it's hard to be famous. Not all people make it, and it's quite difficult to be a famous person when you've never made it. All you have to do is write a great biography.
+
+The second thing you need to know is that most people who have won a Nobel Prize
+
+Semantic Similarity to Wikidata: 0.23
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+❌ MISSING: member of: Commission on Isotopic Abundances and Atomic Weights
+❌ MISSING: archives at: Bibliothèque nationale de France
+❌ MISSING: cause of death: aplastic anemia
+❌ MISSING: academic degree: doctorate
+❌ MISSING: Find a Grave memorial ID: 1613
+❌ MISSING: Mathematics Genealogy Project ID: 177944
+❌ MISSING: residence: Paris
+
+=== Semantic Match per Fact ===
+❌ MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d — Similarity: 0.05
+❌ member of: Commission on Isotopic Abundances and Atomic Weights — Similarity: 0.11
+❌ archives at: Bibliothèque nationale de France — Similarity: 0.21
+❌ cause of death: aplastic anemia — Similarity: 0.07
+❌ academic degree: doctorate — Similarity: 0.14
+❌ Find a Grave memorial ID: 1613 — Similarity: 0.09
+❌ Mathematics Genealogy Project ID: 177944 — Similarity: 0.15
+❌ residence: Paris — Similarity: 0.08
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Marie Curie ===
+Marie Curie. Polish-French physicist and chemist. Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Marie Curie.
+
+Choose a picture of Marie Curie as a child.
+
+Choose a picture of Marie Curie as an adult.
+
+Choose a picture of Marie Curie as a Nobel Laureate.
+
+Choose the year of Marie Curie's birth.
+
+Choose the year of Marie Curie's death.
+
+Choose the year of Marie Curie's death.
+
+
+Then choose a picture of Marie Curie as an adult.
+
+Choose a picture of Marie Curie as a Nobel Laureate.
+
+Choose the year of Marie Curie's birth.
+
+Choose the year of Marie Curie's birth.
+
+Choose the year of Marie Curie's death.
+
+Choose the year of Marie Curie's death.
+
+
+Choose the year of Marie Curie's birth.
+
+Choose the year of Marie Curie's birth.
+
+Choose the year of Marie Curie's birth.
+
+
+Semantic Similarity to Knowledge Graph Data: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: pioneering
+❌ MISSING KEYWORD: conducted
+❌ MISSING KEYWORD: research
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: simply
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: salomea
+❌ MISSING KEYWORD: maria
+❌ MISSING KEYWORD: polish
+❌ MISSING KEYWORD: known

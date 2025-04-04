@@ -1,0 +1,118 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Rosalind Franklin ===
+Write a short biography of Rosalind Franklin. She was a member of the Masonic lodge in New England.
+
+"The Masonic lodge in New England was one of the oldest lodges in the United States."
+
+http://www.newamerican.com/documents/publications/history/masonic-masons-history-history.htm
+
+Rosalind Franklin, M.D., was a doctor who lived in Massachusetts from 1807 to 1825.
+
+"The oldest doctor in the United States, Rosalind Franklin was born in New England, and at the age of eleven years, she married a Masons elder, and the two of them moved to Boston. The elder, Thomas Hamilton, had been a member of the Lodge of the Rosicrucians in New England for several years. Rosalind had worked as a nurse in her father's household, and the two had a daughter, Mary, by him. A few years
+
+=== Wikipedia Summary ===
+Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite. Although her works on coal and viruses were appreciated in her lifetime, Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the "wronged heroine", the "dark lady of DNA", the "forgotten heroine", a "feminist icon", and the "Sylvia Plath of molecular biology".
+
+Semantic Similarity: 0.49
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Rosalind Franklin (ID: Q7474) ===
+Library of Congress authority ID: n2001016339
+Bibliothèque nationale de France ID: 14486659t
+IdRef ID: 083368078
+NDL Authority ID: 00620682
+Commons category: Rosalind Franklin
+archives at: Wellcome Collection
+cause of death: ovarian cancer
+academic degree: Doctor of Philosophy
+Find a Grave memorial ID: 5858699
+date of birth: 1920-07-25T00:00:00Z
+date of death: 1958-04-16T00:00:00Z
+Freebase ID: /m/0mgnt
+NL CR AUT ID: xx0059521
+family name: Franklin
+given name: Rosalind
+student: John Thomas Finch
+SELIBR ID: 313786
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin.
+
+Tell the story of Rosalind Franklin's life.
+
+The first part of your essay should be an essay about Rosalind Franklin. In this section, you should explain why Rosalind Franklin was a person of great beauty and grace and how she was a symbol of the beauty and grace of America. You should also explain why Rosalind was born in the state of North Carolina and how she became a slave.
+
+Then, in the third section, you should write a short essay about Rosalind Franklin's life. In this section, you should explain why Rosalind was a symbol of the beauty and grace of America.
+
+It is important that you do not become bogged down in the details of the Rosalind Franklin story. Your essay should be written so that the reader can understand Rosalind Franklin's life even if they have never heard of Rosalind Franklin.
+
+Once you
+
+Semantic Similarity to Wikidata: 0.34
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Library of Congress authority ID: n2001016339
+❌ MISSING: Bibliothèque nationale de France ID: 14486659t
+❌ MISSING: IdRef ID: 083368078
+❌ MISSING: NDL Authority ID: 00620682
+✅ Mentioned: Commons category: Rosalind Franklin
+❌ MISSING: archives at: Wellcome Collection
+❌ MISSING: cause of death: ovarian cancer
+❌ MISSING: academic degree: Doctor of Philosophy
+❌ MISSING: Find a Grave memorial ID: 5858699
+❌ MISSING: date of birth: 1920-07-25T00:00:00Z
+❌ MISSING: date of death: 1958-04-16T00:00:00Z
+❌ MISSING: Freebase ID: /m/0mgnt
+❌ MISSING: NL CR AUT ID: xx0059521
+✅ Mentioned: family name: Franklin
+✅ Mentioned: given name: Rosalind
+❌ MISSING: student: John Thomas Finch
+❌ MISSING: SELIBR ID: 313786
+
+=== Semantic Match per Fact ===
+❌ Library of Congress authority ID: n2001016339 — Similarity: 0.13
+❌ Bibliothèque nationale de France ID: 14486659t — Similarity: 0.03
+❌ IdRef ID: 083368078 — Similarity: -0.02
+❌ NDL Authority ID: 00620682 — Similarity: -0.00
+❌ Commons category: Rosalind Franklin — Similarity: 0.32
+❌ archives at: Wellcome Collection — Similarity: 0.08
+❌ cause of death: ovarian cancer — Similarity: 0.13
+❌ academic degree: Doctor of Philosophy — Similarity: 0.06
+❌ Find a Grave memorial ID: 5858699 — Similarity: 0.06
+❌ date of birth: 1920-07-25T00:00:00Z — Similarity: 0.06
+❌ date of death: 1958-04-16T00:00:00Z — Similarity: 0.10
+❌ Freebase ID: /m/0mgnt — Similarity: -0.01
+❌ NL CR AUT ID: xx0059521 — Similarity: 0.04
+❌ family name: Franklin — Similarity: 0.21
+❌ given name: Rosalind — Similarity: 0.30
+❌ student: John Thomas Finch — Similarity: 0.17
+❌ SELIBR ID: 313786 — Similarity: 0.03
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Rosalind Franklin ===
+Rosalind Franklin. British chemist. Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin. You have probably heard that she was an atheist, but I want to make sure you are aware that she was a very controversial figure who was an outspoken critic of religion.
+
+Rosa Parks stood up for civil rights, and was assassinated in 1955, and at the time was a civil rights activist. But there was a lot of controversy and controversy about her.
+
+I want to talk about the role religion played in her life, and how you could have such a strong and honest story from a young girl.
+
+MILLER: I think we do have a lot to learn about the lives of people who are famous and popular, like the Beatles. People who are famous, in other words, can't help but find themselves in situations where they're attacked and attacked, attacked by the press, attacked by others. It's difficult to get into the mind of these people about how they deal with a certain kind of violence.
+
+
+Semantic Similarity to Knowledge Graph Data: 0.34
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: understanding
+❌ MISSING KEYWORD: structures
+❌ MISSING KEYWORD: molecular
+❌ MISSING KEYWORD: british
+❌ MISSING KEYWORD: chemist
+❌ MISSING KEYWORD: elsie
+❌ MISSING KEYWORD: central
+❌ MISSING KEYWORD: franklin

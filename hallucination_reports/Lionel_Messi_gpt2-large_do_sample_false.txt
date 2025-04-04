@@ -1,0 +1,203 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Lionel Messi ===
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write
+
+=== Wikipedia Summary ===
+Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players of all time, Messi set numerous records for individual accolades won throughout his professional footballing career such as eight Ballon d'Or awards and eight times being named the world's best player by FIFA. He is the most decorated player in the history of professional football having won 45 team trophies, including twelve Big Five league titles, four UEFA Champions Leagues, two Copa Américas, and one FIFA World Cup. Messi holds the records for most European Golden Shoes (6), most goals in a calendar year (91), most goals for a single club, most goals (474), hat-tricks (36) and assists (192) in La Liga, most assists (18) and goal contributions (32) in the Copa América, most goal contributions (21) in the World Cup, most international appearances (191) and international goals (112) by a South American male, and the second-most in the latter category outright. A prolific goalscorer and creative playmaker, Messi has scored over 850 senior career goals and has provided over 380 assists for club and country.
+
+Semantic Similarity: 0.41
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Lionel Messi (ID: Q615) ===
+father: Jorge Messi
+spouse: Antonela Roccuzzo
+country of citizenship: Argentina
+instance of: human
+position held: UNICEF Goodwill Ambassador
+child: Ciro Messi Roccuzzo
+member of sports team: Inter Miami CF
+field of work: association football
+native language: Argentine Spanish
+occupation: association football player
+employer: Inter Miami CF
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
+league or competition: Ligue 1
+religion or worldview: Catholicism
+award received: Ballon d'Or
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write
+
+Semantic Similarity to Wikidata: 0.45
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: father: Jorge Messi
+❌ MISSING: spouse: Antonela Roccuzzo
+❌ MISSING: country of citizenship: Argentina
+❌ MISSING: instance of: human
+❌ MISSING: position held: UNICEF Goodwill Ambassador
+❌ MISSING: child: Ciro Messi Roccuzzo
+❌ MISSING: member of sports team: Inter Miami CF
+❌ MISSING: field of work: association football
+❌ MISSING: native language: Argentine Spanish
+❌ MISSING: occupation: association football player
+❌ MISSING: employer: Inter Miami CF
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
+❌ MISSING: league or competition: Ligue 1
+❌ MISSING: religion or worldview: Catholicism
+❌ MISSING: award received: Ballon d'Or
+
+=== Semantic Match per Fact ===
+❌ father: Jorge Messi — Similarity: 0.42
+❌ spouse: Antonela Roccuzzo — Similarity: 0.18
+❌ country of citizenship: Argentina — Similarity: 0.16
+❌ instance of: human — Similarity: 0.12
+❌ position held: UNICEF Goodwill Ambassador — Similarity: 0.11
+❌ child: Ciro Messi Roccuzzo — Similarity: 0.38
+❌ member of sports team: Inter Miami CF — Similarity: 0.20
+❌ field of work: association football — Similarity: 0.23
+❌ native language: Argentine Spanish — Similarity: 0.13
+❌ occupation: association football player — Similarity: 0.30
+❌ employer: Inter Miami CF — Similarity: 0.06
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg — Similarity: 0.09
+❌ league or competition: Ligue 1 — Similarity: 0.10
+❌ religion or worldview: Catholicism — Similarity: 0.08
+❌ award received: Ballon d'Or — Similarity: 0.21
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Lionel Messi ===
+Lionel Messi. Argentine footballer. Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write a short biography of Cristiano Ronaldo.
+
+Write a short biography of Lionel Messi.
+
+Write
+
+Semantic Similarity to Knowledge Graph Data: 0.39
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: forward
+❌ MISSING KEYWORD: major
+❌ MISSING KEYWORD: plays
+❌ MISSING KEYWORD: soccer
+❌ MISSING KEYWORD: messi
+❌ MISSING KEYWORD: captains
+❌ MISSING KEYWORD: miami
+❌ MISSING KEYWORD: inter
+❌ MISSING KEYWORD: andrés
+❌ MISSING KEYWORD: league

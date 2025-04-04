@@ -1,0 +1,154 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Barack Obama ===
+Write a short biography of Barack Obama.
+
+The book is a collection of essays, essays, and interviews with the president, including his first public remarks on the subject of race.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.
+
+=== Wikipedia Summary ===
+Barack Hussein Obama II is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.
+
+Semantic Similarity: 0.51
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Barack Obama (ID: Q76) ===
+video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+place of birth: Kapiolani Medical Center for Women and Children
+sex or gender: male
+father: Barack Obama Sr.
+mother: Stanley Ann Dunham
+spouse: Michelle Obama
+country of citizenship: Kenya
+instance of: human
+position held: member of the State Senate of Illinois
+child: Sasha Obama
+family: family of Barack Obama
+educated at: Harvard Law School
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Barack Obama.
+
+The book is a collection of essays, essays, and interviews with the president, including his first public remarks on the subject of race.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.
+
+Semantic Similarity to Wikidata: 0.49
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+❌ MISSING: place of birth: Kapiolani Medical Center for Women and Children
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Barack Obama Sr.
+❌ MISSING: mother: Stanley Ann Dunham
+❌ MISSING: spouse: Michelle Obama
+❌ MISSING: country of citizenship: Kenya
+❌ MISSING: instance of: human
+❌ MISSING: position held: member of the State Senate of Illinois
+❌ MISSING: child: Sasha Obama
+❌ MISSING: family: family of Barack Obama
+❌ MISSING: educated at: Harvard Law School
+
+=== Semantic Match per Fact ===
+❌ video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm — Similarity: 0.02
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg — Similarity: 0.30
+❌ place of birth: Kapiolani Medical Center for Women and Children — Similarity: 0.07
+❌ sex or gender: male — Similarity: 0.08
+❌ father: Barack Obama Sr. — Similarity: 0.50
+❌ mother: Stanley Ann Dunham — Similarity: 0.13
+❌ spouse: Michelle Obama — Similarity: 0.40
+❌ country of citizenship: Kenya — Similarity: 0.24
+❌ instance of: human — Similarity: 0.11
+❌ position held: member of the State Senate of Illinois — Similarity: 0.19
+❌ child: Sasha Obama — Similarity: 0.33
+❌ family: family of Barack Obama — Similarity: 0.49
+❌ educated at: Harvard Law School — Similarity: 0.22
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Barack Obama ===
+Barack Obama. 44th U.S. President. Barack Hussein Obama II is an American politician who was the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Barack Obama.
+
+The book is a collection of essays, essays, and interviews with the president, including his first public remarks on the subject of race.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.com.
+
+The book is available for pre-order at Amazon.
+
+Semantic Similarity to Knowledge Graph Data: 0.47
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: politician
+❌ MISSING KEYWORD: united
+❌ MISSING KEYWORD: hussein
+❌ MISSING KEYWORD: member
+❌ MISSING KEYWORD: obama
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: democratic
+❌ MISSING KEYWORD: states
+❌ MISSING KEYWORD: president

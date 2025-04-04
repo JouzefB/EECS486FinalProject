@@ -1,0 +1,161 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Timothée Chalamet ===
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography
+
+=== Wikipedia Summary ===
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+Semantic Similarity: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+place of birth: Manhattan
+sex or gender: male
+country of citizenship: France
+instance of: human
+educated at: PS 87 William T. Sherman School
+field of work: acting
+native language: American English
+occupation: actor
+religion or worldview: Judaism
+award received: Gold Derby Awards
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography
+
+Semantic Similarity to Wikidata: 0.33
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+❌ MISSING: place of birth: Manhattan
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: France
+❌ MISSING: instance of: human
+❌ MISSING: educated at: PS 87 William T. Sherman School
+❌ MISSING: field of work: acting
+❌ MISSING: native language: American English
+❌ MISSING: occupation: actor
+❌ MISSING: religion or worldview: Judaism
+❌ MISSING: award received: Gold Derby Awards
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.29
+❌ place of birth: Manhattan — Similarity: 0.09
+❌ sex or gender: male — Similarity: 0.07
+❌ country of citizenship: France — Similarity: 0.01
+❌ instance of: human — Similarity: 0.08
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.16
+❌ field of work: acting — Similarity: 0.14
+❌ native language: American English — Similarity: 0.19
+❌ occupation: actor — Similarity: 0.19
+❌ religion or worldview: Judaism — Similarity: 0.02
+❌ award received: Gold Derby Awards — Similarity: 0.11
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Timothée Chalamet ===
+Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography of Timothée Chalamet.
+
+Write a short biography
+
+Semantic Similarity to Knowledge Graph Data: 0.33
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: globe
+❌ MISSING KEYWORD: actors
+❌ MISSING KEYWORD: french
+❌ MISSING KEYWORD: guild
+❌ MISSING KEYWORD: academy
+❌ MISSING KEYWORD: golden
+❌ MISSING KEYWORD: british
+❌ MISSING KEYWORD: chalamet
+❌ MISSING KEYWORD: nominations

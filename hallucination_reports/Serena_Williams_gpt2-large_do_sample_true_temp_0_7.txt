@@ -1,0 +1,100 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Serena Williams ===
+Write a short biography of Serena Williams.
+
+(It's not a bad idea to get some background information about the women's tennis player, but I'll be taking the liberty of doing it myself.)
+
+That's all for today. If you have any questions, comments, or suggestions, please feel free to email me.
+
+=== Wikipedia Summary ===
+Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 319 weeks, and finished as the year-end No. 1 five times. Williams won 73 WTA Tour-level singles titles, including 23 major women's singles titles — the most in the Open Era, and the second-most of all time. She is the only player to accomplish a career Golden Slam in both singles and doubles.
+
+Semantic Similarity: 0.56
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Serena Williams (ID: Q11459) ===
+Rotten Tomatoes ID: celebrity/serena_williams
+Notable Names Database: 205/000023136
+Munzinger Sport number: 01000005440
+Gran Enciclopèdia Catalana ID (former scheme): 0256196
+partner in business or sport: Venus Williams
+eye color: dark brown
+described by source: Notable Black American Women
+participant in: 2007 Fed Cup
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+Serena Williams, as she's known, is the oldest grand slam tennis player ever, and the first female to win the major championship. She has also been one of the most successful player in the sport's history. In her time at the helm, she has won two Grand Slam titles and has been runner-up three times. In 2009, she won a record 20 majors, becoming the first female player to do so. She has been a consistent competitor with an excellent serve and excellent return.
+
+To be clear: She has not won a Grand Slam title in the Open Era, and she has never won a Slam title in the Women's Open Era. The only Grand Slam in her past 30 years that she'd ever won was the Australian Open in 2004, which she won while playing in a men's event.
+
+Why is she the best she's ever been?
+
+Serena's winnings at the
+
+Semantic Similarity to Wikidata: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Rotten Tomatoes ID: celebrity/serena_williams
+❌ MISSING: Notable Names Database: 205/000023136
+❌ MISSING: Munzinger Sport number: 01000005440
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0256196
+❌ MISSING: partner in business or sport: Venus Williams
+❌ MISSING: eye color: dark brown
+❌ MISSING: described by source: Notable Black American Women
+❌ MISSING: participant in: 2007 Fed Cup
+
+=== Semantic Match per Fact ===
+❌ Rotten Tomatoes ID: celebrity/serena_williams — Similarity: 0.33
+❌ Notable Names Database: 205/000023136 — Similarity: 0.04
+❌ Munzinger Sport number: 01000005440 — Similarity: 0.11
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0256196 — Similarity: 0.00
+❌ partner in business or sport: Venus Williams — Similarity: 0.50
+❌ eye color: dark brown — Similarity: -0.06
+❌ described by source: Notable Black American Women — Similarity: 0.18
+❌ participant in: 2007 Fed Cup — Similarity: 0.10
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Serena Williams ===
+Serena Williams. American former tennis player. Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association for 319 weeks, and finished as the year-end No. 1 five times.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams. Tell her story and tell the story of the sport of tennis.
+
+(The biography may be shorter than you think.)
+
+After your bio, tell her about yourself.
+
+When you are finished, tell her about yourself.
+
+Tell her about your goals for the day. What are you working on? What are you planning? What are you excited about? How are you feeling?
+
+Tell her about the best part of your day. What did you love most about it? What was the worst part? How did you spend your day?
+
+Tell her what you are doing with your day. What are you working on?
+
+Tell her about how you are feeling. What do you think about yourself?
+
+Tell her how you feel about yourself. What are you feeling?
+
+Tell her how you will be feeling at the end of the day. What do you look forward to?
+
+Tell her
+
+Semantic Similarity to Knowledge Graph Data: 0.51
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: finished
+❌ MISSING KEYWORD: association
+❌ MISSING KEYWORD: jameka
+❌ MISSING KEYWORD: ranked
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: williams
+❌ MISSING KEYWORD: tennis
+❌ MISSING KEYWORD: singles
+❌ MISSING KEYWORD: american
+❌ MISSING KEYWORD: world

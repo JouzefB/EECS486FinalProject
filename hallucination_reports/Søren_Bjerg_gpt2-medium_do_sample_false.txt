@@ -2,22 +2,12 @@
 === GPT-2 Generated Biography for Søren Bjerg ===
 Write a short biography of Søren Bjerg.
 
-When he was in Denmark he wrote a short biography of Richard Wagner, which was published in English in 2004.
-
-He also wrote a book about Björk, called "I Love Björk"
-
-In 2008, he wrote a book called "Jørgensen" about his relationship to the band
-
-On his website, he says he is "not interested in anything except enjoying life."
-
-In the article, he says: "But this does have to do with a very serious problem - I don't know if I have the ability to feel love. To be fair, I don't think I would find it hard to find the word. But I would certainly have to ask myself, 'Why don't I like the band, and why don't I love them?' And, of course, I can't say for certain what will happen.
-
-"It's like having a child.
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
 
 === Wikipedia Summary ===
 Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series (LCS) team. He followed that with shorter stints as a head coach for TSM, and again as a mid laner for Team Liquid and 100 Thieves. He is one of the winningest North American players of all time with 6 domestic titles and 10 finals appearances, and has never finished below 5th place. Internationally, he won IEM Katowice 2015 and qualified to the League of Legends World Championship 5 times, but only advanced past the group stage once. He is best known as the greatest North American player for his individual prowess as a mid laner, where he was a perennial MVP and 1st Team All Pro candidate; he won 4 MVP titles, 3 playoff MVP titles, and 6 1st Team All Pro titles. He has never finished below 4th in All Pro voting, and is the current all-time LCS kills leader. He retired from competitive eSports in April of 2023.
 
-Semantic Similarity: 0.33
+Semantic Similarity: 0.38
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Wikidata Comparison ===
@@ -41,7 +31,7 @@ name in native language: Søren Bjerg
 === GPT-2 Generated Biography ===
 Write a short biography of Søren Bjerg.
 
-Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short bio of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
 
 Semantic Similarity to Wikidata: 0.50
 ⚠️ GPT-2 output is SUSPICIOUS.
@@ -64,21 +54,21 @@ Semantic Similarity to Wikidata: 0.50
 ✅ Mentioned: name in native language: Søren Bjerg
 
 === Semantic Match per Fact ===
-❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.25
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.26
 ❌ place of birth: Holstebro — Similarity: 0.14
 ❌ sex or gender: male — Similarity: 0.07
 ❌ country of citizenship: Kingdom of Denmark — Similarity: 0.22
-❌ instance of: human — Similarity: 0.11
+❌ instance of: human — Similarity: 0.10
 ❌ member of sports team: 100 Thieves — Similarity: 0.12
 ❌ occupation: professional gamer — Similarity: 0.13
-❌ Commons category: Bjergsen — Similarity: 0.38
+❌ Commons category: Bjergsen — Similarity: 0.39
 ❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.17
-❌ sport: esports — Similarity: 0.13
+❌ sport: esports — Similarity: 0.12
 ❌ Freebase ID: /m/0134y3_9 — Similarity: 0.12
-❌ family name: Bjerg — Similarity: 0.49
-❌ given name: Søren — Similarity: 0.43
+✅ family name: Bjerg — Similarity: 0.50
+❌ given name: Søren — Similarity: 0.44
 ❌ sponsor: Red Bull GmbH — Similarity: 0.05
-✅ name in native language: Søren Bjerg — Similarity: 0.55
+✅ name in native language: Søren Bjerg — Similarity: 0.56
 
 === Google Knowledge Graph Comparison ===
 === Knowledge Graph Data for Søren Bjerg ===
@@ -87,41 +77,19 @@ Bjergsen. Danish gamer. Søren Bjerg, better known as Bjergsen, is a Danish form
 === GPT-2 Generated Biography ===
 Write a short biography of Søren Bjerg.
 
-Read about the Norwegian government's involvement in Copenhagen.
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg.
 
-Discuss the Norwegian government's involvement in Copenhagen.
-
-Read about the Norwegian government's involvement in Copenhagen.
-
-Convert some of the items listed in the "Items on Sale" section to Norwegian Shirts.
-
-Find out more about the sale of Norwegian clothing in the "Fashion" section.
-
-Find out more about the sale of Norwegian clothing in the "Fashion" section.
-
-The Norwegian government is sponsoring a conference on "Hotspots" in Oslo, Norway on June 19 and 20, 2012.
-
-The Norwegian government is sponsoring a conference on "Hotspots" in Oslo, Norway on June 19 and 20, 2012.
-
-Do you have any question about Oslo? Ask the Norwegian Embassy
-
-Do you have any question about Oslo? Ask the Norwegian Embassy
-
-Contact your local Norwegian Embassy
-
-Contact your local
-
-Semantic Similarity to Knowledge Graph Data: 0.36
+Semantic Similarity to Knowledge Graph Data: 0.49
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Summary of Differences (Missing Key Terms) ===
-❌ MISSING KEYWORD: starting
-❌ MISSING KEYWORD: legends
-❌ MISSING KEYWORD: better
-❌ MISSING KEYWORD: danish
-❌ MISSING KEYWORD: series
+❌ MISSING KEYWORD: known
+❌ MISSING KEYWORD: solomid
 ❌ MISSING KEYWORD: years
+❌ MISSING KEYWORD: professional
+❌ MISSING KEYWORD: championship
+❌ MISSING KEYWORD: series
+❌ MISSING KEYWORD: danish
+❌ MISSING KEYWORD: legends
 ❌ MISSING KEYWORD: league
 ❌ MISSING KEYWORD: laner
-❌ MISSING KEYWORD: known
-❌ MISSING KEYWORD: professional

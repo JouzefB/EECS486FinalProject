@@ -1,0 +1,158 @@
+=== Wikipedia Comparison ===
+=== GPT-2 Generated Biography for Albert Einstein ===
+Write a short biography of Albert Einstein.
+
+2. Ask the group how many years they have been a member and what their most recent experience with the group was.
+
+3. Ask the group what their most recent experience with the group was.
+
+4. Ask the group what their most recent experience with the group was.
+
+5. Ask the group how many years they have been a member and what their most recent experience with the group was.
+
+6. Ask the group what their most recent experience with the group was.
+
+7. Ask the group what their most recent experience with the group was.
+
+8. Ask the group how many years they have been a member and what their most recent experience with the group was.
+
+9. Ask the group what their most recent experience with the group was.
+
+10. Ask the group what their most recent experience with the group was.
+
+11. Ask the group what their most recent experience
+
+=== Wikipedia Summary ===
+Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.
+
+Semantic Similarity: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Wikidata Comparison ===
+=== Wikidata Facts for Albert Einstein (ID: Q937) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
+place of birth: Ulm
+place of death: Princeton
+sex or gender: male
+father: Hermann Einstein
+mother: Pauline Koch
+spouse: Mileva Marić
+country of citizenship: Cisleithania
+instance of: human
+position held: professor
+child: Lieserl (Einstein)
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Albert Einstein.
+
+
+Tell a story about Einstein.
+
+
+Tell a story about Einstein.
+
+
+Recognize Einstein, the world's greatest scientist, as the greatest scientist of the 20th century.
+
+
+Give a short lecture about Einstein, including the following information:
+
+Why he is considered a genius.
+
+A brief introduction to Einstein's ideas.
+
+A discussion of his life and accomplishments, including his work in physics and his contributions to mathematics.
+
+A brief history of his work in physics and mathematics.
+
+A brief history of the invention of the atomic bomb, including its development, testing, and subsequent use.
+
+A brief history of the development of the atomic bomb, including its development, testing, and subsequent use.
+
+A brief history of the development of the atomic bomb, including its development, testing, and subsequent use.
+
+Describe the history of science and mathematics.
+
+A brief history of
+
+Semantic Similarity to Wikidata: 0.40
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
+❌ MISSING: place of birth: Ulm
+❌ MISSING: place of death: Princeton
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Hermann Einstein
+❌ MISSING: mother: Pauline Koch
+❌ MISSING: spouse: Mileva Marić
+❌ MISSING: country of citizenship: Cisleithania
+❌ MISSING: instance of: human
+❌ MISSING: position held: professor
+❌ MISSING: child: Lieserl (Einstein)
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg — Similarity: 0.25
+❌ place of birth: Ulm — Similarity: 0.11
+❌ place of death: Princeton — Similarity: 0.11
+❌ sex or gender: male — Similarity: 0.04
+❌ father: Hermann Einstein — Similarity: 0.44
+❌ mother: Pauline Koch — Similarity: -0.02
+❌ spouse: Mileva Marić — Similarity: -0.05
+❌ country of citizenship: Cisleithania — Similarity: 0.00
+❌ instance of: human — Similarity: 0.07
+❌ position held: professor — Similarity: 0.09
+❌ child: Lieserl (Einstein) — Similarity: 0.37
+
+=== Google Knowledge Graph Comparison ===
+=== Knowledge Graph Data for Albert Einstein ===
+Albert Einstein. Theoretical physicist. Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Albert Einstein.
+
+Albert Einstein: A Biography
+
+For a biography of Einstein, see:
+
+
+Grammar
+
+Albert Einstein: A Biography
+
+If you have a short biography of Einstein written, consider including it in this list.
+
+Albert Einstein: A Biography
+
+If you have a short biography of Einstein written, consider including it in this list.
+
+Albert Einstein: A Biography
+
+If you have a short biography of Einstein written, consider including it in this list.
+
+Albert Einstein: A Biography
+
+If you have a short biography of Einstein written, consider including it in this list.
+
+Albert Einstein: A Biography
+
+If you have a short biography of Einstein written, consider including it in this list.
+
+Albert Einstein: A Biography
+
+If you have a short biography of Einstein written, consider including it in this list.
+
+Albert Einstein: A Bi
+
+Semantic Similarity to Knowledge Graph Data: 0.43
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Summary of Differences (Missing Key Terms) ===
+❌ MISSING KEYWORD: important
+❌ MISSING KEYWORD: quantum
+❌ MISSING KEYWORD: physicist
+❌ MISSING KEYWORD: theory
+❌ MISSING KEYWORD: theoretical
+❌ MISSING KEYWORD: developing
+❌ MISSING KEYWORD: contributions
+❌ MISSING KEYWORD: known
