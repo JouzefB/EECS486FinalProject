@@ -1,4 +1,5 @@
-# modified_combined.py
+# combined2.py
+
 import os
 import argparse
 from compare_gpt2_to_wiki import run_wiki_comparison
@@ -20,10 +21,12 @@ PEOPLE = [
 ]
 
 def main(model_name):
+
     os.makedirs("hallucination_reports", exist_ok=True)
 
     for person in PEOPLE:
         print(f"Processing {person} with model {model_name}...")
+
         wiki_result = run_wiki_comparison(person, model_name)
         wikidata_result = run_wikidata_comparison(person, model_name)
         kg_result = run_kg_comparison(person, GOOGLE_API_KEY, model_name)
@@ -39,9 +42,10 @@ def main(model_name):
             f.write("=== Google Knowledge Graph Comparison ===\n")
             f.write(kg_result + "\n")
 
-    print("\n✅ All reports written.")
+    print("\nAll reports written.")
 
 if __name__ == "__main__":
+    
     parser = argparse.ArgumentParser(description="Run hallucination comparison across models")
     parser.add_argument("--model", type=str, default="gpt2", help="HuggingFace model name (e.g., gpt2, gpt2-medium, gpt2-xl)")
     args = parser.parse_args()

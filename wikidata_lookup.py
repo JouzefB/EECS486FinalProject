@@ -1,4 +1,5 @@
 # wikidata_lookup.py
+
 import requests
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer, util
@@ -48,6 +49,7 @@ def run_wikidata_comparison(person, model_name="gpt2"):
         return f"No Wikidata entity found for {person}"
 
     facts = get_wikidata_facts(entity_id)
+    
     fact_text = ". ".join([f"{k}: {v}" for k, v in facts.items()])
 
     lines.append(f"=== Wikidata Facts for {person} (ID: {entity_id}) ===")
@@ -55,7 +57,9 @@ def run_wikidata_comparison(person, model_name="gpt2"):
         lines.append(f"{prop}: {val}")
 
     prompt = f"Write a short biography of {person}."
+
     generator = pipeline("text-generation", model=model_name, device=-1)
+
     gpt_output = generator(prompt, max_length=200, do_sample=True, temperature=0.7, truncation=True)[0]["generated_text"]
     lines.append(f"\n=== GPT-2 Generated Biography ===")
     lines.append(gpt_output)
@@ -76,6 +80,7 @@ def run_wikidata_comparison(person, model_name="gpt2"):
             lines.append(f"❌ MISSING: {prop}: {val}")
 
     lines.append("\n=== Semantic Match per Fact ===")
+
     for prop, val in facts.items():
         fact = f"{prop}: {val}"
         emb = model.encode(fact, convert_to_tensor=True)

@@ -1,7 +1,10 @@
+#wikipedia_lookup.py
+
+
 import requests
 
 def get_wikipedia_summary(person_name):
-    # First, search for the title to get an exact match
+    # searches for the url and tries to get exact match
     search_url = f"https://en.wikipedia.org/w/api.php"
     search_params = {
         "action": "query",
@@ -15,10 +18,10 @@ def get_wikipedia_summary(person_name):
     if not search_data["query"]["search"]:
         return f"No Wikipedia page found for '{person_name}'."
 
-    # Get the title of the most relevant result
+    # gets the page title
     page_title = search_data["query"]["search"][0]["title"]
 
-    # Now get the summary of that page
+    # how we get summary of the wikipedia page
     summary_url = f"https://en.wikipedia.org/api/rest_v1/page/summary/{page_title}"
     summary_response = requests.get(summary_url)
     if summary_response.status_code == 200:

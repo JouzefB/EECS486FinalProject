@@ -1,4 +1,5 @@
 # Google_Knowledge_API_Graph_vs_chatgpt2.py
+
 import requests
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer, util
@@ -39,6 +40,7 @@ def run_kg_comparison(person, api_key, model_name="gpt2"):
     kg_text = get_knowledge_graph_data(person, api_key)
     if kg_text:
         lines.append(f"=== Knowledge Graph Data for {person} ===")
+        
         lines.append(kg_text)
     else:
         lines.append(f"No data found in Knowledge Graph for {person}")
@@ -47,9 +49,11 @@ def run_kg_comparison(person, api_key, model_name="gpt2"):
     generator = pipeline("text-generation", model=model_name, device=-1)
     gpt_output = generator(f"Write a short biography of {person}.", max_length=200, do_sample=True, temperature=0.7)[0]["generated_text"]
     lines.append(f"\n=== GPT-2 Generated Biography ===")
+
     lines.append(gpt_output)
 
     model = SentenceTransformer("all-MiniLM-L6-v2")
+
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
     embedding_kg = model.encode(kg_text, convert_to_tensor=True)
     similarity = util.pytorch_cos_sim(embedding_gpt, embedding_kg).item()

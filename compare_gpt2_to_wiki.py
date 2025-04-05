@@ -10,15 +10,16 @@ os.environ["CUDA_VISIBLE_DEVICES"] = ""
 def run_wiki_comparison(person, model_name="gpt2"):
     lines = []
 
-    # GPT Output
+    # gets the gpt output
     generator = pipeline("text-generation", model=model_name, device=-1)
     prompt = f"Write a short biography of {person}."
     gpt_output = generator(prompt, max_length=200, do_sample=True, temperature=0.7, truncation=True)[0]["generated_text"]
     
-    # Wikipedia
+    # wikipedia summaries 
     wiki_summary = get_wikipedia_summary(person)
 
-    # Semantic similarity
+    # calculates the semantic similarity
+    
     model = SentenceTransformer("all-MiniLM-L6-v2")
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
     embedding_wiki = model.encode(wiki_summary, convert_to_tensor=True)
