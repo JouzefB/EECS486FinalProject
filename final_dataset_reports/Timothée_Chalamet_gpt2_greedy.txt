@@ -1,0 +1,210 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Timothée Chalamet ==========
+Write a short biography of Timothée Chalamet.
+
+Timothée Chalamet was born in Paris in 1859. He was educated at the University of Paris and at the University of Paris, where he studied at the University of Paris. He was a member of the French National Assembly, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French
+
+========== Wikipedia Summary ==========
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.38
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: academy
+❌ MISSING: accolades
+❌ MISSING: actor
+❌ MISSING: actors
+❌ MISSING: addition
+❌ MISSING: american
+❌ MISSING: award
+❌ MISSING: awards
+❌ MISSING: british
+❌ MISSING: globe
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Timothée Hal Chalamet is an American and French actor
+[GPT-2]     Write a short biography of Timothée Chalamet
+→ Cosine Similarity: 0.67
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.38
+Missing Keywords: 15
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+place of birth: Manhattan
+sex or gender: male
+country of citizenship: France
+instance of: human
+educated at: PS 87 William T. Sherman School
+field of work: acting
+native language: American English
+occupation: actor
+religion or worldview: Judaism
+award received: Lucille Lortel Award for Outstanding Lead Actor in a Play
+ISNI: 0000000468713031
+VIAF cluster ID: 28152820127300681335
+GND ID: 1154460568
+Library of Congress authority ID: no2016041218
+Bibliothèque nationale de France ID: 17759386x
+IdRef ID: 22873200X
+NACSIS-CAT author ID: DB00062901
+IMDb ID: nm3154303
+Commons category: Timothée Chalamet
+MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd
+unmarried partner: Lily-Rose Depp
+residence: Concourse
+date of birth: 1995-12-27T00:00:00Z
+Freebase ID: /m/0p2n1fp
+NL CR AUT ID: xx0249508
+family name: Chalamet
+given name: Timothée
+National Library of Spain ID: XX5792543
+described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style
+Nationale Thesaurus voor Auteursnamen ID: 417485956
+NORAF ID: 1523345892159
+relative: Harold Flender
+NUKAT ID: n2018137114
+Rotten Tomatoes ID: celebrity/timothee_chalamet
+AlloCiné person ID: 525421
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+Timothée Chalamet was born in Paris in 1859. He was educated at the University of Paris and at the University of Paris, where he studied at the University of Paris. He was a member of the French National Assembly, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French
+
+Semantic Similarity Score: 0.25
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+❌ MISSING: place of birth: Manhattan
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: France
+❌ MISSING: instance of: human
+✅ Mentioned: educated at: PS 87 William T. Sherman School
+❌ MISSING: field of work: acting
+❌ MISSING: native language: American English
+❌ MISSING: occupation: actor
+❌ MISSING: religion or worldview: Judaism
+❌ MISSING: award received: Lucille Lortel Award for Outstanding Lead Actor in a Play
+❌ MISSING: ISNI: 0000000468713031
+❌ MISSING: VIAF cluster ID: 28152820127300681335
+❌ MISSING: GND ID: 1154460568
+❌ MISSING: Library of Congress authority ID: no2016041218
+❌ MISSING: Bibliothèque nationale de France ID: 17759386x
+❌ MISSING: IdRef ID: 22873200X
+❌ MISSING: NACSIS-CAT author ID: DB00062901
+❌ MISSING: IMDb ID: nm3154303
+✅ Mentioned: Commons category: Timothée Chalamet
+❌ MISSING: MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd
+❌ MISSING: unmarried partner: Lily-Rose Depp
+❌ MISSING: residence: Concourse
+❌ MISSING: date of birth: 1995-12-27T00:00:00Z
+❌ MISSING: Freebase ID: /m/0p2n1fp
+❌ MISSING: NL CR AUT ID: xx0249508
+✅ Mentioned: family name: Chalamet
+✅ Mentioned: given name: Timothée
+❌ MISSING: National Library of Spain ID: XX5792543
+❌ MISSING: described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 417485956
+❌ MISSING: NORAF ID: 1523345892159
+❌ MISSING: relative: Harold Flender
+❌ MISSING: NUKAT ID: n2018137114
+❌ MISSING: Rotten Tomatoes ID: celebrity/timothee_chalamet
+❌ MISSING: AlloCiné person ID: 525421
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.19
+❌ place of birth: Manhattan — Similarity: -0.10
+❌ sex or gender: male — Similarity: 0.03
+❌ country of citizenship: France — Similarity: 0.43
+❌ instance of: human — Similarity: 0.00
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.05
+❌ field of work: acting — Similarity: -0.07
+❌ native language: American English — Similarity: 0.05
+❌ occupation: actor — Similarity: 0.05
+❌ religion or worldview: Judaism — Similarity: -0.10
+❌ award received: Lucille Lortel Award for Outstanding Lead Actor in a Play — Similarity: -0.03
+❌ ISNI: 0000000468713031 — Similarity: -0.03
+❌ VIAF cluster ID: 28152820127300681335 — Similarity: -0.04
+❌ GND ID: 1154460568 — Similarity: 0.02
+❌ Library of Congress authority ID: no2016041218 — Similarity: 0.12
+❌ Bibliothèque nationale de France ID: 17759386x — Similarity: 0.38
+❌ IdRef ID: 22873200X — Similarity: 0.04
+❌ NACSIS-CAT author ID: DB00062901 — Similarity: 0.04
+❌ IMDb ID: nm3154303 — Similarity: -0.03
+❌ Commons category: Timothée Chalamet — Similarity: 0.27
+❌ MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd — Similarity: 0.07
+❌ unmarried partner: Lily-Rose Depp — Similarity: -0.00
+❌ residence: Concourse — Similarity: -0.04
+❌ date of birth: 1995-12-27T00:00:00Z — Similarity: 0.12
+❌ Freebase ID: /m/0p2n1fp — Similarity: 0.04
+❌ NL CR AUT ID: xx0249508 — Similarity: 0.15
+❌ family name: Chalamet — Similarity: 0.29
+❌ given name: Timothée — Similarity: 0.37
+❌ National Library of Spain ID: XX5792543 — Similarity: 0.14
+❌ described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style — Similarity: 0.22
+❌ Nationale Thesaurus voor Auteursnamen ID: 417485956 — Similarity: 0.38
+❌ NORAF ID: 1523345892159 — Similarity: 0.10
+❌ relative: Harold Flender — Similarity: 0.09
+❌ NUKAT ID: n2018137114 — Similarity: 0.04
+❌ Rotten Tomatoes ID: celebrity/timothee_chalamet — Similarity: 0.24
+❌ AlloCiné person ID: 525421 — Similarity: 0.16
+
+=== Final Summary ===
+Semantic Similarity: 0.25
+Prompt Repeated: No
+Facts Semantically Matched: 0/36
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Timothée Chalamet ==========
+Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Timothée Chalamet.
+
+Timothée Chalamet was born in Paris in 1859. He was educated at the University of Paris and at the University of Paris, where he studied at the University of Paris. He was a member of the French National Assembly, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French Republic, the National Assembly of the French
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.45
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: nominations
+❌ MISSING: include
+❌ MISSING: academy
+❌ MISSING: actors
+❌ MISSING: globe
+❌ MISSING: screen
+❌ MISSING: awards
+❌ MISSING: golden
+❌ MISSING: addition
+❌ MISSING: american
+
+========== Verdict Summary ==========
+Semantic Score: 0.45
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 15)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/36 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

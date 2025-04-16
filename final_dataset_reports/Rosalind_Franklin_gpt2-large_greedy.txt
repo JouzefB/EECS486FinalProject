@@ -1,0 +1,372 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Rosalind Franklin ==========
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite. Although her works on coal and viruses were appreciated in her lifetime, Franklin's contributions to the discovery of the structure of DNA were largely unrecognised during her life, for which Franklin has been variously referred to as the "wronged heroine", the "dark lady of DNA", the "forgotten heroine", a "feminist icon", and the "Sylvia Plath of molecular biology".
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.43
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: although
+❌ MISSING: appreciated
+❌ MISSING: biology
+❌ MISSING: british
+❌ MISSING: central
+❌ MISSING: chemist
+❌ MISSING: contributions
+❌ MISSING: crystallographer
+❌ MISSING: discovery
+❌ MISSING: during
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Rosalind Elsie Franklin was a British chemist and X-ray crystallographer
+[GPT-2]     Write a short biography of Rosalind Franklin
+→ Cosine Similarity: 0.66
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.43
+Missing Keywords: 30
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Rosalind Franklin (ID: Q7474) ===
+Library of Congress authority ID: n2001016339
+Bibliothèque nationale de France ID: 14486659t
+IdRef ID: 083368078
+NDL Authority ID: 00620682
+Commons category: Rosalind Franklin
+archives at: Wellcome Collection
+cause of death: ovarian cancer
+academic degree: Doctor of Philosophy
+Find a Grave memorial ID: 5858699
+date of birth: 1920-07-25T00:00:00Z
+date of death: 1958-04-16T00:00:00Z
+Freebase ID: /m/0mgnt
+NL CR AUT ID: xx0059521
+family name: Franklin
+given name: Rosalind
+student: John Thomas Finch
+SELIBR ID: 313786
+National Library of Israel ID (old): 000048727
+National Library of Spain ID: XX1305459
+described at URL: https://www.nytimes.com/2023/04/25/science/rosalind-franklin-dna.html
+Nationale Thesaurus voor Auteursnamen ID: 073528498
+NORAF ID: 2111890
+manner of death: natural causes
+Notable Names Database ID: 559/000160079
+CONOR.SI ID: 137264227
+Gran Enciclopèdia Catalana ID (former scheme): 0519150
+described by source: A historical dictionary of British women
+NSK ID: 000403274
+languages spoken, written or signed: British English
+Oxford Dictionary of National Biography ID: 37431
+Encyclopædia Britannica Online ID: biography/Rosalind-Franklin
+Open Plaques subject ID: 478
+birth name: Rosalind Elsie Franklin
+name in native language: Rosalind Franklin
+University of Barcelona authority ID (former scheme): a1222539
+BBC Things ID: 9b8b7fc6-6247-4bbf-a515-19555248f3c7
+NLP ID (old): a0000003224620
+plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/ROSALIND%20FRANKLIN%201920-1958%20Pioneer%20of%20the%20study%20of%20molecular%20structures%20including%20DNA%20lived%20here%201951-1958.jpg
+National Portrait Gallery (London) person ID: mp58704
+genealogics.org person ID: I00725495
+FAST ID: 470758
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.48
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Library of Congress authority ID: n2001016339
+❌ MISSING: Bibliothèque nationale de France ID: 14486659t
+❌ MISSING: IdRef ID: 083368078
+❌ MISSING: NDL Authority ID: 00620682
+✅ Mentioned: Commons category: Rosalind Franklin
+❌ MISSING: archives at: Wellcome Collection
+❌ MISSING: cause of death: ovarian cancer
+❌ MISSING: academic degree: Doctor of Philosophy
+❌ MISSING: Find a Grave memorial ID: 5858699
+❌ MISSING: date of birth: 1920-07-25T00:00:00Z
+❌ MISSING: date of death: 1958-04-16T00:00:00Z
+❌ MISSING: Freebase ID: /m/0mgnt
+❌ MISSING: NL CR AUT ID: xx0059521
+✅ Mentioned: family name: Franklin
+✅ Mentioned: given name: Rosalind
+❌ MISSING: student: John Thomas Finch
+❌ MISSING: SELIBR ID: 313786
+❌ MISSING: National Library of Israel ID (old): 000048727
+❌ MISSING: National Library of Spain ID: XX1305459
+❌ MISSING: described at URL: https://www.nytimes.com/2023/04/25/science/rosalind-franklin-dna.html
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 073528498
+❌ MISSING: NORAF ID: 2111890
+❌ MISSING: manner of death: natural causes
+❌ MISSING: Notable Names Database ID: 559/000160079
+❌ MISSING: CONOR.SI ID: 137264227
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0519150
+❌ MISSING: described by source: A historical dictionary of British women
+❌ MISSING: NSK ID: 000403274
+❌ MISSING: languages spoken, written or signed: British English
+❌ MISSING: Oxford Dictionary of National Biography ID: 37431
+❌ MISSING: Encyclopædia Britannica Online ID: biography/Rosalind-Franklin
+❌ MISSING: Open Plaques subject ID: 478
+❌ MISSING: birth name: Rosalind Elsie Franklin
+✅ Mentioned: name in native language: Rosalind Franklin
+❌ MISSING: University of Barcelona authority ID (former scheme): a1222539
+❌ MISSING: BBC Things ID: 9b8b7fc6-6247-4bbf-a515-19555248f3c7
+❌ MISSING: NLP ID (old): a0000003224620
+❌ MISSING: plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/ROSALIND%20FRANKLIN%201920-1958%20Pioneer%20of%20the%20study%20of%20molecular%20structures%20including%20DNA%20lived%20here%201951-1958.jpg
+❌ MISSING: National Portrait Gallery (London) person ID: mp58704
+❌ MISSING: genealogics.org person ID: I00725495
+❌ MISSING: FAST ID: 470758
+
+=== Semantic Match per Fact ===
+❌ Library of Congress authority ID: n2001016339 — Similarity: 0.17
+❌ Bibliothèque nationale de France ID: 14486659t — Similarity: 0.15
+❌ IdRef ID: 083368078 — Similarity: -0.02
+❌ NDL Authority ID: 00620682 — Similarity: 0.01
+❌ Commons category: Rosalind Franklin — Similarity: 0.38
+❌ archives at: Wellcome Collection — Similarity: 0.21
+❌ cause of death: ovarian cancer — Similarity: 0.10
+❌ academic degree: Doctor of Philosophy — Similarity: 0.08
+❌ Find a Grave memorial ID: 5858699 — Similarity: 0.11
+❌ date of birth: 1920-07-25T00:00:00Z — Similarity: 0.07
+❌ date of death: 1958-04-16T00:00:00Z — Similarity: 0.13
+❌ Freebase ID: /m/0mgnt — Similarity: 0.04
+❌ NL CR AUT ID: xx0059521 — Similarity: 0.06
+❌ family name: Franklin — Similarity: 0.34
+❌ given name: Rosalind — Similarity: 0.39
+❌ student: John Thomas Finch — Similarity: 0.14
+❌ SELIBR ID: 313786 — Similarity: 0.03
+❌ National Library of Israel ID (old): 000048727 — Similarity: 0.13
+❌ National Library of Spain ID: XX1305459 — Similarity: 0.12
+❌ described at URL: https://www.nytimes.com/2023/04/25/science/rosalind-franklin-dna.html — Similarity: 0.38
+❌ Nationale Thesaurus voor Auteursnamen ID: 073528498 — Similarity: 0.07
+❌ NORAF ID: 2111890 — Similarity: 0.07
+❌ manner of death: natural causes — Similarity: 0.03
+❌ Notable Names Database ID: 559/000160079 — Similarity: 0.12
+❌ CONOR.SI ID: 137264227 — Similarity: -0.00
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0519150 — Similarity: 0.01
+❌ described by source: A historical dictionary of British women — Similarity: 0.14
+❌ NSK ID: 000403274 — Similarity: -0.07
+❌ languages spoken, written or signed: British English — Similarity: 0.12
+❌ Oxford Dictionary of National Biography ID: 37431 — Similarity: 0.34
+✅ Encyclopædia Britannica Online ID: biography/Rosalind-Franklin — Similarity: 0.54
+❌ Open Plaques subject ID: 478 — Similarity: 0.13
+❌ birth name: Rosalind Elsie Franklin — Similarity: 0.43
+❌ name in native language: Rosalind Franklin — Similarity: 0.45
+❌ University of Barcelona authority ID (former scheme): a1222539 — Similarity: -0.02
+❌ BBC Things ID: 9b8b7fc6-6247-4bbf-a515-19555248f3c7 — Similarity: 0.00
+❌ NLP ID (old): a0000003224620 — Similarity: 0.08
+❌ plaque image: http://commons.wikimedia.org/wiki/Special:FilePath/ROSALIND%20FRANKLIN%201920-1958%20Pioneer%20of%20the%20study%20of%20molecular%20structures%20including%20DNA%20lived%20here%201951-1958.jpg — Similarity: 0.27
+❌ National Portrait Gallery (London) person ID: mp58704 — Similarity: 0.12
+❌ genealogics.org person ID: I00725495 — Similarity: 0.24
+❌ FAST ID: 470758 — Similarity: 0.04
+
+=== Final Summary ===
+Semantic Similarity: 0.48
+Prompt Repeated: Yes
+Facts Semantically Matched: 1/41
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Rosalind Franklin ==========
+Rosalind Franklin. British chemist. Rosalind Elsie Franklin was a British chemist and X-ray crystallographer. Her work was central to the understanding of the molecular structures of DNA, RNA, viruses, coal, and graphite.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+Write a short biography of Rosalind Franklin.
+
+
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.44
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: chemist
+❌ MISSING: franklin
+❌ MISSING: british
+❌ MISSING: molecular
+❌ MISSING: central
+❌ MISSING: elsie
+❌ MISSING: understanding
+❌ MISSING: structures
+
+========== Verdict Summary ==========
+Semantic Score: 0.44
+Missing Keywords: 8
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 30)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/41 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

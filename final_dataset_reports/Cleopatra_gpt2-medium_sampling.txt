@@ -1,0 +1,163 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Cleopatra ==========
+Write a short biography of Cleopatra. The biography should begin with a description of how you met her and your relationship to her. It should also describe why you think you would have been happy to spend a lifetime with her and why you think you would have been wrong.
+
+The biography should describe your mother's husband, and if possible, describe how they were different from yours. If you think you'd be happy to spend a lifetime with your mother, describe how you could have been happy with your own family.
+
+If you have a mother who was a slave, describe her life. If you have a mother who was a slave, you should describe how you felt about her and your relationship to her.
+
+If you have either of these, write a short biography of what happened between you and her.
+
+If you are a slave or a female who worked as a slave, describe the life of her boss, and if possible, describe how she treated you and your boss. If possible, describe how you think you would have treated her.
+
+If you have any other family members who were servants, you should write a short biography of them and describe how they treated you and your boss. If you think you would have treated your boss well, describe your feelings about your boss.
+
+If you have a friend who was a slave or a female who worked as a slave, write a short biography of them and describe how they treated you and your boss.
+
+========== Wikipedia Summary ==========
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.34
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: active
+❌ MISSING: after
+❌ MISSING: alexander
+❌ MISSING: among
+❌ MISSING: became
+❌ MISSING: begun
+❌ MISSING: companion
+❌ MISSING: death
+❌ MISSING: descendant
+❌ MISSING: during
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh
+[GPT-2]     Write a short biography of Cleopatra
+→ Cosine Similarity: 0.54
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.34
+Missing Keywords: 43
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+said to be the same as: Kleopatra
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra. The biography should begin with a description of how you met her and your relationship to her. It should also describe why you think you would have been happy to spend a lifetime with her and why you think you would have been wrong.
+
+The biography should describe your mother's husband, and if possible, describe how they were different from yours. If you think you'd be happy to spend a lifetime with your mother, describe how you could have been happy with your own family.
+
+If you have a mother who was a slave, describe her life. If you have a mother who was a slave, you should describe how you felt about her and your relationship to her.
+
+If you have either of these, write a short biography of what happened between you and her.
+
+If you are a slave or a female who worked as a slave, describe the life of her boss, and if possible, describe how she treated you and your boss. If possible, describe how you think you would have treated her.
+
+If you have any other family members who were servants, you should write a short biography of them and describe how they treated you and your boss. If you think you would have treated your boss well, describe your feelings about your boss.
+
+If you have a friend who was a slave or a female who worked as a slave, write a short biography of them and describe how they treated you and your boss.
+
+Semantic Similarity Score: 0.28
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: said to be the same as: Kleopatra
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+
+=== Semantic Match per Fact ===
+❌ said to be the same as: Kleopatra — Similarity: -0.01
+❌ native label: Cleopatra — Similarity: 0.35
+❌ different from: Cleopatra — Similarity: 0.46
+❌ Soundex: C413 — Similarity: 0.01
+❌ Cologne phonetics: 45127 — Similarity: 0.08
+❌ Caverphone: KLPTR1 — Similarity: 0.03
+❌ instance of: female given name — Similarity: 0.14
+❌ writing system: Latin script — Similarity: 0.14
+❌ Commons category: Cleopatra (given name) — Similarity: 0.40
+❌ language of work or name: Italian — Similarity: 0.17
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.22
+
+=== Final Summary ===
+Semantic Similarity: 0.28
+Prompt Repeated: No
+Facts Semantically Matched: 0/11
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Cleopatra ==========
+Cleopatra. Queen of the Ptolemaic Kingdom of Egypt. Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Cleopatra. The biography should begin with a description of how you met her and your relationship to her. It should also describe why you think you would have been happy to spend a lifetime with her and why you think you would have been wrong.
+
+The biography should describe your mother's husband, and if possible, describe how they were different from yours. If you think you'd be happy to spend a lifetime with your mother, describe how you could have been happy with your own family.
+
+If you have a mother who was a slave, describe her life. If you have a mother who was a slave, you should describe how you felt about her and your relationship to her.
+
+If you have either of these, write a short biography of what happened between you and her.
+
+If you are a slave or a female who worked as a slave, describe the life of her boss, and if possible, describe how she treated you and your boss. If possible, describe how you think you would have treated her.
+
+If you have any other family members who were servants, you should write a short biography of them and describe how they treated you and your boss. If you think you would have treated your boss well, describe your feelings about your boss.
+
+If you have a friend who was a slave or a female who worked as a slave, write a short biography of them and describe how they treated you and your boss.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.37
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: queen
+❌ MISSING: egypt
+❌ MISSING: kingdom
+❌ MISSING: active
+❌ MISSING: hellenistic
+❌ MISSING: cleopatra
+❌ MISSING: philopator
+❌ MISSING: ptolemaic
+
+========== Verdict Summary ==========
+Semantic Score: 0.37
+Missing Keywords: 8
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 43)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/11 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

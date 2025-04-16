@@ -1,0 +1,417 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Nikola Tesla ==========
+Write a short biography of Nikola Tesla.
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+Is he a good father?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+Does he treat you well?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+Your dad did not know you were gay until you were 10, how did he react?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship
+
+========== Wikipedia Summary ==========
+Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: alternating
+❌ MISSING: american
+❌ MISSING: contributions
+❌ MISSING: current
+❌ MISSING: design
+❌ MISSING: electricity
+❌ MISSING: engineer
+❌ MISSING: futurist
+❌ MISSING: inventor
+❌ MISSING: known
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Nikola Tesla was a Serbian-American engineer, futurist, and inventor
+[GPT-2]     Write a short biography of Nikola Tesla
+→ Cosine Similarity: 0.70
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.33
+Missing Keywords: 14
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Nikola Tesla (ID: Q9036) ===
+Online PWN Encyclopedia ID: 3986833
+National Library of Chile ID: 000275916
+LibraryThing author ID: teslanikola
+Basis Wien person ID: 62823
+Golden ID: Nikola_Tesla-EN4N
+Visuotinė lietuvių enciklopedija ID: nikola-tesla
+National Library of Lithuania ID: LNB:BoRQ;=Bq
+Slovak National Library (VIAF) ID: vtls005628760
+copyright status as a creator: copyrights on works have expired
+Deutsche Biographie (GND) ID: 119219166
+Hrvatska enciklopedija ID: 61021
+GeneaStar person ID: teslanikola
+Encyclopedia of Brno History person ID: 2620
+Canadiana Name Authority ID: ncf11876238
+J9U ID: 987007274105505171
+Bibliography of the History of Slovakia ID: 42032
+Lex ID: Nikola_Tesla
+Proleksis enciklopedija ID: 48700
+KBpedia ID: NikolaTesla
+Our Campaigns candidate ID: 96486
+Hrvatski biografski leksikon ID: 11929
+WordNet 3.1 Synset ID: 11356845-n
+CONOR.BG ID: 52029029
+CONOR.SR ID: 10029159
+Archives at Yale agent ID: people/61868
+Museo Galileo authority ID: 45764
+BHCL UUID: 6bba6207-03d6-411f-8028-7357f96f39f2
+Biographical Dictionary of the Czech Lands ID: 137216
+SVKKL authority ID: 0245653-Tesla-Nikola-18561943
+Penguin Random House author ID: 241756
+SNK ID: 152290
+Kalliope-Verbund (GND) ID: 119219166
+CANTIC ID: 981058518701106706
+UAE University Libraries ID: a10002863
+Tabakalera ID: 52012
+Academy of Athens authority ID: 42992
+Lur Encyclopedic Dictionary ID: 05610/eu_t_0808/t0808
+Databazeknih.cz author ID: 30394
+Encyclopedia of China (Third Edition) ID: 126651
+Personality Database profile ID: 734
+Radio France person ID: nikola-tesla
+WorldCat Entities ID: E39PBJtX3Mhvmv8TBXMJdmPCwC
+Austria-Forum person ID: Tesla,_Nikola
+Municipal Library of Trikala ID: 84228
+Dimitri and Aliki Perrotis Central Library ID: 7194
+Famous Birthdays ID: people/nikola-tesla
+Listal ID: nikola-tesla
+CiNii Research ID: 1140282266747423616
+Great Russian Encyclopedia portal ID: tesla-nikola-58fba5
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Nikola Tesla.
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+Is he a good father?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+Does he treat you well?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+Your dad did not know you were gay until you were 10, how did he react?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship
+
+Semantic Similarity Score: 0.22
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Online PWN Encyclopedia ID: 3986833
+❌ MISSING: National Library of Chile ID: 000275916
+❌ MISSING: LibraryThing author ID: teslanikola
+❌ MISSING: Basis Wien person ID: 62823
+❌ MISSING: Golden ID: Nikola_Tesla-EN4N
+❌ MISSING: Visuotinė lietuvių enciklopedija ID: nikola-tesla
+❌ MISSING: National Library of Lithuania ID: LNB:BoRQ;=Bq
+❌ MISSING: Slovak National Library (VIAF) ID: vtls005628760
+❌ MISSING: copyright status as a creator: copyrights on works have expired
+❌ MISSING: Deutsche Biographie (GND) ID: 119219166
+❌ MISSING: Hrvatska enciklopedija ID: 61021
+❌ MISSING: GeneaStar person ID: teslanikola
+❌ MISSING: Encyclopedia of Brno History person ID: 2620
+❌ MISSING: Canadiana Name Authority ID: ncf11876238
+❌ MISSING: J9U ID: 987007274105505171
+❌ MISSING: Bibliography of the History of Slovakia ID: 42032
+❌ MISSING: Lex ID: Nikola_Tesla
+❌ MISSING: Proleksis enciklopedija ID: 48700
+❌ MISSING: KBpedia ID: NikolaTesla
+❌ MISSING: Our Campaigns candidate ID: 96486
+❌ MISSING: Hrvatski biografski leksikon ID: 11929
+❌ MISSING: WordNet 3.1 Synset ID: 11356845-n
+❌ MISSING: CONOR.BG ID: 52029029
+❌ MISSING: CONOR.SR ID: 10029159
+❌ MISSING: Archives at Yale agent ID: people/61868
+❌ MISSING: Museo Galileo authority ID: 45764
+❌ MISSING: BHCL UUID: 6bba6207-03d6-411f-8028-7357f96f39f2
+❌ MISSING: Biographical Dictionary of the Czech Lands ID: 137216
+❌ MISSING: SVKKL authority ID: 0245653-Tesla-Nikola-18561943
+❌ MISSING: Penguin Random House author ID: 241756
+❌ MISSING: SNK ID: 152290
+❌ MISSING: Kalliope-Verbund (GND) ID: 119219166
+❌ MISSING: CANTIC ID: 981058518701106706
+❌ MISSING: UAE University Libraries ID: a10002863
+❌ MISSING: Tabakalera ID: 52012
+❌ MISSING: Academy of Athens authority ID: 42992
+❌ MISSING: Lur Encyclopedic Dictionary ID: 05610/eu_t_0808/t0808
+❌ MISSING: Databazeknih.cz author ID: 30394
+❌ MISSING: Encyclopedia of China (Third Edition) ID: 126651
+❌ MISSING: Personality Database profile ID: 734
+❌ MISSING: Radio France person ID: nikola-tesla
+❌ MISSING: WorldCat Entities ID: E39PBJtX3Mhvmv8TBXMJdmPCwC
+❌ MISSING: Austria-Forum person ID: Tesla,_Nikola
+❌ MISSING: Municipal Library of Trikala ID: 84228
+❌ MISSING: Dimitri and Aliki Perrotis Central Library ID: 7194
+❌ MISSING: Famous Birthdays ID: people/nikola-tesla
+❌ MISSING: Listal ID: nikola-tesla
+❌ MISSING: CiNii Research ID: 1140282266747423616
+❌ MISSING: Great Russian Encyclopedia portal ID: tesla-nikola-58fba5
+
+=== Semantic Match per Fact ===
+❌ Online PWN Encyclopedia ID: 3986833 — Similarity: 0.09
+❌ National Library of Chile ID: 000275916 — Similarity: -0.01
+❌ LibraryThing author ID: teslanikola — Similarity: 0.18
+❌ Basis Wien person ID: 62823 — Similarity: 0.10
+❌ Golden ID: Nikola_Tesla-EN4N — Similarity: 0.33
+❌ Visuotinė lietuvių enciklopedija ID: nikola-tesla — Similarity: 0.39
+❌ National Library of Lithuania ID: LNB:BoRQ;=Bq — Similarity: 0.07
+❌ Slovak National Library (VIAF) ID: vtls005628760 — Similarity: 0.13
+❌ copyright status as a creator: copyrights on works have expired — Similarity: 0.05
+❌ Deutsche Biographie (GND) ID: 119219166 — Similarity: 0.14
+❌ Hrvatska enciklopedija ID: 61021 — Similarity: 0.13
+❌ GeneaStar person ID: teslanikola — Similarity: 0.24
+❌ Encyclopedia of Brno History person ID: 2620 — Similarity: 0.14
+❌ Canadiana Name Authority ID: ncf11876238 — Similarity: 0.07
+❌ J9U ID: 987007274105505171 — Similarity: 0.15
+❌ Bibliography of the History of Slovakia ID: 42032 — Similarity: 0.13
+❌ Lex ID: Nikola_Tesla — Similarity: 0.33
+❌ Proleksis enciklopedija ID: 48700 — Similarity: 0.05
+❌ KBpedia ID: NikolaTesla — Similarity: 0.18
+❌ Our Campaigns candidate ID: 96486 — Similarity: -0.00
+❌ Hrvatski biografski leksikon ID: 11929 — Similarity: 0.19
+❌ WordNet 3.1 Synset ID: 11356845-n — Similarity: -0.01
+❌ CONOR.BG ID: 52029029 — Similarity: 0.12
+❌ CONOR.SR ID: 10029159 — Similarity: 0.11
+❌ Archives at Yale agent ID: people/61868 — Similarity: 0.12
+❌ Museo Galileo authority ID: 45764 — Similarity: 0.10
+❌ BHCL UUID: 6bba6207-03d6-411f-8028-7357f96f39f2 — Similarity: 0.01
+❌ Biographical Dictionary of the Czech Lands ID: 137216 — Similarity: 0.17
+❌ SVKKL authority ID: 0245653-Tesla-Nikola-18561943 — Similarity: 0.28
+❌ Penguin Random House author ID: 241756 — Similarity: 0.11
+❌ SNK ID: 152290 — Similarity: 0.10
+❌ Kalliope-Verbund (GND) ID: 119219166 — Similarity: 0.04
+❌ CANTIC ID: 981058518701106706 — Similarity: 0.08
+❌ UAE University Libraries ID: a10002863 — Similarity: 0.07
+❌ Tabakalera ID: 52012 — Similarity: 0.08
+❌ Academy of Athens authority ID: 42992 — Similarity: -0.01
+❌ Lur Encyclopedic Dictionary ID: 05610/eu_t_0808/t0808 — Similarity: 0.12
+❌ Databazeknih.cz author ID: 30394 — Similarity: 0.15
+❌ Encyclopedia of China (Third Edition) ID: 126651 — Similarity: 0.07
+❌ Personality Database profile ID: 734 — Similarity: 0.10
+❌ Radio France person ID: nikola-tesla — Similarity: 0.31
+❌ WorldCat Entities ID: E39PBJtX3Mhvmv8TBXMJdmPCwC — Similarity: 0.08
+❌ Austria-Forum person ID: Tesla,_Nikola — Similarity: 0.36
+❌ Municipal Library of Trikala ID: 84228 — Similarity: 0.05
+❌ Dimitri and Aliki Perrotis Central Library ID: 7194 — Similarity: 0.10
+❌ Famous Birthdays ID: people/nikola-tesla — Similarity: 0.35
+❌ Listal ID: nikola-tesla — Similarity: 0.37
+❌ CiNii Research ID: 1140282266747423616 — Similarity: 0.22
+❌ Great Russian Encyclopedia portal ID: tesla-nikola-58fba5 — Similarity: 0.34
+
+=== Final Summary ===
+Semantic Similarity: 0.22
+Prompt Repeated: No
+Facts Semantically Matched: 0/49
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Nikola Tesla ==========
+Nikola Tesla. Engineer and futurist. Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current electricity supply system.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Nikola Tesla.
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+Is he a good father?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+Does he treat you well?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+What is your relationship with your mother?
+
+Your dad did not know you were gay until you were 10, how did he react?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship with your father?
+
+What is your relationship
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: current
+❌ MISSING: engineer
+❌ MISSING: tesla
+❌ MISSING: known
+❌ MISSING: alternating
+❌ MISSING: electricity
+❌ MISSING: supply
+❌ MISSING: design
+❌ MISSING: modern
+❌ MISSING: contributions
+
+========== Verdict Summary ==========
+Semantic Score: 0.33
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 14)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/49 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

@@ -1,0 +1,326 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Elon Musk ==========
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency (DOGE). Musk is the wealthiest person in the world; as of March 2025, Forbes estimates his net worth to be US$345 billion. He was named Time magazine's Person of the Year in 2021.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.36
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: advisor
+❌ MISSING: billion
+❌ MISSING: businessman
+❌ MISSING: department
+❌ MISSING: donald
+❌ MISSING: efficiency
+❌ MISSING: estimates
+❌ MISSING: facto
+❌ MISSING: forbes
+❌ MISSING: government
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X
+[GPT-2]     Write a short biography of Elon Musk
+→ Cosine Similarity: 0.57
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.36
+Missing Keywords: 28
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Elon Musk (ID: Q317521) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg
+place of birth: Pretoria
+sex or gender: male
+father: Errol Musk
+mother: Maye Musk
+spouse: Justine Musk
+country of citizenship: South Africa
+instance of: human
+position held: co-president
+child: Arcadia Musk
+family: Musk family
+educated at: Smith School of Business
+field of work: tech entrepreneurship
+native language: English
+occupation: programmer
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.46
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg
+❌ MISSING: place of birth: Pretoria
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Errol Musk
+❌ MISSING: mother: Maye Musk
+❌ MISSING: spouse: Justine Musk
+❌ MISSING: country of citizenship: South Africa
+❌ MISSING: instance of: human
+❌ MISSING: position held: co-president
+❌ MISSING: child: Arcadia Musk
+❌ MISSING: family: Musk family
+❌ MISSING: educated at: Smith School of Business
+❌ MISSING: field of work: tech entrepreneurship
+❌ MISSING: native language: English
+❌ MISSING: occupation: programmer
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg — Similarity: 0.20
+❌ place of birth: Pretoria — Similarity: 0.04
+❌ sex or gender: male — Similarity: 0.07
+❌ father: Errol Musk — Similarity: 0.40
+❌ mother: Maye Musk — Similarity: 0.34
+❌ spouse: Justine Musk — Similarity: 0.39
+❌ country of citizenship: South Africa — Similarity: 0.05
+❌ instance of: human — Similarity: 0.13
+❌ position held: co-president — Similarity: 0.11
+❌ child: Arcadia Musk — Similarity: 0.23
+❌ family: Musk family — Similarity: 0.44
+❌ educated at: Smith School of Business — Similarity: 0.08
+❌ field of work: tech entrepreneurship — Similarity: 0.13
+❌ native language: English — Similarity: 0.18
+❌ occupation: programmer — Similarity: 0.14
+
+=== Final Summary ===
+Semantic Similarity: 0.46
+Prompt Repeated: Yes
+Facts Semantically Matched: 0/15
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Elon Musk ==========
+Elon Musk. Senior Advisor to the President of the United States. Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+Write a short biography of Elon Musk.
+
+
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: donald
+❌ MISSING: trump
+❌ MISSING: leadership
+❌ MISSING: advisor
+❌ MISSING: united
+❌ MISSING: reeve
+❌ MISSING: president
+❌ MISSING: known
+❌ MISSING: states
+❌ MISSING: government
+
+========== Verdict Summary ==========
+Semantic Score: 0.33
+Missing Keywords: 10
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 28)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/15 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

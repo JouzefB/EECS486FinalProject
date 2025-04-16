@@ -1,0 +1,162 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Taylor Swift ==========
+Write a short biography of Taylor Swift.
+
+"I think he's the kind of guy who needs to do that," says Taylor, who came to prominence at the age of 12 for her song "Hallelujah." "Taylor's a genius. She's a genius about music. What she does really well is she creates art. She has her own style, her own style of music. The way she's doing it, she's really, really innovative. She knows how to break up the noise, to create a whole new world. You can't make a sound without a way to create a whole new world."
+
+Taylor's own style — which has a more melodic style than some of Taylor's other works — has been described as "soulful, soulful. She's beautiful. When she's not singing or dancing or singing, she's singing. She's a really good singer, a really good singer."
+
+With a passion for the world, Taylor is particularly passionate about life: "I love doing business at least as much as I love working for myself, and I love what I do," says Taylor. "I know what I wanna do. I know how to make money. I know how to make money for myself. And I don't like it when I'm doing it for the money. I don't like being in debt, or my kids paying rent. I don't like the fact that I'm doing something that I love
+
+========== Wikipedia Summary ==========
+Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music. Swift holds records for seven albums with one million first-week US sales. She has become one of the 21st century's most prominent entertainers and is the richest female musician.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.58
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: albums
+❌ MISSING: alison
+❌ MISSING: amass
+❌ MISSING: american
+❌ MISSING: artist
+❌ MISSING: artistic
+❌ MISSING: artists
+❌ MISSING: autobiographical
+❌ MISSING: become
+❌ MISSING: billion
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Taylor Alison Swift is an American singer-songwriter
+[GPT-2]     Write a short biography of Taylor Swift
+→ Cosine Similarity: 0.66
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.58
+Missing Keywords: 34
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Taylor Swift (ID: Q26876) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20at%20the%202023%20MTV%20Video%20Music%20Awards%204.png
+place of birth: West Reading
+sex or gender: female
+father: Scott Swift
+mother: Andrea Finlay
+country of citizenship: United States
+instance of: human
+educated at: Wyomissing Area Junior/Senior High School
+field of work: country music
+native language: English
+occupation: philanthropist
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20signature.svg
+genre: country pop
+religion or worldview: Christianity
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%202020%20logo.svg
+award received: MTV Video Music Award for Best Video with a Social Message
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Taylor Swift.
+
+"I think he's the kind of guy who needs to do that," says Taylor, who came to prominence at the age of 12 for her song "Hallelujah." "Taylor's a genius. She's a genius about music. What she does really well is she creates art. She has her own style, her own style of music. The way she's doing it, she's really, really innovative. She knows how to break up the noise, to create a whole new world. You can't make a sound without a way to create a whole new world."
+
+Taylor's own style — which has a more melodic style than some of Taylor's other works — has been described as "soulful, soulful. She's beautiful. When she's not singing or dancing or singing, she's singing. She's a really good singer, a really good singer."
+
+With a passion for the world, Taylor is particularly passionate about life: "I love doing business at least as much as I love working for myself, and I love what I do," says Taylor. "I know what I wanna do. I know how to make money. I know how to make money for myself. And I don't like it when I'm doing it for the money. I don't like being in debt, or my kids paying rent. I don't like the fact that I'm doing something that I love
+
+Semantic Similarity Score: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20at%20the%202023%20MTV%20Video%20Music%20Awards%204.png
+❌ MISSING: place of birth: West Reading
+❌ MISSING: sex or gender: female
+❌ MISSING: father: Scott Swift
+❌ MISSING: mother: Andrea Finlay
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+❌ MISSING: educated at: Wyomissing Area Junior/Senior High School
+❌ MISSING: field of work: country music
+❌ MISSING: native language: English
+❌ MISSING: occupation: philanthropist
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20signature.svg
+❌ MISSING: genre: country pop
+❌ MISSING: religion or worldview: Christianity
+❌ MISSING: logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%202020%20logo.svg
+❌ MISSING: award received: MTV Video Music Award for Best Video with a Social Message
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20at%20the%202023%20MTV%20Video%20Music%20Awards%204.png — Similarity: 0.44
+❌ place of birth: West Reading — Similarity: 0.11
+❌ sex or gender: female — Similarity: 0.12
+❌ father: Scott Swift — Similarity: 0.27
+❌ mother: Andrea Finlay — Similarity: 0.02
+❌ country of citizenship: United States — Similarity: 0.08
+❌ instance of: human — Similarity: 0.03
+❌ educated at: Wyomissing Area Junior/Senior High School — Similarity: 0.08
+❌ field of work: country music — Similarity: 0.26
+❌ native language: English — Similarity: 0.16
+❌ occupation: philanthropist — Similarity: 0.11
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20signature.svg — Similarity: 0.15
+❌ genre: country pop — Similarity: 0.23
+❌ religion or worldview: Christianity — Similarity: 0.05
+❌ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%202020%20logo.svg — Similarity: 0.19
+❌ award received: MTV Video Music Award for Best Video with a Social Message — Similarity: 0.19
+
+=== Final Summary ===
+Semantic Similarity: 0.42
+Prompt Repeated: No
+Facts Semantically Matched: 0/16
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Taylor Swift ==========
+Taylor Swift. American singer and songwriter. Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Taylor Swift.
+
+"I think he's the kind of guy who needs to do that," says Taylor, who came to prominence at the age of 12 for her song "Hallelujah." "Taylor's a genius. She's a genius about music. What she does really well is she creates art. She has her own style, her own style of music. The way she's doing it, she's really, really innovative. She knows how to break up the noise, to create a whole new world. You can't make a sound without a way to create a whole new world."
+
+Taylor's own style — which has a more melodic style than some of Taylor's other works — has been described as "soulful, soulful. She's beautiful. When she's not singing or dancing or singing, she's singing. She's a really good singer, a really good singer."
+
+With a passion for the world, Taylor is particularly passionate about life: "I love doing business at least as much as I love working for myself, and I love what I do," says Taylor. "I know what I wanna do. I know how to make money. I know how to make money for myself. And I don't like it when I'm doing it for the money. I don't like being in debt, or my kids paying rent. I don't like the fact that I'm doing something that I love
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.66
+✅ GPT-2 output aligns semantically with Knowledge Graph.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: amass
+❌ MISSING: first
+❌ MISSING: worth
+❌ MISSING: songwriting
+❌ MISSING: musician
+❌ MISSING: touring
+❌ MISSING: primarily
+❌ MISSING: known
+❌ MISSING: artist
+❌ MISSING: through
+
+========== Verdict Summary ==========
+Semantic Score: 0.66
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 34)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/16 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

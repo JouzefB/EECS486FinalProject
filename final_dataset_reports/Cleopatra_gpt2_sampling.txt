@@ -1,0 +1,167 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Cleopatra ==========
+Write a short biography of Cleopatra.
+
+Bryson: Cleopatra was a woman of very poor means. She was a woman of very poor means who was in debt to the crown, who was in debt to her family, who was in debt to her friends and relatives, who was in debt to the king. She looked after herself, she was a woman of very poor means and was in debt to her family.
+
+R.E: She had a very bad temper and she was always angry, she was a girl who was too young to be her own mother.
+
+Bryson: She was more of a girl that she was kind to herself and she was in debt to her family. She didn't want to be a queen at all. She wanted to be good at everything, she was good at all. She was not a queen at all.
+
+R.E: She had a great deal of power over her country. She was a powerful one. She was a great ruler. She was a great ruler who saw the need to do something about the situation and she wanted to do something about it.
+
+Bryson: She was a strong woman who was determined to do something about the situation. She was determined to do something about it.
+
+R.E: She was a great ruler who was very strong. She was very strong. She was determined to do something about the situation.
+
+Bryson
+
+========== Wikipedia Summary ==========
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.44
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: active
+❌ MISSING: alexander
+❌ MISSING: among
+❌ MISSING: became
+❌ MISSING: begun
+❌ MISSING: companion
+❌ MISSING: death
+❌ MISSING: descendant
+❌ MISSING: during
+❌ MISSING: dynasty
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh
+[GPT-2]     Write a short biography of Cleopatra
+→ Cosine Similarity: 0.54
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.44
+Missing Keywords: 39
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+said to be the same as: Κλεοπάτρα
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+Bryson: Cleopatra was a woman of very poor means. She was a woman of very poor means who was in debt to the crown, who was in debt to her family, who was in debt to her friends and relatives, who was in debt to the king. She looked after herself, she was a woman of very poor means and was in debt to her family.
+
+R.E: She had a very bad temper and she was always angry, she was a girl who was too young to be her own mother.
+
+Bryson: She was more of a girl that she was kind to herself and she was in debt to her family. She didn't want to be a queen at all. She wanted to be good at everything, she was good at all. She was not a queen at all.
+
+R.E: She had a great deal of power over her country. She was a powerful one. She was a great ruler. She was a great ruler who saw the need to do something about the situation and she wanted to do something about it.
+
+Bryson: She was a strong woman who was determined to do something about the situation. She was determined to do something about it.
+
+R.E: She was a great ruler who was very strong. She was very strong. She was determined to do something about the situation.
+
+Bryson
+
+Semantic Similarity Score: 0.29
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+❌ MISSING: said to be the same as: Κλεοπάτρα
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+
+=== Semantic Match per Fact ===
+❌ instance of: female given name — Similarity: 0.20
+❌ writing system: Latin script — Similarity: 0.07
+❌ Commons category: Cleopatra (given name) — Similarity: 0.47
+❌ language of work or name: Italian — Similarity: 0.07
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.27
+❌ said to be the same as: Κλεοπάτρα — Similarity: 0.16
+❌ native label: Cleopatra — Similarity: 0.44
+✅ different from: Cleopatra — Similarity: 0.56
+❌ Soundex: C413 — Similarity: -0.01
+❌ Cologne phonetics: 45127 — Similarity: 0.01
+❌ Caverphone: KLPTR1 — Similarity: -0.03
+
+=== Final Summary ===
+Semantic Similarity: 0.29
+Prompt Repeated: No
+Facts Semantically Matched: 1/11
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Cleopatra ==========
+Cleopatra. Queen of the Ptolemaic Kingdom of Egypt. Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Cleopatra.
+
+Bryson: Cleopatra was a woman of very poor means. She was a woman of very poor means who was in debt to the crown, who was in debt to her family, who was in debt to her friends and relatives, who was in debt to the king. She looked after herself, she was a woman of very poor means and was in debt to her family.
+
+R.E: She had a very bad temper and she was always angry, she was a girl who was too young to be her own mother.
+
+Bryson: She was more of a girl that she was kind to herself and she was in debt to her family. She didn't want to be a queen at all. She wanted to be good at everything, she was good at all. She was not a queen at all.
+
+R.E: She had a great deal of power over her country. She was a powerful one. She was a great ruler. She was a great ruler who saw the need to do something about the situation and she wanted to do something about it.
+
+Bryson: She was a strong woman who was determined to do something about the situation. She was determined to do something about it.
+
+R.E: She was a great ruler who was very strong. She was very strong. She was determined to do something about the situation.
+
+Bryson
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.48
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: egypt
+❌ MISSING: ptolemaic
+❌ MISSING: philopator
+❌ MISSING: hellenistic
+❌ MISSING: active
+❌ MISSING: kingdom
+
+========== Verdict Summary ==========
+Semantic Score: 0.48
+Missing Keywords: 6
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 39)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/11 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 6)

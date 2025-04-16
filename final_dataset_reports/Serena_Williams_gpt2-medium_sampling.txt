@@ -1,0 +1,261 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Serena Williams ==========
+Write a short biography of Serena Williams.
+
+If you're a young woman, you might want to try to get a job as a stylist.
+
+If you're a young man, you might want to try to get a job as a coach.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young man, you might want to try to get a job as a doctor.
+
+If you're a young woman, you might want to try to get a job as a professor.
+
+If you're a young woman, you might want to try to get a job as a lawyer.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young man, you might want to try to get a job as a carpenter.
+
+If you're a young woman, you might want to try to get a job as a model.
+
+If you're a young woman, you might want to try to get a job as a lawyer.
+
+If you're a young man, you might want to try to get a job as a doctor.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young woman, you might want to try to get a job as a professor.
+
+If
+
+========== Wikipedia Summary ==========
+Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association (WTA) for 319 weeks, and finished as the year-end No. 1 five times. Williams won 73 WTA Tour-level singles titles, including 23 major women's singles titles — the most in the Open Era, and the second-most of all time. She is the only player to accomplish a career Golden Slam in both singles and doubles.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.19
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: accomplish
+❌ MISSING: american
+❌ MISSING: association
+❌ MISSING: career
+❌ MISSING: doubles
+❌ MISSING: finished
+❌ MISSING: former
+❌ MISSING: golden
+❌ MISSING: including
+❌ MISSING: jameka
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Serena Jameka Williams is an American former professional tennis player
+[GPT-2]     Write a short biography of Serena Williams
+→ Cosine Similarity: 0.65
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.19
+Missing Keywords: 23
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Serena Williams (ID: Q11459) ===
+Rotten Tomatoes ID: celebrity/serena_williams
+Notable Names Database ID: 205/000023136
+Munzinger Sport number: 01000005440
+Gran Enciclopèdia Catalana ID (former scheme): 0256196
+partner in business or sport: Venus Williams
+eye color: dark brown
+described by source: Notable Black American Women
+participant in: 2018 Fed Cup
+ranking: 1
+National Library of Latvia ID: 000263161
+nominated for: Best Female Tennis Player ESPY Award
+languages spoken, written or signed: English
+Encyclopædia Britannica Online ID: biography/Serena-Williams
+topic's main template: Template:Serena Williams
+Sports-Reference.com Olympic athlete ID (archived): wi/serena-williams-1
+birth name: Serena Jameka Williams
+country for sport: United States
+BBC Things ID: 1ba140f2-c120-47d2-b258-7250da78eb39
+NLP ID (old): a0000002781789
+Metacritic ID: person/serena-williams
+GTAA ID: 170562
+hair color: black hair
+X (Twitter) username: serenawilliams
+Instagram username: serenawilliams
+Facebook username: SerenaWilliams
+work period (start): 1995-10-01T00:00:00Z
+work period (end): 2022-09-01T00:00:00Z
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Serena Williams.
+
+If you're a young woman, you might want to try to get a job as a stylist.
+
+If you're a young man, you might want to try to get a job as a coach.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young man, you might want to try to get a job as a doctor.
+
+If you're a young woman, you might want to try to get a job as a professor.
+
+If you're a young woman, you might want to try to get a job as a lawyer.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young man, you might want to try to get a job as a carpenter.
+
+If you're a young woman, you might want to try to get a job as a model.
+
+If you're a young woman, you might want to try to get a job as a lawyer.
+
+If you're a young man, you might want to try to get a job as a doctor.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young woman, you might want to try to get a job as a professor.
+
+If
+
+Semantic Similarity Score: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Rotten Tomatoes ID: celebrity/serena_williams
+❌ MISSING: Notable Names Database ID: 205/000023136
+❌ MISSING: Munzinger Sport number: 01000005440
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0256196
+❌ MISSING: partner in business or sport: Venus Williams
+❌ MISSING: eye color: dark brown
+❌ MISSING: described by source: Notable Black American Women
+❌ MISSING: participant in: 2018 Fed Cup
+❌ MISSING: ranking: 1
+❌ MISSING: National Library of Latvia ID: 000263161
+❌ MISSING: nominated for: Best Female Tennis Player ESPY Award
+❌ MISSING: languages spoken, written or signed: English
+❌ MISSING: Encyclopædia Britannica Online ID: biography/Serena-Williams
+❌ MISSING: topic's main template: Template:Serena Williams
+❌ MISSING: Sports-Reference.com Olympic athlete ID (archived): wi/serena-williams-1
+❌ MISSING: birth name: Serena Jameka Williams
+❌ MISSING: country for sport: United States
+❌ MISSING: BBC Things ID: 1ba140f2-c120-47d2-b258-7250da78eb39
+❌ MISSING: NLP ID (old): a0000002781789
+❌ MISSING: Metacritic ID: person/serena-williams
+❌ MISSING: GTAA ID: 170562
+❌ MISSING: hair color: black hair
+❌ MISSING: X (Twitter) username: serenawilliams
+❌ MISSING: Instagram username: serenawilliams
+❌ MISSING: Facebook username: SerenaWilliams
+❌ MISSING: work period (start): 1995-10-01T00:00:00Z
+❌ MISSING: work period (end): 2022-09-01T00:00:00Z
+
+=== Semantic Match per Fact ===
+❌ Rotten Tomatoes ID: celebrity/serena_williams — Similarity: 0.28
+❌ Notable Names Database ID: 205/000023136 — Similarity: -0.02
+❌ Munzinger Sport number: 01000005440 — Similarity: 0.07
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0256196 — Similarity: 0.03
+❌ partner in business or sport: Venus Williams — Similarity: 0.30
+❌ eye color: dark brown — Similarity: 0.01
+❌ described by source: Notable Black American Women — Similarity: 0.18
+❌ participant in: 2018 Fed Cup — Similarity: 0.03
+❌ ranking: 1 — Similarity: 0.02
+❌ National Library of Latvia ID: 000263161 — Similarity: 0.06
+❌ nominated for: Best Female Tennis Player ESPY Award — Similarity: 0.15
+❌ languages spoken, written or signed: English — Similarity: 0.11
+❌ Encyclopædia Britannica Online ID: biography/Serena-Williams — Similarity: 0.34
+❌ topic's main template: Template:Serena Williams — Similarity: 0.37
+❌ Sports-Reference.com Olympic athlete ID (archived): wi/serena-williams-1 — Similarity: 0.33
+❌ birth name: Serena Jameka Williams — Similarity: 0.33
+❌ country for sport: United States — Similarity: 0.12
+❌ BBC Things ID: 1ba140f2-c120-47d2-b258-7250da78eb39 — Similarity: 0.04
+❌ NLP ID (old): a0000002781789 — Similarity: 0.06
+❌ Metacritic ID: person/serena-williams — Similarity: 0.24
+❌ GTAA ID: 170562 — Similarity: -0.02
+❌ hair color: black hair — Similarity: 0.08
+❌ X (Twitter) username: serenawilliams — Similarity: 0.24
+❌ Instagram username: serenawilliams — Similarity: 0.26
+❌ Facebook username: SerenaWilliams — Similarity: 0.31
+❌ work period (start): 1995-10-01T00:00:00Z — Similarity: 0.11
+❌ work period (end): 2022-09-01T00:00:00Z — Similarity: 0.07
+
+=== Final Summary ===
+Semantic Similarity: 0.31
+Prompt Repeated: No
+Facts Semantically Matched: 0/27
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Serena Williams ==========
+Serena Williams. American former tennis player. Serena Jameka Williams is an American former professional tennis player. She was ranked as the world No. 1 in women's singles by the Women's Tennis Association for 319 weeks, and finished as the year-end No. 1 five times.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Serena Williams.
+
+If you're a young woman, you might want to try to get a job as a stylist.
+
+If you're a young man, you might want to try to get a job as a coach.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young man, you might want to try to get a job as a doctor.
+
+If you're a young woman, you might want to try to get a job as a professor.
+
+If you're a young woman, you might want to try to get a job as a lawyer.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young man, you might want to try to get a job as a carpenter.
+
+If you're a young woman, you might want to try to get a job as a model.
+
+If you're a young woman, you might want to try to get a job as a lawyer.
+
+If you're a young man, you might want to try to get a job as a doctor.
+
+If you're a young woman, you might want to try to get a job as a teacher.
+
+If you're a young woman, you might want to try to get a job as a professor.
+
+If
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.20
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: world
+❌ MISSING: former
+❌ MISSING: tennis
+❌ MISSING: jameka
+❌ MISSING: finished
+❌ MISSING: ranked
+❌ MISSING: singles
+❌ MISSING: association
+❌ MISSING: williams
+❌ MISSING: american
+
+========== Verdict Summary ==========
+Semantic Score: 0.20
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 23)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/27 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

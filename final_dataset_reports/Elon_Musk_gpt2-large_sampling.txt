@@ -1,0 +1,201 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Elon Musk ==========
+Write a short biography of Elon Musk.
+
+A short biography of Elon Musk:
+
+Elon Musk, founder of Tesla Motors Inc., SpaceX, and SolarCity, was born on August 5, 1955 in Manhattan, New York.
+
+Musk has been an entrepreneur since he was a child. Having spent his earliest years in the Bronx, he went on to attend the University of Pennsylvania and study electrical engineering.
+
+At Penn, Musk was exposed to the world of computing and electronics, which would eventually lead him to start his own company, SpaceX, in 1984.
+
+Musk's first major endeavor was the launch of the Space Shuttle, and he has since taken this into a new direction.
+
+Tesla Motors Inc. was founded in 2003 to produce electric vehicles and other technologies that could be used to create a sustainable transportation industry.
+
+Musk is best known for his involvement in SpaceX, which is owned by Tesla Motors Inc., and Tesla Motors, Inc. (TSLA)
+
+In 2009, Musk launched Space Exploration Technologies, or SpaceX, in order to explore the possibility of using space to colonize planets.
+
+In the last few years, Musk has expanded on his business ventures to include solar energy and electric vehicles.
+
+In November 2014, Musk's Space Exploration Technologies Corp. announced a partnership with SolarCity Corp. to produce solar cells and electric vehicles, and in May 2015, Tesla Motors announced that it would be acquiring SolarCity for $
+
+========== Wikipedia Summary ==========
+Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency (DOGE). Musk is the wealthiest person in the world; as of March 2025, Forbes estimates his net worth to be US$345 billion. He was named Time magazine's Person of the Year in 2021.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.64
+✅ GPT-2 output looks consistent with Wikipedia.
+
+========== Top Missing Keywords ==========
+❌ MISSING: advisor
+❌ MISSING: billion
+❌ MISSING: businessman
+❌ MISSING: department
+❌ MISSING: donald
+❌ MISSING: efficiency
+❌ MISSING: estimates
+❌ MISSING: facto
+❌ MISSING: forbes
+❌ MISSING: government
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X
+[GPT-2]     Musk is best known for his involvement in SpaceX, which is owned by Tesla Motors Inc
+→ Cosine Similarity: 0.79
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.64
+Missing Keywords: 23
+✅ Biography is semantically aligned with Wikipedia.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Elon Musk (ID: Q317521) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg
+place of birth: Pretoria
+sex or gender: male
+father: Errol Musk
+mother: Maye Musk
+spouse: Justine Musk
+country of citizenship: South Africa
+instance of: human
+position held: co-president
+child: Arcadia Musk
+family: Musk family
+educated at: Smith School of Business
+field of work: tech entrepreneurship
+native language: English
+occupation: programmer
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Elon Musk.
+
+A short biography of Elon Musk:
+
+Elon Musk, founder of Tesla Motors Inc., SpaceX, and SolarCity, was born on August 5, 1955 in Manhattan, New York.
+
+Musk has been an entrepreneur since he was a child. Having spent his earliest years in the Bronx, he went on to attend the University of Pennsylvania and study electrical engineering.
+
+At Penn, Musk was exposed to the world of computing and electronics, which would eventually lead him to start his own company, SpaceX, in 1984.
+
+Musk's first major endeavor was the launch of the Space Shuttle, and he has since taken this into a new direction.
+
+Tesla Motors Inc. was founded in 2003 to produce electric vehicles and other technologies that could be used to create a sustainable transportation industry.
+
+Musk is best known for his involvement in SpaceX, which is owned by Tesla Motors Inc., and Tesla Motors, Inc. (TSLA)
+
+In 2009, Musk launched Space Exploration Technologies, or SpaceX, in order to explore the possibility of using space to colonize planets.
+
+In the last few years, Musk has expanded on his business ventures to include solar energy and electric vehicles.
+
+In November 2014, Musk's Space Exploration Technologies Corp. announced a partnership with SolarCity Corp. to produce solar cells and electric vehicles, and in May 2015, Tesla Motors announced that it would be acquiring SolarCity for $
+
+Semantic Similarity Score: 0.42
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg
+❌ MISSING: place of birth: Pretoria
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Errol Musk
+❌ MISSING: mother: Maye Musk
+❌ MISSING: spouse: Justine Musk
+❌ MISSING: country of citizenship: South Africa
+❌ MISSING: instance of: human
+❌ MISSING: position held: co-president
+✅ Mentioned: child: Arcadia Musk
+❌ MISSING: family: Musk family
+❌ MISSING: educated at: Smith School of Business
+❌ MISSING: field of work: tech entrepreneurship
+❌ MISSING: native language: English
+❌ MISSING: occupation: programmer
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg — Similarity: 0.15
+❌ place of birth: Pretoria — Similarity: -0.05
+❌ sex or gender: male — Similarity: 0.03
+❌ father: Errol Musk — Similarity: 0.43
+❌ mother: Maye Musk — Similarity: 0.33
+❌ spouse: Justine Musk — Similarity: 0.47
+❌ country of citizenship: South Africa — Similarity: -0.03
+❌ instance of: human — Similarity: -0.02
+❌ position held: co-president — Similarity: 0.04
+❌ child: Arcadia Musk — Similarity: 0.26
+✅ family: Musk family — Similarity: 0.51
+❌ educated at: Smith School of Business — Similarity: 0.14
+❌ field of work: tech entrepreneurship — Similarity: 0.28
+❌ native language: English — Similarity: -0.00
+❌ occupation: programmer — Similarity: 0.14
+
+=== Final Summary ===
+Semantic Similarity: 0.42
+Prompt Repeated: No
+Facts Semantically Matched: 1/15
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Elon Musk ==========
+Elon Musk. Senior Advisor to the President of the United States. Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Elon Musk.
+
+A short biography of Elon Musk:
+
+Elon Musk, founder of Tesla Motors Inc., SpaceX, and SolarCity, was born on August 5, 1955 in Manhattan, New York.
+
+Musk has been an entrepreneur since he was a child. Having spent his earliest years in the Bronx, he went on to attend the University of Pennsylvania and study electrical engineering.
+
+At Penn, Musk was exposed to the world of computing and electronics, which would eventually lead him to start his own company, SpaceX, in 1984.
+
+Musk's first major endeavor was the launch of the Space Shuttle, and he has since taken this into a new direction.
+
+Tesla Motors Inc. was founded in 2003 to produce electric vehicles and other technologies that could be used to create a sustainable transportation industry.
+
+Musk is best known for his involvement in SpaceX, which is owned by Tesla Motors Inc., and Tesla Motors, Inc. (TSLA)
+
+In 2009, Musk launched Space Exploration Technologies, or SpaceX, in order to explore the possibility of using space to colonize planets.
+
+In the last few years, Musk has expanded on his business ventures to include solar energy and electric vehicles.
+
+In November 2014, Musk's Space Exploration Technologies Corp. announced a partnership with SolarCity Corp. to produce solar cells and electric vehicles, and in May 2015, Tesla Motors announced that it would be acquiring SolarCity for $
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.63
+✅ GPT-2 output aligns semantically with Knowledge Graph.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: states
+❌ MISSING: donald
+❌ MISSING: united
+❌ MISSING: facto
+❌ MISSING: leadership
+❌ MISSING: government
+❌ MISSING: president
+❌ MISSING: advisor
+❌ MISSING: senior
+❌ MISSING: businessman
+
+========== Verdict Summary ==========
+Semantic Score: 0.63
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ✅ GPT-2 output looks consistent with Wikipedia. (Missing: 23)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/15 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

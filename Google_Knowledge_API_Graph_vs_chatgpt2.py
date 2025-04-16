@@ -1,5 +1,3 @@
-# Google_Knowledge_API_Graph_vs_chatgpt2.py
-
 import requests
 from transformers import pipeline
 from sentence_transformers import SentenceTransformer, util
@@ -7,6 +5,7 @@ import os
 
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def get_knowledge_graph_data(query, api_key):
     url = "https://kgsearch.googleapis.com/v1/entities:search"
@@ -34,40 +33,93 @@ def summarize_differences(kg_text, gpt_text):
     missing_words = kg_words - gpt_words
     return [w for w in missing_words if len(w) > 4 and w.isalpha()][:10]
 
-def run_kg_comparison(person, api_key, model_name="gpt2"):
+def run_kg_comparison(person, api_key, model_name="gpt2", gpt_output=None, repeated_prompt=False):
     lines = []
+    header = lambda title: f"\n{'=' * 10} {title} {'=' * 10}"
 
+    # Get Knowledge Graph summary
     kg_text = get_knowledge_graph_data(person, api_key)
+    lines.append(header(f"Knowledge Graph Data for {person}"))
     if kg_text:
-        lines.append(f"=== Knowledge Graph Data for {person} ===")
-        
         lines.append(kg_text)
     else:
-        lines.append(f"No data found in Knowledge Graph for {person}")
-        kg_text = ""
+        lines.append("[❌] No data found in Knowledge Graph.")
+        return {
+            "text": "\n".join(lines),
+            "verdict": "⚠️ No Knowledge Graph data found.",
+            "similarity": 0.0,
+            "num_missing_keywords": 0,
+            "missing_keywords": []
+        }
 
-    generator = pipeline("text-generation", model=model_name, device=-1)
-    gpt_output = generator(f"Write a short biography of {person}.", max_length=200, do_sample=True, temperature=0.7)[0]["generated_text"]
-    lines.append(f"\n=== GPT-2 Generated Biography ===")
+    # Generate GPT-2 output only if not passed
+    if gpt_output is None:
+        generator = pipeline("text-generation", model=model_name, device=-1)
+        prompt = f"Write a short biography of {person}."
+        gpt_output = generator(prompt, max_length=300, do_sample=False)[0]["generated_text"]
+        repeated_prompt = gpt_output.lower().count(prompt.lower()) > 2
 
+    if repeated_prompt:
+        lines.append("⚠️ Detected prompt repetition — GPT may have echoed the instruction.")
+
+    lines.append(header("GPT-2 Generated Biography"))
     lines.append(gpt_output)
 
+    # Semantic Similarity Calculation
     model = SentenceTransformer("all-MiniLM-L6-v2")
-
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
     embedding_kg = model.encode(kg_text, convert_to_tensor=True)
     similarity = util.pytorch_cos_sim(embedding_gpt, embedding_kg).item()
 
-    lines.append(f"\nSemantic Similarity to Knowledge Graph Data: {similarity:.2f}")
-    lines.append("✅ GPT-2 output looks consistent with Knowledge Graph data." if similarity >= 0.6 else "⚠️ GPT-2 output is SUSPICIOUS.")
+    lines.append(header("Semantic Similarity Score"))
+    lines.append(f"Cosine Similarity Score: {similarity:.2f}")
+    semantic_ok = similarity >= 0.6
+    lines.append("✅ GPT-2 output aligns semantically with Knowledge Graph." if semantic_ok else "⚠️ GPT-2 output is semantically inconsistent or unrelated.")
 
-    lines.append("\n=== Summary of Differences (Missing Key Terms) ===")
-    if kg_text:
-        missing_keywords = summarize_differences(kg_text, gpt_output)
-        if missing_keywords:
-            for word in missing_keywords:
-                lines.append(f"❌ MISSING KEYWORD: {word}")
-        else:
-            lines.append("✅ All key terms from Knowledge Graph were referenced.")
+    # Keyword Difference Summary
+    lines.append(header("Missing Key Terms from GPT-2 Output"))
+    missing_keywords = summarize_differences(kg_text, gpt_output)
+    for word in missing_keywords:
+        lines.append(f"❌ MISSING: {word}")
+    if not missing_keywords:
+        lines.append("✅ All major keywords present in GPT-2 output.")
 
-    return "\n".join(lines)
+    # Final Verdict
+    lines.append(header("Verdict Summary"))
+    lines.append(f"Semantic Score: {similarity:.2f}")
+    lines.append(f"Missing Keywords: {len(missing_keywords)}")
+    lines.append(f"Prompt Repeated: {'Yes' if repeated_prompt else 'No'}")
+
+    if semantic_ok and len(missing_keywords) <= 3:
+        verdict = "✅ GPT-2 output PASSES semantic + factual check."
+    else:
+        verdict = "⚠️ GPT-2 output LIKELY contains hallucinations or omissions."
+    lines.append(verdict)
+
+    return {
+        "text": "\n".join(lines),
+        "verdict": verdict,
+        "similarity": similarity,
+        "num_missing_keywords": len(missing_keywords),
+        "missing_keywords": missing_keywords
+    }
+
+# CLI test entry
+if __name__ == "__main__":
+    import argparse
+    from transformers import pipeline
+
+    parser = argparse.ArgumentParser(description="Compare GPT-2 biography with Google Knowledge Graph data.")
+    parser.add_argument("--person", required=True, help="Name of the person to query")
+    parser.add_argument("--api_key", required=True, help="Google Knowledge Graph API key")
+    parser.add_argument("--model", default="gpt2", help="Hugging Face model name (default: gpt2)")
+    parser.add_argument("--tag", default="sampling", help="sampling or greedy")
+    args = parser.parse_args()
+
+    prompt = f"Write a short biography of {args.person}."
+    generator = pipeline("text-generation", model=args.model, device=-1)
+    gpt_output = generator(prompt, max_length=300, do_sample=(args.tag == "sampling"))[0]["generated_text"]
+    repeated = gpt_output.lower().count(prompt.lower()) > 2
+
+    result = run_kg_comparison(args.person, args.api_key, args.model, gpt_output, repeated)
+    print(result["text"])

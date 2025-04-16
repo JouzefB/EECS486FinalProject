@@ -1,0 +1,157 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Cleopatra ==========
+Write a short biography of Cleopatra.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cle
+
+========== Wikipedia Summary ==========
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.40
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: active
+❌ MISSING: after
+❌ MISSING: alexander
+❌ MISSING: among
+❌ MISSING: became
+❌ MISSING: begun
+❌ MISSING: companion
+❌ MISSING: death
+❌ MISSING: descendant
+❌ MISSING: during
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh
+[GPT-2]     The book is a collection of essays by Cleopatra, written in the early years of her reign
+→ Cosine Similarity: 0.56
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.40
+Missing Keywords: 41
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+said to be the same as: Κλεοπάτρα
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cle
+
+Semantic Similarity Score: 0.31
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+❌ MISSING: said to be the same as: Κλεοπάτρα
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+
+=== Semantic Match per Fact ===
+❌ instance of: female given name — Similarity: 0.07
+❌ writing system: Latin script — Similarity: 0.14
+❌ Commons category: Cleopatra (given name) — Similarity: 0.38
+❌ language of work or name: Italian — Similarity: 0.09
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.20
+❌ said to be the same as: Κλεοπάτρα — Similarity: 0.04
+❌ native label: Cleopatra — Similarity: 0.40
+❌ different from: Cleopatra — Similarity: 0.46
+❌ Soundex: C413 — Similarity: -0.05
+❌ Cologne phonetics: 45127 — Similarity: 0.06
+❌ Caverphone: KLPTR1 — Similarity: -0.07
+
+=== Final Summary ===
+Semantic Similarity: 0.31
+Prompt Repeated: No
+Facts Semantically Matched: 0/11
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Cleopatra ==========
+Cleopatra. Queen of the Ptolemaic Kingdom of Egypt. Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Cleopatra.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cleopatra, was published in 1864.
+
+The book is a collection of essays by Cleopatra, written in the early years of her reign. The first book, The Life and Times of Cleopatra, was published in 1859. The second, The Life and Times of Cle
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.37
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: kingdom
+❌ MISSING: cleopatra
+❌ MISSING: hellenistic
+❌ MISSING: queen
+❌ MISSING: philopator
+❌ MISSING: active
+❌ MISSING: ptolemaic
+❌ MISSING: egypt
+
+========== Verdict Summary ==========
+Semantic Score: 0.37
+Missing Keywords: 8
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 41)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/11 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

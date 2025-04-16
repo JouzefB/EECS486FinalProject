@@ -1,0 +1,264 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Timothée Chalamet ==========
+Write a short biography of Timothée Chalamet.
+
+Timothy Chalamet Born 25 June 1869 in Paris, France
+
+Died 25 July 1922; he was the first French-born director of photography.
+
+Timothy Chalamet's first film, Les Petites Générale (1912), was shot on 35mm with a 20mm lens. A year later, he made his first film, Les Petites Enfants Terribles (1916), which was shot on a 35mm camera.
+
+Timothy Chalamet's father was a pharmacist and Chalamet was raised in a family of artisans. He studied at the Royal Academy of Fine Arts in Paris.
+
+He shot his first film in 1912, at the age of 19. He was the first director to shoot film on a 35mm camera.
+
+The first film made by Chalamet was Les Petites Générale.
+
+Timothy Chalamet received a Bézier Honorable Mention from the American Film Institute in the category of documentary film.
+
+Timothy Chalamet's first film, Les Petites Enfants Terribles (1916), was shot on a 35mm camera.
+
+Timothy Chalamet's first film, Les Petites Enfants Terribles (1916), was shot on a 35mm camera.
+
+Timothy Chalamet's
+
+========== Wikipedia Summary ==========
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.45
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: accolades
+❌ MISSING: actor
+❌ MISSING: actors
+❌ MISSING: addition
+❌ MISSING: award
+❌ MISSING: awards
+❌ MISSING: british
+❌ MISSING: globe
+❌ MISSING: golden
+❌ MISSING: guild
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Timothée Hal Chalamet is an American and French actor
+[GPT-2]     Write a short biography of Timothée Chalamet
+→ Cosine Similarity: 0.67
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.45
+Missing Keywords: 13
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+place of birth: Manhattan
+sex or gender: male
+country of citizenship: France
+instance of: human
+educated at: PS 87 William T. Sherman School
+field of work: acting
+native language: American English
+occupation: actor
+religion or worldview: Judaism
+award received: Lucille Lortel Award for Outstanding Lead Actor in a Play
+ISNI: 0000000468713031
+VIAF cluster ID: 28152820127300681335
+GND ID: 1154460568
+Library of Congress authority ID: no2016041218
+Bibliothèque nationale de France ID: 17759386x
+IdRef ID: 22873200X
+NACSIS-CAT author ID: DB00062901
+IMDb ID: nm3154303
+Commons category: Timothée Chalamet
+MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd
+unmarried partner: Lily-Rose Depp
+residence: Concourse
+date of birth: 1995-12-27T00:00:00Z
+Freebase ID: /m/0p2n1fp
+NL CR AUT ID: xx0249508
+family name: Chalamet
+given name: Timothée
+National Library of Spain ID: XX5792543
+described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style
+Nationale Thesaurus voor Auteursnamen ID: 417485956
+NORAF ID: 1523345892159
+relative: Harold Flender
+NUKAT ID: n2018137114
+Rotten Tomatoes ID: celebrity/timothee_chalamet
+AlloCiné person ID: 525421
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Timothée Chalamet.
+
+Timothy Chalamet Born 25 June 1869 in Paris, France
+
+Died 25 July 1922; he was the first French-born director of photography.
+
+Timothy Chalamet's first film, Les Petites Générale (1912), was shot on 35mm with a 20mm lens. A year later, he made his first film, Les Petites Enfants Terribles (1916), which was shot on a 35mm camera.
+
+Timothy Chalamet's father was a pharmacist and Chalamet was raised in a family of artisans. He studied at the Royal Academy of Fine Arts in Paris.
+
+He shot his first film in 1912, at the age of 19. He was the first director to shoot film on a 35mm camera.
+
+The first film made by Chalamet was Les Petites Générale.
+
+Timothy Chalamet received a Bézier Honorable Mention from the American Film Institute in the category of documentary film.
+
+Timothy Chalamet's first film, Les Petites Enfants Terribles (1916), was shot on a 35mm camera.
+
+Timothy Chalamet's first film, Les Petites Enfants Terribles (1916), was shot on a 35mm camera.
+
+Timothy Chalamet's
+
+Semantic Similarity Score: 0.26
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+❌ MISSING: place of birth: Manhattan
+❌ MISSING: sex or gender: male
+✅ Mentioned: country of citizenship: France
+❌ MISSING: instance of: human
+❌ MISSING: educated at: PS 87 William T. Sherman School
+❌ MISSING: field of work: acting
+❌ MISSING: native language: American English
+❌ MISSING: occupation: actor
+❌ MISSING: religion or worldview: Judaism
+❌ MISSING: award received: Lucille Lortel Award for Outstanding Lead Actor in a Play
+❌ MISSING: ISNI: 0000000468713031
+❌ MISSING: VIAF cluster ID: 28152820127300681335
+❌ MISSING: GND ID: 1154460568
+❌ MISSING: Library of Congress authority ID: no2016041218
+❌ MISSING: Bibliothèque nationale de France ID: 17759386x
+❌ MISSING: IdRef ID: 22873200X
+❌ MISSING: NACSIS-CAT author ID: DB00062901
+❌ MISSING: IMDb ID: nm3154303
+✅ Mentioned: Commons category: Timothée Chalamet
+❌ MISSING: MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd
+❌ MISSING: unmarried partner: Lily-Rose Depp
+❌ MISSING: residence: Concourse
+❌ MISSING: date of birth: 1995-12-27T00:00:00Z
+❌ MISSING: Freebase ID: /m/0p2n1fp
+❌ MISSING: NL CR AUT ID: xx0249508
+✅ Mentioned: family name: Chalamet
+✅ Mentioned: given name: Timothée
+❌ MISSING: National Library of Spain ID: XX5792543
+❌ MISSING: described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 417485956
+❌ MISSING: NORAF ID: 1523345892159
+❌ MISSING: relative: Harold Flender
+❌ MISSING: NUKAT ID: n2018137114
+❌ MISSING: Rotten Tomatoes ID: celebrity/timothee_chalamet
+❌ MISSING: AlloCiné person ID: 525421
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.25
+❌ place of birth: Manhattan — Similarity: 0.07
+❌ sex or gender: male — Similarity: -0.07
+❌ country of citizenship: France — Similarity: 0.16
+❌ instance of: human — Similarity: -0.06
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.01
+❌ field of work: acting — Similarity: 0.07
+❌ native language: American English — Similarity: -0.01
+❌ occupation: actor — Similarity: 0.19
+❌ religion or worldview: Judaism — Similarity: -0.11
+❌ award received: Lucille Lortel Award for Outstanding Lead Actor in a Play — Similarity: 0.11
+❌ ISNI: 0000000468713031 — Similarity: -0.08
+❌ VIAF cluster ID: 28152820127300681335 — Similarity: -0.07
+❌ GND ID: 1154460568 — Similarity: 0.02
+❌ Library of Congress authority ID: no2016041218 — Similarity: -0.10
+❌ Bibliothèque nationale de France ID: 17759386x — Similarity: 0.17
+❌ IdRef ID: 22873200X — Similarity: 0.05
+❌ NACSIS-CAT author ID: DB00062901 — Similarity: -0.02
+❌ IMDb ID: nm3154303 — Similarity: 0.19
+❌ Commons category: Timothée Chalamet — Similarity: 0.17
+❌ MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd — Similarity: 0.02
+❌ unmarried partner: Lily-Rose Depp — Similarity: 0.02
+❌ residence: Concourse — Similarity: -0.15
+❌ date of birth: 1995-12-27T00:00:00Z — Similarity: 0.17
+❌ Freebase ID: /m/0p2n1fp — Similarity: -0.01
+❌ NL CR AUT ID: xx0249508 — Similarity: 0.05
+❌ family name: Chalamet — Similarity: 0.29
+❌ given name: Timothée — Similarity: 0.27
+❌ National Library of Spain ID: XX5792543 — Similarity: -0.03
+❌ described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style — Similarity: 0.22
+❌ Nationale Thesaurus voor Auteursnamen ID: 417485956 — Similarity: 0.10
+❌ NORAF ID: 1523345892159 — Similarity: -0.05
+❌ relative: Harold Flender — Similarity: 0.09
+❌ NUKAT ID: n2018137114 — Similarity: -0.04
+❌ Rotten Tomatoes ID: celebrity/timothee_chalamet — Similarity: 0.38
+❌ AlloCiné person ID: 525421 — Similarity: 0.07
+
+=== Final Summary ===
+Semantic Similarity: 0.26
+Prompt Repeated: No
+Facts Semantically Matched: 0/36
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Timothée Chalamet ==========
+Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Timothée Chalamet.
+
+Timothy Chalamet Born 25 June 1869 in Paris, France
+
+Died 25 July 1922; he was the first French-born director of photography.
+
+Timothy Chalamet's first film, Les Petites Générale (1912), was shot on 35mm with a 20mm lens. A year later, he made his first film, Les Petites Enfants Terribles (1916), which was shot on a 35mm camera.
+
+Timothy Chalamet's father was a pharmacist and Chalamet was raised in a family of artisans. He studied at the Royal Academy of Fine Arts in Paris.
+
+He shot his first film in 1912, at the age of 19. He was the first director to shoot film on a 35mm camera.
+
+The first film made by Chalamet was Les Petites Générale.
+
+Timothy Chalamet received a Bézier Honorable Mention from the American Film Institute in the category of documentary film.
+
+Timothy Chalamet's first film, Les Petites Enfants Terribles (1916), was shot on a 35mm camera.
+
+Timothy Chalamet's first film, Les Petites Enfants Terribles (1916), was shot on a 35mm camera.
+
+Timothy Chalamet's
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.48
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: awards
+❌ MISSING: include
+❌ MISSING: golden
+❌ MISSING: accolades
+❌ MISSING: guild
+❌ MISSING: british
+❌ MISSING: globe
+❌ MISSING: nominations
+❌ MISSING: french
+❌ MISSING: screen
+
+========== Verdict Summary ==========
+Semantic Score: 0.48
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 13)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/36 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

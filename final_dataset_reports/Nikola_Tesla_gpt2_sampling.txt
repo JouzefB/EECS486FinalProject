@@ -1,0 +1,220 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Nikola Tesla ==========
+Write a short biography of Nikola Tesla. In the book, Tesla's first name is pronounced "TASU." Tesla, who died in 1936, was born on 5 May 1884 in Stalag 4th Ark, in the Russian state of Krasnoyarsk, in the eastern part of Russia. He was educated at the university of Krasnoyarsk. He was educated at Stalag 4th Ark and also at the University of Krasnoyarsk, a suburb of Stalag 4th Ark.
+
+After his death, Tesla's family moved to a small village in the Krasnoyarsk region of the Caucasus Mountains. He died in the summer of 1902 at the age of seventy-five. His family's name is pronounced as TASU. He became known as "The Electric Lady" in the Russian dialect of Chetan. Tesla's business interests included electricity.
+
+Tesla was a member of the Communist Party of Russia. He and his family are also members of the Russian Communist movement. Tesla has also written a number of books and articles.
+
+Tesla was a member of the Communist Party of Russia from 1933 to 1979. He was the founder of the Soviet-inspired party in the Soviet Union. In 1979, he founded the Communist Party of Russia.
+
+Tesla was born in Stalag. He was educated at the university of Krasnoyarsk, the state capital of the Russian state
+
+========== Wikipedia Summary ==========
+Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.61
+✅ GPT-2 output looks consistent with Wikipedia.
+
+========== Top Missing Keywords ==========
+❌ MISSING: alternating
+❌ MISSING: american
+❌ MISSING: contributions
+❌ MISSING: current
+❌ MISSING: design
+❌ MISSING: engineer
+❌ MISSING: futurist
+❌ MISSING: inventor
+❌ MISSING: modern
+❌ MISSING: serbian
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Nikola Tesla was a Serbian-American engineer, futurist, and inventor
+[GPT-2]     Write a short biography of Nikola Tesla
+→ Cosine Similarity: 0.70
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.61
+Missing Keywords: 12
+✅ Biography is semantically aligned with Wikipedia.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Nikola Tesla (ID: Q9036) ===
+mother: Đuka Mandic
+country of citizenship: Kingdom of Hungary
+instance of: human
+educated at: Graz University of Technology
+field of work: inventor
+native language: Serbo-Croatian
+occupation: electrical engineer
+employer: Tesla Electric Light & Manufacturing
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Nikola%20Tesla%20%281856%E2%80%931943%29%20Forscher%20und%20Erfinde.png
+religion or worldview: Serbian Orthodox Church
+award received: Edison Medal
+ISNI: 0000000121021829
+VIAF cluster ID: 70194046
+GND ID: 119219166
+Library of Congress authority ID: n78086404
+Union List of Artist Names ID: 500087411
+Bibliothèque nationale de France ID: 12567608n
+IdRef ID: 034983023
+NACSIS-CAT author ID: DA07566440
+IMDb ID: nm2410046
+NDL Authority ID: 00621553
+Commons category: Nikola Tesla
+SBN author ID: LO1V173467
+Libraries Australia ID: 35544219
+MusicBrainz artist ID: 7a69c37a-18ba-40dc-b808-da6c516346b3
+member of: Institute of Electrical and Electronics Engineers
+cause of death: myocardial infarction
+Find a Grave memorial ID: 1623
+residence: Colorado Springs
+date of birth: 1856-07-10T00:00:00Z
+date of death: 1943-01-07T00:00:00Z
+Freebase ID: /m/05d1y
+Open Library ID: OL31675A
+NL CR AUT ID: jn20000701791
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Nikola Tesla. In the book, Tesla's first name is pronounced "TASU." Tesla, who died in 1936, was born on 5 May 1884 in Stalag 4th Ark, in the Russian state of Krasnoyarsk, in the eastern part of Russia. He was educated at the university of Krasnoyarsk. He was educated at Stalag 4th Ark and also at the University of Krasnoyarsk, a suburb of Stalag 4th Ark.
+
+After his death, Tesla's family moved to a small village in the Krasnoyarsk region of the Caucasus Mountains. He died in the summer of 1902 at the age of seventy-five. His family's name is pronounced as TASU. He became known as "The Electric Lady" in the Russian dialect of Chetan. Tesla's business interests included electricity.
+
+Tesla was a member of the Communist Party of Russia. He and his family are also members of the Russian Communist movement. Tesla has also written a number of books and articles.
+
+Tesla was a member of the Communist Party of Russia from 1933 to 1979. He was the founder of the Soviet-inspired party in the Soviet Union. In 1979, he founded the Communist Party of Russia.
+
+Tesla was born in Stalag. He was educated at the university of Krasnoyarsk, the state capital of the Russian state
+
+Semantic Similarity Score: 0.43
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: mother: Đuka Mandic
+❌ MISSING: country of citizenship: Kingdom of Hungary
+❌ MISSING: instance of: human
+✅ Mentioned: educated at: Graz University of Technology
+❌ MISSING: field of work: inventor
+❌ MISSING: native language: Serbo-Croatian
+❌ MISSING: occupation: electrical engineer
+❌ MISSING: employer: Tesla Electric Light & Manufacturing
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Nikola%20Tesla%20%281856%E2%80%931943%29%20Forscher%20und%20Erfinde.png
+❌ MISSING: religion or worldview: Serbian Orthodox Church
+❌ MISSING: award received: Edison Medal
+❌ MISSING: ISNI: 0000000121021829
+❌ MISSING: VIAF cluster ID: 70194046
+❌ MISSING: GND ID: 119219166
+❌ MISSING: Library of Congress authority ID: n78086404
+❌ MISSING: Union List of Artist Names ID: 500087411
+❌ MISSING: Bibliothèque nationale de France ID: 12567608n
+❌ MISSING: IdRef ID: 034983023
+❌ MISSING: NACSIS-CAT author ID: DA07566440
+❌ MISSING: IMDb ID: nm2410046
+❌ MISSING: NDL Authority ID: 00621553
+✅ Mentioned: Commons category: Nikola Tesla
+❌ MISSING: SBN author ID: LO1V173467
+❌ MISSING: Libraries Australia ID: 35544219
+❌ MISSING: MusicBrainz artist ID: 7a69c37a-18ba-40dc-b808-da6c516346b3
+✅ Mentioned: member of: Institute of Electrical and Electronics Engineers
+❌ MISSING: cause of death: myocardial infarction
+❌ MISSING: Find a Grave memorial ID: 1623
+❌ MISSING: residence: Colorado Springs
+❌ MISSING: date of birth: 1856-07-10T00:00:00Z
+❌ MISSING: date of death: 1943-01-07T00:00:00Z
+❌ MISSING: Freebase ID: /m/05d1y
+❌ MISSING: Open Library ID: OL31675A
+❌ MISSING: NL CR AUT ID: jn20000701791
+
+=== Semantic Match per Fact ===
+❌ mother: Đuka Mandic — Similarity: 0.12
+❌ country of citizenship: Kingdom of Hungary — Similarity: 0.18
+❌ instance of: human — Similarity: 0.04
+❌ educated at: Graz University of Technology — Similarity: 0.13
+❌ field of work: inventor — Similarity: 0.20
+❌ native language: Serbo-Croatian — Similarity: 0.25
+❌ occupation: electrical engineer — Similarity: 0.17
+❌ employer: Tesla Electric Light & Manufacturing — Similarity: 0.35
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Nikola%20Tesla%20%281856%E2%80%931943%29%20Forscher%20und%20Erfinde.png — Similarity: 0.03
+❌ religion or worldview: Serbian Orthodox Church — Similarity: 0.15
+❌ award received: Edison Medal — Similarity: 0.20
+❌ ISNI: 0000000121021829 — Similarity: -0.04
+❌ VIAF cluster ID: 70194046 — Similarity: -0.07
+❌ GND ID: 119219166 — Similarity: 0.01
+❌ Library of Congress authority ID: n78086404 — Similarity: 0.10
+❌ Union List of Artist Names ID: 500087411 — Similarity: 0.11
+❌ Bibliothèque nationale de France ID: 12567608n — Similarity: 0.10
+❌ IdRef ID: 034983023 — Similarity: -0.01
+❌ NACSIS-CAT author ID: DA07566440 — Similarity: 0.08
+❌ IMDb ID: nm2410046 — Similarity: 0.00
+❌ NDL Authority ID: 00621553 — Similarity: -0.05
+❌ Commons category: Nikola Tesla — Similarity: 0.45
+❌ SBN author ID: LO1V173467 — Similarity: -0.03
+❌ Libraries Australia ID: 35544219 — Similarity: 0.01
+❌ MusicBrainz artist ID: 7a69c37a-18ba-40dc-b808-da6c516346b3 — Similarity: 0.04
+❌ member of: Institute of Electrical and Electronics Engineers — Similarity: 0.19
+❌ cause of death: myocardial infarction — Similarity: 0.09
+❌ Find a Grave memorial ID: 1623 — Similarity: 0.03
+❌ residence: Colorado Springs — Similarity: 0.01
+❌ date of birth: 1856-07-10T00:00:00Z — Similarity: 0.19
+❌ date of death: 1943-01-07T00:00:00Z — Similarity: 0.18
+❌ Freebase ID: /m/05d1y — Similarity: -0.01
+❌ Open Library ID: OL31675A — Similarity: 0.00
+❌ NL CR AUT ID: jn20000701791 — Similarity: -0.04
+
+=== Final Summary ===
+Semantic Similarity: 0.43
+Prompt Repeated: No
+Facts Semantically Matched: 0/34
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Nikola Tesla ==========
+Nikola Tesla. Engineer and futurist. Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current electricity supply system.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Nikola Tesla. In the book, Tesla's first name is pronounced "TASU." Tesla, who died in 1936, was born on 5 May 1884 in Stalag 4th Ark, in the Russian state of Krasnoyarsk, in the eastern part of Russia. He was educated at the university of Krasnoyarsk. He was educated at Stalag 4th Ark and also at the University of Krasnoyarsk, a suburb of Stalag 4th Ark.
+
+After his death, Tesla's family moved to a small village in the Krasnoyarsk region of the Caucasus Mountains. He died in the summer of 1902 at the age of seventy-five. His family's name is pronounced as TASU. He became known as "The Electric Lady" in the Russian dialect of Chetan. Tesla's business interests included electricity.
+
+Tesla was a member of the Communist Party of Russia. He and his family are also members of the Russian Communist movement. Tesla has also written a number of books and articles.
+
+Tesla was a member of the Communist Party of Russia from 1933 to 1979. He was the founder of the Soviet-inspired party in the Soviet Union. In 1979, he founded the Communist Party of Russia.
+
+Tesla was born in Stalag. He was educated at the university of Krasnoyarsk, the state capital of the Russian state
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.56
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: engineer
+❌ MISSING: electricity
+❌ MISSING: current
+❌ MISSING: modern
+❌ MISSING: contributions
+❌ MISSING: supply
+❌ MISSING: design
+❌ MISSING: alternating
+
+========== Verdict Summary ==========
+Semantic Score: 0.56
+Missing Keywords: 8
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ✅ GPT-2 output looks consistent with Wikipedia. (Missing: 12)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/34 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

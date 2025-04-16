@@ -1,0 +1,249 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Anne Frank ==========
+Write a short biography of Anne Frank.
+
+Anne Frank: A Life of Troubles and Triumphs, by Mark Twain.
+
+Anne Frank: A Life of Troubles and Triumphs, by Mark Twain. Anne Frank: A Life of Troubles and Triumphs, by J.R.R. Tolkien.
+
+Anne Frank: A Life of Troubles and Triumphs, by J.R.R. Tolkien. Anne Frank: A Life of Troubles and Triumphs by E.B. White.
+
+The Book of the Dead: Robert E. Howard's Life and Legacy, by Robert E. Howard and Robert I. Kaldor.
+
+The Book of the Dead: Robert E. Howard's Life and Legacy, by Robert E. Howard and Robert I. Kaldor. The Diary of Anne Frank, by Robert E. Howard.
+
+The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Edward J. Kinsley.
+
+The Diary of Anne Frank, by Edward J. Kinsley. The Diary of Anne Frank, by William Burroughs.
+
+The Diary of Anne Frank, by William Burroughs. The Diary of Anne Frank, by William Burroughs. The Diary of Anne
+
+========== Wikipedia Summary ==========
+Annelies Marie Frank was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands. A celebrated diarist, Frank described everyday life from her family's hiding place in an Amsterdam attic. She gained fame posthumously and became one of the most-discussed Jewish victims of the Holocaust with the 1947 publication of The Diary of a Young Girl, which documents her life in hiding from 1942 to 1944. It is one of the world's best-known books and has been the basis for several plays and films.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.49
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: amsterdam
+❌ MISSING: annelies
+❌ MISSING: attic
+❌ MISSING: basis
+❌ MISSING: became
+❌ MISSING: books
+❌ MISSING: celebrated
+❌ MISSING: described
+❌ MISSING: diarist
+❌ MISSING: discussed
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Annelies Marie Frank was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands
+[GPT-2]     Write a short biography of Anne Frank
+→ Cosine Similarity: 0.63
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.49
+Missing Keywords: 35
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Anne Frank (ID: Q4583) ===
+RSL ID (person): 000063263
+National Library of Israel ID (old): 000048557
+National Library of Spain ID: XX879997
+Portuguese National Library author ID: 26527
+Nationale Thesaurus voor Auteursnamen ID: 06835522X
+NORAF ID: 90105825
+relative: Eva Schloss
+Regensburg Classification: GU 64884
+manner of death: unnatural death
+NUKAT ID: n96032408
+NLC authorities: 023292748
+Internet Broadway Database person ID: 4177
+Internet Speculative Fiction Database author ID: 74961
+Notable Names Database ID: 937/000026859
+AlloCiné person ID: 37054
+CANTIC ID (former scheme): a10087187
+CONOR.SI ID: 7566435
+Munzinger person ID: 00000015613
+Gran Enciclopèdia Catalana ID (former scheme): 0028078
+depicted by: Where Is Anne Frank
+NLA Trove people ID: 826257
+described by source: 101 vrouwen en de oorlog
+National Library of Latvia ID: 000042708
+NSK ID: 000032819
+languages spoken, written or signed: Dutch
+Encyclopædia Britannica Online ID: biography/Anne-Frank
+topic's main template: Template:Anne Frank
+Jewish Encyclopedia ID (Russian): 14328
+image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Bergen-Belsen%20concentration%20camp%20memorial%20-%20Anne%20Frank%20-%20Margot%20Frank%20-%20representative%20grave.jpg
+Commons Creator page: Anne Frank
+birth name: Annelies Marie Frank
+name in native language: Annelies Marie Frank
+University of Barcelona authority ID (former scheme): a1359541
+BBC Things ID: fedce5e0-1a08-4aa7-b0f8-a8d2c66e0505
+Canadiana Authorities ID (former scheme): 0019E8639
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Anne Frank.
+
+Anne Frank: A Life of Troubles and Triumphs, by Mark Twain.
+
+Anne Frank: A Life of Troubles and Triumphs, by Mark Twain. Anne Frank: A Life of Troubles and Triumphs, by J.R.R. Tolkien.
+
+Anne Frank: A Life of Troubles and Triumphs, by J.R.R. Tolkien. Anne Frank: A Life of Troubles and Triumphs by E.B. White.
+
+The Book of the Dead: Robert E. Howard's Life and Legacy, by Robert E. Howard and Robert I. Kaldor.
+
+The Book of the Dead: Robert E. Howard's Life and Legacy, by Robert E. Howard and Robert I. Kaldor. The Diary of Anne Frank, by Robert E. Howard.
+
+The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Edward J. Kinsley.
+
+The Diary of Anne Frank, by Edward J. Kinsley. The Diary of Anne Frank, by William Burroughs.
+
+The Diary of Anne Frank, by William Burroughs. The Diary of Anne Frank, by William Burroughs. The Diary of Anne
+
+Semantic Similarity Score: 0.25
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: RSL ID (person): 000063263
+❌ MISSING: National Library of Israel ID (old): 000048557
+❌ MISSING: National Library of Spain ID: XX879997
+❌ MISSING: Portuguese National Library author ID: 26527
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 06835522X
+❌ MISSING: NORAF ID: 90105825
+❌ MISSING: relative: Eva Schloss
+❌ MISSING: Regensburg Classification: GU 64884
+❌ MISSING: manner of death: unnatural death
+❌ MISSING: NUKAT ID: n96032408
+❌ MISSING: NLC authorities: 023292748
+❌ MISSING: Internet Broadway Database person ID: 4177
+❌ MISSING: Internet Speculative Fiction Database author ID: 74961
+❌ MISSING: Notable Names Database ID: 937/000026859
+❌ MISSING: AlloCiné person ID: 37054
+❌ MISSING: CANTIC ID (former scheme): a10087187
+❌ MISSING: CONOR.SI ID: 7566435
+❌ MISSING: Munzinger person ID: 00000015613
+❌ MISSING: Gran Enciclopèdia Catalana ID (former scheme): 0028078
+❌ MISSING: depicted by: Where Is Anne Frank
+❌ MISSING: NLA Trove people ID: 826257
+❌ MISSING: described by source: 101 vrouwen en de oorlog
+❌ MISSING: National Library of Latvia ID: 000042708
+❌ MISSING: NSK ID: 000032819
+❌ MISSING: languages spoken, written or signed: Dutch
+❌ MISSING: Encyclopædia Britannica Online ID: biography/Anne-Frank
+❌ MISSING: topic's main template: Template:Anne Frank
+❌ MISSING: Jewish Encyclopedia ID (Russian): 14328
+❌ MISSING: image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Bergen-Belsen%20concentration%20camp%20memorial%20-%20Anne%20Frank%20-%20Margot%20Frank%20-%20representative%20grave.jpg
+✅ Mentioned: Commons Creator page: Anne Frank
+❌ MISSING: birth name: Annelies Marie Frank
+❌ MISSING: name in native language: Annelies Marie Frank
+❌ MISSING: University of Barcelona authority ID (former scheme): a1359541
+❌ MISSING: BBC Things ID: fedce5e0-1a08-4aa7-b0f8-a8d2c66e0505
+❌ MISSING: Canadiana Authorities ID (former scheme): 0019E8639
+
+=== Semantic Match per Fact ===
+❌ RSL ID (person): 000063263 — Similarity: 0.11
+❌ National Library of Israel ID (old): 000048557 — Similarity: 0.22
+❌ National Library of Spain ID: XX879997 — Similarity: 0.10
+❌ Portuguese National Library author ID: 26527 — Similarity: 0.17
+❌ Nationale Thesaurus voor Auteursnamen ID: 06835522X — Similarity: 0.11
+❌ NORAF ID: 90105825 — Similarity: 0.06
+❌ relative: Eva Schloss — Similarity: 0.19
+❌ Regensburg Classification: GU 64884 — Similarity: 0.04
+❌ manner of death: unnatural death — Similarity: 0.18
+❌ NUKAT ID: n96032408 — Similarity: 0.02
+❌ NLC authorities: 023292748 — Similarity: 0.02
+❌ Internet Broadway Database person ID: 4177 — Similarity: 0.00
+❌ Internet Speculative Fiction Database author ID: 74961 — Similarity: 0.24
+❌ Notable Names Database ID: 937/000026859 — Similarity: 0.11
+❌ AlloCiné person ID: 37054 — Similarity: 0.06
+❌ CANTIC ID (former scheme): a10087187 — Similarity: -0.06
+❌ CONOR.SI ID: 7566435 — Similarity: 0.03
+❌ Munzinger person ID: 00000015613 — Similarity: 0.15
+❌ Gran Enciclopèdia Catalana ID (former scheme): 0028078 — Similarity: -0.04
+❌ depicted by: Where Is Anne Frank — Similarity: 0.42
+❌ NLA Trove people ID: 826257 — Similarity: 0.09
+❌ described by source: 101 vrouwen en de oorlog — Similarity: 0.17
+❌ National Library of Latvia ID: 000042708 — Similarity: 0.21
+❌ NSK ID: 000032819 — Similarity: 0.06
+❌ languages spoken, written or signed: Dutch — Similarity: 0.12
+✅ Encyclopædia Britannica Online ID: biography/Anne-Frank — Similarity: 0.56
+❌ topic's main template: Template:Anne Frank — Similarity: 0.38
+❌ Jewish Encyclopedia ID (Russian): 14328 — Similarity: 0.15
+❌ image of grave: http://commons.wikimedia.org/wiki/Special:FilePath/Bergen-Belsen%20concentration%20camp%20memorial%20-%20Anne%20Frank%20-%20Margot%20Frank%20-%20representative%20grave.jpg — Similarity: 0.14
+❌ Commons Creator page: Anne Frank — Similarity: 0.39
+❌ birth name: Annelies Marie Frank — Similarity: 0.40
+❌ name in native language: Annelies Marie Frank — Similarity: 0.40
+❌ University of Barcelona authority ID (former scheme): a1359541 — Similarity: -0.06
+❌ BBC Things ID: fedce5e0-1a08-4aa7-b0f8-a8d2c66e0505 — Similarity: -0.00
+❌ Canadiana Authorities ID (former scheme): 0019E8639 — Similarity: -0.10
+
+=== Final Summary ===
+Semantic Similarity: 0.25
+Prompt Repeated: No
+Facts Semantically Matched: 1/35
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Anne Frank ==========
+Anne Frank. German diarist. Annelies Marie Frank was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Anne Frank.
+
+Anne Frank: A Life of Troubles and Triumphs, by Mark Twain.
+
+Anne Frank: A Life of Troubles and Triumphs, by Mark Twain. Anne Frank: A Life of Troubles and Triumphs, by J.R.R. Tolkien.
+
+Anne Frank: A Life of Troubles and Triumphs, by J.R.R. Tolkien. Anne Frank: A Life of Troubles and Triumphs by E.B. White.
+
+The Book of the Dead: Robert E. Howard's Life and Legacy, by Robert E. Howard and Robert I. Kaldor.
+
+The Book of the Dead: Robert E. Howard's Life and Legacy, by Robert E. Howard and Robert I. Kaldor. The Diary of Anne Frank, by Robert E. Howard.
+
+The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Robert E. Howard. The Diary of Anne Frank, by Edward J. Kinsley.
+
+The Diary of Anne Frank, by Edward J. Kinsley. The Diary of Anne Frank, by William Burroughs.
+
+The Diary of Anne Frank, by William Burroughs. The Diary of Anne Frank, by William Burroughs. The Diary of Anne
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.41
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: occupation
+❌ MISSING: jewish
+❌ MISSING: hiding
+❌ MISSING: frank
+❌ MISSING: persecution
+❌ MISSING: documenting
+❌ MISSING: annelies
+❌ MISSING: marie
+❌ MISSING: german
+❌ MISSING: during
+
+========== Verdict Summary ==========
+Semantic Score: 0.41
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 35)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/35 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

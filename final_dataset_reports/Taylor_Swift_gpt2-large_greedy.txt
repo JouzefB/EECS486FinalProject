@@ -1,0 +1,389 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Taylor Swift ==========
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music. Swift holds records for seven albums with one million first-week US sales. She has become one of the 21st century's most prominent entertainers and is the richest female musician.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.35
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: albums
+❌ MISSING: alison
+❌ MISSING: amass
+❌ MISSING: american
+❌ MISSING: artist
+❌ MISSING: artistic
+❌ MISSING: artists
+❌ MISSING: autobiographical
+❌ MISSING: become
+❌ MISSING: billion
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Taylor Alison Swift is an American singer-songwriter
+[GPT-2]     Write a short biography of Taylor Swift
+→ Cosine Similarity: 0.66
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.35
+Missing Keywords: 37
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Taylor Swift (ID: Q26876) ===
+unmarried partner: Joe Alwyn
+member of: Silence Breakers
+residence: Nashville
+date of birth: 1989-12-13T00:00:00Z
+Freebase ID: /m/0dl567
+Open Library ID: OL3765728A
+NL CR AUT ID: xx0095996
+family name: Swift
+given name: Taylor
+pseudonym: Nils Sjöberg
+notable work: Anti-Hero
+official website: https://taylorswift.com
+topic's main category: Category:Taylor Swift
+work location: Nashville
+National Library of Israel ID (old): 004970552
+National Library of Spain ID: XX5631777
+Curlie ID: Arts/Music/Styles/C/Country/Bands_and_Artists/S/Swift,_Taylor/
+Nationale Thesaurus voor Auteursnamen ID: 320619443
+NORAF ID: 10006445
+relative: Marjorie Finlay
+topic's main Wikimedia portal: Portal:Taylor Swift
+NUKAT ID: n2020028482
+Internet Speculative Fiction Database author ID: 272795
+Rotten Tomatoes ID: celebrity/taylor_swift
+Notable Names Database ID: 346/000159866
+AlloCiné person ID: 248338
+CANTIC ID (former scheme): a11273884
+CONOR.SI ID: 176928355
+Munzinger Pop ID: 02000001878
+instrument: voice
+NLA Trove people ID: 1680377
+described by source: Obálky knih
+participant in: Conflict between Taylor Swift and Kanye West
+National Library of Latvia ID: 000277323
+nominated for: Grammy Award for Best New Artist
+languages spoken, written or signed: English
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.47
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: unmarried partner: Joe Alwyn
+❌ MISSING: member of: Silence Breakers
+❌ MISSING: residence: Nashville
+❌ MISSING: date of birth: 1989-12-13T00:00:00Z
+❌ MISSING: Freebase ID: /m/0dl567
+❌ MISSING: Open Library ID: OL3765728A
+❌ MISSING: NL CR AUT ID: xx0095996
+✅ Mentioned: family name: Swift
+✅ Mentioned: given name: Taylor
+❌ MISSING: pseudonym: Nils Sjöberg
+❌ MISSING: notable work: Anti-Hero
+❌ MISSING: official website: https://taylorswift.com
+❌ MISSING: topic's main category: Category:Taylor Swift
+❌ MISSING: work location: Nashville
+❌ MISSING: National Library of Israel ID (old): 004970552
+❌ MISSING: National Library of Spain ID: XX5631777
+❌ MISSING: Curlie ID: Arts/Music/Styles/C/Country/Bands_and_Artists/S/Swift,_Taylor/
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 320619443
+❌ MISSING: NORAF ID: 10006445
+❌ MISSING: relative: Marjorie Finlay
+❌ MISSING: topic's main Wikimedia portal: Portal:Taylor Swift
+❌ MISSING: NUKAT ID: n2020028482
+❌ MISSING: Internet Speculative Fiction Database author ID: 272795
+❌ MISSING: Rotten Tomatoes ID: celebrity/taylor_swift
+❌ MISSING: Notable Names Database ID: 346/000159866
+❌ MISSING: AlloCiné person ID: 248338
+❌ MISSING: CANTIC ID (former scheme): a11273884
+❌ MISSING: CONOR.SI ID: 176928355
+❌ MISSING: Munzinger Pop ID: 02000001878
+❌ MISSING: instrument: voice
+❌ MISSING: NLA Trove people ID: 1680377
+❌ MISSING: described by source: Obálky knih
+❌ MISSING: participant in: Conflict between Taylor Swift and Kanye West
+❌ MISSING: National Library of Latvia ID: 000277323
+❌ MISSING: nominated for: Grammy Award for Best New Artist
+❌ MISSING: languages spoken, written or signed: English
+
+=== Semantic Match per Fact ===
+❌ unmarried partner: Joe Alwyn — Similarity: 0.08
+❌ member of: Silence Breakers — Similarity: 0.10
+❌ residence: Nashville — Similarity: 0.07
+❌ date of birth: 1989-12-13T00:00:00Z — Similarity: 0.14
+❌ Freebase ID: /m/0dl567 — Similarity: 0.12
+❌ Open Library ID: OL3765728A — Similarity: 0.08
+❌ NL CR AUT ID: xx0095996 — Similarity: 0.10
+❌ family name: Swift — Similarity: 0.37
+❌ given name: Taylor — Similarity: 0.30
+❌ pseudonym: Nils Sjöberg — Similarity: 0.17
+❌ notable work: Anti-Hero — Similarity: 0.14
+❌ official website: https://taylorswift.com — Similarity: 0.18
+❌ topic's main category: Category:Taylor Swift — Similarity: 0.31
+❌ work location: Nashville — Similarity: -0.01
+❌ National Library of Israel ID (old): 004970552 — Similarity: 0.20
+❌ National Library of Spain ID: XX5631777 — Similarity: 0.20
+❌ Curlie ID: Arts/Music/Styles/C/Country/Bands_and_Artists/S/Swift,_Taylor/ — Similarity: 0.27
+❌ Nationale Thesaurus voor Auteursnamen ID: 320619443 — Similarity: 0.17
+❌ NORAF ID: 10006445 — Similarity: 0.09
+❌ relative: Marjorie Finlay — Similarity: 0.21
+❌ topic's main Wikimedia portal: Portal:Taylor Swift — Similarity: 0.35
+❌ NUKAT ID: n2020028482 — Similarity: 0.05
+❌ Internet Speculative Fiction Database author ID: 272795 — Similarity: 0.26
+❌ Rotten Tomatoes ID: celebrity/taylor_swift — Similarity: 0.29
+❌ Notable Names Database ID: 346/000159866 — Similarity: 0.18
+❌ AlloCiné person ID: 248338 — Similarity: 0.11
+❌ CANTIC ID (former scheme): a11273884 — Similarity: 0.01
+❌ CONOR.SI ID: 176928355 — Similarity: 0.13
+❌ Munzinger Pop ID: 02000001878 — Similarity: 0.10
+❌ instrument: voice — Similarity: 0.03
+❌ NLA Trove people ID: 1680377 — Similarity: 0.10
+❌ described by source: Obálky knih — Similarity: 0.01
+❌ participant in: Conflict between Taylor Swift and Kanye West — Similarity: 0.34
+❌ National Library of Latvia ID: 000277323 — Similarity: 0.22
+❌ nominated for: Grammy Award for Best New Artist — Similarity: 0.07
+❌ languages spoken, written or signed: English — Similarity: 0.18
+
+=== Final Summary ===
+Semantic Similarity: 0.47
+Prompt Repeated: Yes
+Facts Semantically Matched: 0/36
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Taylor Swift ==========
+Taylor Swift. American singer and songwriter. Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+Write a short biography of Taylor Swift.
+
+
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.39
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: artist
+❌ MISSING: amass
+❌ MISSING: autobiographical
+❌ MISSING: alison
+❌ MISSING: through
+❌ MISSING: swift
+❌ MISSING: known
+❌ MISSING: primarily
+❌ MISSING: first
+❌ MISSING: american
+
+========== Verdict Summary ==========
+Semantic Score: 0.39
+Missing Keywords: 10
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 37)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/36 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

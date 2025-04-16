@@ -1,0 +1,191 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Søren Bjerg ==========
+Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series (LCS) team. He followed that with shorter stints as a head coach for TSM, and again as a mid laner for Team Liquid and 100 Thieves. He is one of the winningest North American players of all time with 6 domestic titles and 10 finals appearances, and has never finished below 5th place. Internationally, he won IEM Katowice 2015 and qualified to the League of Legends World Championship 5 times, but only advanced past the group stage once. Widely regarded as one of the greatest North American League of Legends Championship Series players for his individual prowess as a mid laner, where he was a perennial MVP and 1st Team All Pro candidate; he won 4 MVP titles, 3 playoff MVP titles, and 6 1st Team All Pro titles. He has never finished below 4th in All Pro voting, and is the current all-time LCS kills leader. He retired from competitive eSports in April of 2023.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.36
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: advanced
+❌ MISSING: again
+❌ MISSING: american
+❌ MISSING: appearances
+❌ MISSING: april
+❌ MISSING: below
+❌ MISSING: better
+❌ MISSING: bjergsen
+❌ MISSING: candidate
+❌ MISSING: championship
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player
+[GPT-2]     Write a short biography of Søren Bjerg
+→ Cosine Similarity: 0.73
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.36
+Missing Keywords: 59
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Søren Bjerg (ID: Q19959009) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg
+place of birth: Holstebro
+sex or gender: male
+country of citizenship: Kingdom of Denmark
+instance of: human
+member of sports team: 100 Thieves
+occupation: professional gamer
+Commons category: Bjergsen
+date of birth: 1996-02-21T00:00:00Z
+sport: esports
+Freebase ID: /m/0134y3_9
+family name: Bjerg
+given name: Søren
+sponsor: Red Bull GmbH
+name in native language: Søren Bjerg
+X (Twitter) username: Bjergsen
+Instagram username: bjergsen
+Facebook username: Bjergsen
+sports discipline competed in: League of Legends
+Prabook ID: 1837130
+Red Bull athlete ID: 1331826899945/soren-bjergsen-bjerg
+Reddit username: XLBjergsen
+Twitch channel ID: tsm_bjergsen
+Golden ID: Bjergsen-4K6YJW
+social media followers: 1286677
+Esports Earnings player ID: 3556
+Liquipedia ID: leagueoflegends/Bjergsen
+cybersport.ru player ID: league-of-legends/bjergsen3696
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.41
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg
+❌ MISSING: place of birth: Holstebro
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: Kingdom of Denmark
+❌ MISSING: instance of: human
+❌ MISSING: member of sports team: 100 Thieves
+❌ MISSING: occupation: professional gamer
+❌ MISSING: Commons category: Bjergsen
+❌ MISSING: date of birth: 1996-02-21T00:00:00Z
+❌ MISSING: sport: esports
+❌ MISSING: Freebase ID: /m/0134y3_9
+✅ Mentioned: family name: Bjerg
+✅ Mentioned: given name: Søren
+❌ MISSING: sponsor: Red Bull GmbH
+✅ Mentioned: name in native language: Søren Bjerg
+❌ MISSING: X (Twitter) username: Bjergsen
+❌ MISSING: Instagram username: bjergsen
+❌ MISSING: Facebook username: Bjergsen
+❌ MISSING: sports discipline competed in: League of Legends
+❌ MISSING: Prabook ID: 1837130
+❌ MISSING: Red Bull athlete ID: 1331826899945/soren-bjergsen-bjerg
+❌ MISSING: Reddit username: XLBjergsen
+❌ MISSING: Twitch channel ID: tsm_bjergsen
+❌ MISSING: Golden ID: Bjergsen-4K6YJW
+❌ MISSING: social media followers: 1286677
+❌ MISSING: Esports Earnings player ID: 3556
+❌ MISSING: Liquipedia ID: leagueoflegends/Bjergsen
+❌ MISSING: cybersport.ru player ID: league-of-legends/bjergsen3696
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.25
+❌ place of birth: Holstebro — Similarity: 0.12
+❌ sex or gender: male — Similarity: 0.06
+❌ country of citizenship: Kingdom of Denmark — Similarity: 0.21
+❌ instance of: human — Similarity: 0.11
+❌ member of sports team: 100 Thieves — Similarity: 0.11
+❌ occupation: professional gamer — Similarity: 0.14
+❌ Commons category: Bjergsen — Similarity: 0.38
+❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.16
+❌ sport: esports — Similarity: 0.11
+❌ Freebase ID: /m/0134y3_9 — Similarity: 0.12
+❌ family name: Bjerg — Similarity: 0.49
+❌ given name: Søren — Similarity: 0.41
+❌ sponsor: Red Bull GmbH — Similarity: 0.05
+✅ name in native language: Søren Bjerg — Similarity: 0.55
+❌ X (Twitter) username: Bjergsen — Similarity: 0.42
+❌ Instagram username: bjergsen — Similarity: 0.41
+❌ Facebook username: Bjergsen — Similarity: 0.40
+❌ sports discipline competed in: League of Legends — Similarity: 0.12
+❌ Prabook ID: 1837130 — Similarity: 0.16
+❌ Red Bull athlete ID: 1331826899945/soren-bjergsen-bjerg — Similarity: 0.25
+❌ Reddit username: XLBjergsen — Similarity: 0.24
+❌ Twitch channel ID: tsm_bjergsen — Similarity: 0.26
+❌ Golden ID: Bjergsen-4K6YJW — Similarity: 0.36
+❌ social media followers: 1286677 — Similarity: 0.13
+❌ Esports Earnings player ID: 3556 — Similarity: 0.14
+❌ Liquipedia ID: leagueoflegends/Bjergsen — Similarity: 0.34
+❌ cybersport.ru player ID: league-of-legends/bjergsen3696 — Similarity: 0.31
+
+=== Final Summary ===
+Semantic Similarity: 0.41
+Prompt Repeated: Yes
+Facts Semantically Matched: 1/28
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Søren Bjerg ==========
+Bjergsen. Danish gamer. Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series team.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Søren Bjerg.
+
+Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write a short biography of Søren Bjerg. Write
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.48
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: championship
+❌ MISSING: series
+❌ MISSING: league
+❌ MISSING: danish
+❌ MISSING: solomid
+❌ MISSING: former
+❌ MISSING: starting
+❌ MISSING: legends
+❌ MISSING: professional
+❌ MISSING: better
+
+========== Verdict Summary ==========
+Semantic Score: 0.48
+Missing Keywords: 10
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 59)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/28 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

@@ -1,0 +1,203 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Billie Eilish ==========
+Write a short biography of Billie Eilish.
+
+Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows. In 2017, she released her debut extended play (EP), Don't Smile at Me. Commercially successful, it reached the top 15 of record charts in numerous countries, including the US, UK, Canada, and Australia.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.17
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: american
+❌ MISSING: attention
+❌ MISSING: australia
+❌ MISSING: baird
+❌ MISSING: brother
+❌ MISSING: canada
+❌ MISSING: charts
+❌ MISSING: collaborates
+❌ MISSING: commercially
+❌ MISSING: connell
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician
+[GPT-2]     Write a short biography of Billie Eilish
+→ Cosine Similarity: 0.51
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.17
+Missing Keywords: 34
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Billie Eilish (ID: Q29564107) ===
+record label: Darkroom
+Bibliothèque nationale de France ID: 17856308k
+IdRef ID: 250584212
+IMDb ID: nm8483808
+NDL Authority ID: 001352751
+discography: Billie Eilish discography
+Commons category: Billie Eilish
+SBN author ID: LO1V466474
+voice type: soprano
+MusicBrainz artist ID: f4abc0b5-3f7a-4eff-8f78-ac078dbce533
+date of birth: 2001-12-18T00:00:00Z
+Open Library ID: OL7771603A
+NL CR AUT ID: xx0243588
+family name: O'Connell
+given name: http://www.wikidata.org/.well-known/genid/db386f4d6278421a17e77c31e72bd347
+notable work: Hit Me Hard and Soft
+official website: https://billieeilish.com
+topic's main category: Category:Billie Eilish
+Commons gallery: Billie Eilish
+work location: Los Angeles
+RSL ID (person): 000230584
+National Library of Spain ID: XX6176404
+Nationale Thesaurus voor Auteursnamen ID: 422947199
+NORAF ID: 1602157051899
+medical condition: mental depression
+topic's main Wikimedia portal: Portal:Billie Eilish
+NUKAT ID: n2020038019
+Rotten Tomatoes ID: celebrity/billie_eilish
+CONOR.SI ID: 385956611
+Munzinger Pop ID: 02000002017
+instrument: voice
+nominated for: Grammy Award for Best Music Video
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Billie Eilish.
+
+Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.36
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: record label: Darkroom
+❌ MISSING: Bibliothèque nationale de France ID: 17856308k
+❌ MISSING: IdRef ID: 250584212
+❌ MISSING: IMDb ID: nm8483808
+❌ MISSING: NDL Authority ID: 001352751
+❌ MISSING: discography: Billie Eilish discography
+✅ Mentioned: Commons category: Billie Eilish
+❌ MISSING: SBN author ID: LO1V466474
+❌ MISSING: voice type: soprano
+❌ MISSING: MusicBrainz artist ID: f4abc0b5-3f7a-4eff-8f78-ac078dbce533
+❌ MISSING: date of birth: 2001-12-18T00:00:00Z
+❌ MISSING: Open Library ID: OL7771603A
+❌ MISSING: NL CR AUT ID: xx0243588
+❌ MISSING: family name: O'Connell
+❌ MISSING: given name: http://www.wikidata.org/.well-known/genid/db386f4d6278421a17e77c31e72bd347
+❌ MISSING: notable work: Hit Me Hard and Soft
+❌ MISSING: official website: https://billieeilish.com
+❌ MISSING: topic's main category: Category:Billie Eilish
+✅ Mentioned: Commons gallery: Billie Eilish
+❌ MISSING: work location: Los Angeles
+❌ MISSING: RSL ID (person): 000230584
+❌ MISSING: National Library of Spain ID: XX6176404
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 422947199
+❌ MISSING: NORAF ID: 1602157051899
+❌ MISSING: medical condition: mental depression
+❌ MISSING: topic's main Wikimedia portal: Portal:Billie Eilish
+❌ MISSING: NUKAT ID: n2020038019
+❌ MISSING: Rotten Tomatoes ID: celebrity/billie_eilish
+❌ MISSING: CONOR.SI ID: 385956611
+❌ MISSING: Munzinger Pop ID: 02000002017
+❌ MISSING: instrument: voice
+❌ MISSING: nominated for: Grammy Award for Best Music Video
+
+=== Semantic Match per Fact ===
+❌ record label: Darkroom — Similarity: 0.10
+❌ Bibliothèque nationale de France ID: 17856308k — Similarity: 0.19
+❌ IdRef ID: 250584212 — Similarity: 0.09
+❌ IMDb ID: nm8483808 — Similarity: 0.01
+❌ NDL Authority ID: 001352751 — Similarity: 0.09
+✅ discography: Billie Eilish discography — Similarity: 0.58
+❌ Commons category: Billie Eilish — Similarity: 0.48
+❌ SBN author ID: LO1V466474 — Similarity: 0.15
+❌ voice type: soprano — Similarity: -0.03
+❌ MusicBrainz artist ID: f4abc0b5-3f7a-4eff-8f78-ac078dbce533 — Similarity: 0.06
+❌ date of birth: 2001-12-18T00:00:00Z — Similarity: 0.13
+❌ Open Library ID: OL7771603A — Similarity: 0.03
+❌ NL CR AUT ID: xx0243588 — Similarity: 0.19
+❌ family name: O'Connell — Similarity: 0.14
+❌ given name: http://www.wikidata.org/.well-known/genid/db386f4d6278421a17e77c31e72bd347 — Similarity: 0.15
+❌ notable work: Hit Me Hard and Soft — Similarity: 0.13
+❌ official website: https://billieeilish.com — Similarity: 0.38
+✅ topic's main category: Category:Billie Eilish — Similarity: 0.53
+❌ Commons gallery: Billie Eilish — Similarity: 0.48
+❌ work location: Los Angeles — Similarity: 0.04
+❌ RSL ID (person): 000230584 — Similarity: 0.15
+❌ National Library of Spain ID: XX6176404 — Similarity: 0.06
+❌ Nationale Thesaurus voor Auteursnamen ID: 422947199 — Similarity: 0.15
+❌ NORAF ID: 1602157051899 — Similarity: 0.06
+❌ medical condition: mental depression — Similarity: 0.10
+❌ topic's main Wikimedia portal: Portal:Billie Eilish — Similarity: 0.45
+❌ NUKAT ID: n2020038019 — Similarity: 0.06
+❌ Rotten Tomatoes ID: celebrity/billie_eilish — Similarity: 0.36
+❌ CONOR.SI ID: 385956611 — Similarity: 0.13
+❌ Munzinger Pop ID: 02000002017 — Similarity: 0.15
+❌ instrument: voice — Similarity: 0.04
+❌ nominated for: Grammy Award for Best Music Video — Similarity: 0.02
+
+=== Final Summary ===
+Semantic Similarity: 0.36
+Prompt Repeated: Yes
+Facts Semantically Matched: 2/32
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Billie Eilish ==========
+Billie Eilish. American singer-songwriter and musician. Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Billie Eilish.
+
+Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write a short biography of Billie Eilish. Write
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: eilish
+❌ MISSING: written
+❌ MISSING: baird
+❌ MISSING: collaborates
+❌ MISSING: public
+❌ MISSING: pirate
+❌ MISSING: attention
+❌ MISSING: gained
+❌ MISSING: american
+❌ MISSING: single
+
+========== Verdict Summary ==========
+Semantic Score: 0.33
+Missing Keywords: 10
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 34)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (2/32 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

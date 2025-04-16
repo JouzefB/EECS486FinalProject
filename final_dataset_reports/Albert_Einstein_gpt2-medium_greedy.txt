@@ -1,0 +1,169 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Albert Einstein ==========
+Write a short biography of Albert Einstein.
+
+Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.38
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: arises
+❌ MISSING: called
+❌ MISSING: contributions
+❌ MISSING: developing
+❌ MISSING: discovery
+❌ MISSING: effect
+❌ MISSING: energy
+❌ MISSING: equation
+❌ MISSING: equivalence
+❌ MISSING: especially
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity
+[GPT-2]     Write a short biography of Albert Einstein
+→ Cosine Similarity: 0.65
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.38
+Missing Keywords: 30
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Albert Einstein (ID: Q937) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
+place of birth: Ulm
+place of death: Princeton
+sex or gender: male
+father: Hermann Einstein
+mother: Pauline Koch
+spouse: Mileva Marić
+country of citizenship: Cisleithania
+instance of: human
+position held: professor
+child: Lieserl (Einstein)
+educated at: Luitpold-Gymnasium
+field of work: theoretical physics
+member of political party: German Democratic Party
+native language: German
+occupation: physicist
+employer: German University in Prague
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg
+place of burial: National Museum of Health and Medicine
+religion or worldview: Pantheism
+award received: Max Planck Medal
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Albert Einstein.
+
+Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.47
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
+❌ MISSING: place of birth: Ulm
+❌ MISSING: place of death: Princeton
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Hermann Einstein
+❌ MISSING: mother: Pauline Koch
+❌ MISSING: spouse: Mileva Marić
+❌ MISSING: country of citizenship: Cisleithania
+❌ MISSING: instance of: human
+❌ MISSING: position held: professor
+❌ MISSING: child: Lieserl (Einstein)
+❌ MISSING: educated at: Luitpold-Gymnasium
+❌ MISSING: field of work: theoretical physics
+❌ MISSING: member of political party: German Democratic Party
+❌ MISSING: native language: German
+❌ MISSING: occupation: physicist
+❌ MISSING: employer: German University in Prague
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg
+❌ MISSING: place of burial: National Museum of Health and Medicine
+❌ MISSING: religion or worldview: Pantheism
+❌ MISSING: award received: Max Planck Medal
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg — Similarity: 0.27
+❌ place of birth: Ulm — Similarity: 0.15
+❌ place of death: Princeton — Similarity: 0.09
+❌ sex or gender: male — Similarity: 0.05
+❌ father: Hermann Einstein — Similarity: 0.42
+❌ mother: Pauline Koch — Similarity: 0.15
+❌ spouse: Mileva Marić — Similarity: 0.15
+❌ country of citizenship: Cisleithania — Similarity: 0.14
+❌ instance of: human — Similarity: 0.13
+❌ position held: professor — Similarity: 0.14
+❌ child: Lieserl (Einstein) — Similarity: 0.37
+❌ educated at: Luitpold-Gymnasium — Similarity: 0.10
+❌ field of work: theoretical physics — Similarity: 0.13
+❌ member of political party: German Democratic Party — Similarity: 0.08
+❌ native language: German — Similarity: 0.08
+❌ occupation: physicist — Similarity: 0.29
+❌ employer: German University in Prague — Similarity: 0.09
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg — Similarity: 0.24
+❌ place of burial: National Museum of Health and Medicine — Similarity: 0.11
+❌ religion or worldview: Pantheism — Similarity: 0.03
+❌ award received: Max Planck Medal — Similarity: 0.17
+
+=== Final Summary ===
+Semantic Similarity: 0.47
+Prompt Repeated: Yes
+Facts Semantically Matched: 0/21
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Albert Einstein ==========
+Albert Einstein. Theoretical physicist. Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Albert Einstein.
+
+Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a short biography of Albert Einstein. Write a
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.40
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: important
+❌ MISSING: theoretical
+❌ MISSING: contributions
+❌ MISSING: einstein
+❌ MISSING: physicist
+❌ MISSING: theory
+❌ MISSING: developing
+❌ MISSING: known
+❌ MISSING: quantum
+
+========== Verdict Summary ==========
+Semantic Score: 0.40
+Missing Keywords: 9
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 30)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/21 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 9)

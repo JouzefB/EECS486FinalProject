@@ -1,0 +1,294 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Cleopatra ==========
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.32
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: active
+❌ MISSING: after
+❌ MISSING: alexander
+❌ MISSING: among
+❌ MISSING: became
+❌ MISSING: begun
+❌ MISSING: companion
+❌ MISSING: death
+❌ MISSING: descendant
+❌ MISSING: during
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh
+[GPT-2]     Write a short biography of Cleopatra
+→ Cosine Similarity: 0.54
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.32
+Missing Keywords: 43
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+said to be the same as: Kleopatra
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.38
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: said to be the same as: Kleopatra
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+
+=== Semantic Match per Fact ===
+❌ said to be the same as: Kleopatra — Similarity: 0.05
+❌ native label: Cleopatra — Similarity: 0.43
+❌ different from: Cleopatra — Similarity: 0.45
+❌ Soundex: C413 — Similarity: -0.04
+❌ Cologne phonetics: 45127 — Similarity: 0.14
+❌ Caverphone: KLPTR1 — Similarity: 0.01
+❌ instance of: female given name — Similarity: 0.15
+❌ writing system: Latin script — Similarity: 0.19
+❌ Commons category: Cleopatra (given name) — Similarity: 0.43
+❌ language of work or name: Italian — Similarity: 0.21
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.22
+
+=== Final Summary ===
+Semantic Similarity: 0.38
+Prompt Repeated: Yes
+Facts Semantically Matched: 0/11
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Cleopatra ==========
+Cleopatra. Queen of the Ptolemaic Kingdom of Egypt. Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short biography of Cleopatra.
+
+Write a short
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: queen
+❌ MISSING: active
+❌ MISSING: kingdom
+❌ MISSING: hellenistic
+❌ MISSING: philopator
+❌ MISSING: egypt
+❌ MISSING: ptolemaic
+❌ MISSING: cleopatra
+
+========== Verdict Summary ==========
+Semantic Score: 0.33
+Missing Keywords: 8
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 43)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/11 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

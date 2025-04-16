@@ -1,0 +1,192 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Taylor Swift ==========
+Write a short biography of Taylor Swift.
+
+How often do you write a guest post on a blog?
+
+It depends on the blog. If there's a lot of posts on a blog, I want to write at least one a week. If the blog is dedicated to a specific subject, I'll write it about that subject every week.
+
+Why do you write a guest post on a blog?
+
+Because I'm interested in hearing from you. I want you to be able to talk to me. So if you want to write a guest post on my blog, you can send me an email and I'll write a guest post about that subject.
+
+I'm a member of the blog community. What's your secret?
+
+I try to stay away from the subject that would get me into trouble. If the subject is about music, I try to focus on the music itself. If the subject is about fashion, I try to focus on design. If the subject is about movies, I try to focus on the film itself.
+
+What's your secret? I try to stay away from the subject that would get me into trouble. If the subject is about music, I try to focus on the music itself. If the subject is about fashion, I try to focus on design. If the subject is about movies, I try to focus on the film itself.
+
+How do you think the Internet is affecting the music industry? What do you
+
+========== Wikipedia Summary ==========
+Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music. Swift holds records for seven albums with one million first-week US sales. She has become one of the 21st century's most prominent entertainers and is the richest female musician.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.32
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: albums
+❌ MISSING: alison
+❌ MISSING: amass
+❌ MISSING: american
+❌ MISSING: artist
+❌ MISSING: artistic
+❌ MISSING: artists
+❌ MISSING: autobiographical
+❌ MISSING: become
+❌ MISSING: billion
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Taylor Alison Swift is an American singer-songwriter
+[GPT-2]     Write a short biography of Taylor Swift
+→ Cosine Similarity: 0.66
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.32
+Missing Keywords: 36
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Taylor Swift (ID: Q26876) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20at%20the%202023%20MTV%20Video%20Music%20Awards%204.png
+place of birth: West Reading
+sex or gender: female
+father: Scott Swift
+mother: Andrea Finlay
+country of citizenship: United States
+instance of: human
+educated at: Wyomissing Area Junior/Senior High School
+field of work: country music
+native language: English
+occupation: philanthropist
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20signature.svg
+genre: country pop
+religion or worldview: Christianity
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%202020%20logo.svg
+award received: MTV Video Music Award for Best Video with a Social Message
+
+=== GPT-2 Generated Biography ===
+Write a short biography of Taylor Swift.
+
+How often do you write a guest post on a blog?
+
+It depends on the blog. If there's a lot of posts on a blog, I want to write at least one a week. If the blog is dedicated to a specific subject, I'll write it about that subject every week.
+
+Why do you write a guest post on a blog?
+
+Because I'm interested in hearing from you. I want you to be able to talk to me. So if you want to write a guest post on my blog, you can send me an email and I'll write a guest post about that subject.
+
+I'm a member of the blog community. What's your secret?
+
+I try to stay away from the subject that would get me into trouble. If the subject is about music, I try to focus on the music itself. If the subject is about fashion, I try to focus on design. If the subject is about movies, I try to focus on the film itself.
+
+What's your secret? I try to stay away from the subject that would get me into trouble. If the subject is about music, I try to focus on the music itself. If the subject is about fashion, I try to focus on design. If the subject is about movies, I try to focus on the film itself.
+
+How do you think the Internet is affecting the music industry? What do you
+
+Semantic Similarity Score: 0.38
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20at%20the%202023%20MTV%20Video%20Music%20Awards%204.png
+❌ MISSING: place of birth: West Reading
+❌ MISSING: sex or gender: female
+❌ MISSING: father: Scott Swift
+❌ MISSING: mother: Andrea Finlay
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+❌ MISSING: educated at: Wyomissing Area Junior/Senior High School
+❌ MISSING: field of work: country music
+❌ MISSING: native language: English
+❌ MISSING: occupation: philanthropist
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20signature.svg
+❌ MISSING: genre: country pop
+❌ MISSING: religion or worldview: Christianity
+❌ MISSING: logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%202020%20logo.svg
+❌ MISSING: award received: MTV Video Music Award for Best Video with a Social Message
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20at%20the%202023%20MTV%20Video%20Music%20Awards%204.png — Similarity: 0.14
+❌ place of birth: West Reading — Similarity: 0.22
+❌ sex or gender: female — Similarity: 0.17
+❌ father: Scott Swift — Similarity: 0.30
+❌ mother: Andrea Finlay — Similarity: 0.08
+❌ country of citizenship: United States — Similarity: 0.03
+❌ instance of: human — Similarity: 0.05
+❌ educated at: Wyomissing Area Junior/Senior High School — Similarity: 0.09
+❌ field of work: country music — Similarity: 0.19
+❌ native language: English — Similarity: 0.22
+❌ occupation: philanthropist — Similarity: 0.10
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%20signature.svg — Similarity: -0.01
+❌ genre: country pop — Similarity: 0.17
+❌ religion or worldview: Christianity — Similarity: 0.10
+❌ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Taylor%20Swift%202020%20logo.svg — Similarity: 0.03
+❌ award received: MTV Video Music Award for Best Video with a Social Message — Similarity: 0.20
+
+=== Final Summary ===
+Semantic Similarity: 0.38
+Prompt Repeated: No
+Facts Semantically Matched: 0/16
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Taylor Swift ==========
+Taylor Swift. American singer and songwriter. Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music.
+
+========== GPT-2 Generated Biography ==========
+Write a short biography of Taylor Swift.
+
+How often do you write a guest post on a blog?
+
+It depends on the blog. If there's a lot of posts on a blog, I want to write at least one a week. If the blog is dedicated to a specific subject, I'll write it about that subject every week.
+
+Why do you write a guest post on a blog?
+
+Because I'm interested in hearing from you. I want you to be able to talk to me. So if you want to write a guest post on my blog, you can send me an email and I'll write a guest post about that subject.
+
+I'm a member of the blog community. What's your secret?
+
+I try to stay away from the subject that would get me into trouble. If the subject is about music, I try to focus on the music itself. If the subject is about fashion, I try to focus on design. If the subject is about movies, I try to focus on the film itself.
+
+What's your secret? I try to stay away from the subject that would get me into trouble. If the subject is about music, I try to focus on the music itself. If the subject is about fashion, I try to focus on design. If the subject is about movies, I try to focus on the film itself.
+
+How do you think the Internet is affecting the music industry? What do you
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.36
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: amass
+❌ MISSING: autobiographical
+❌ MISSING: first
+❌ MISSING: touring
+❌ MISSING: artist
+❌ MISSING: known
+❌ MISSING: swift
+❌ MISSING: artistic
+❌ MISSING: through
+❌ MISSING: songwriting
+
+========== Verdict Summary ==========
+Semantic Score: 0.36
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 36)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/16 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)
