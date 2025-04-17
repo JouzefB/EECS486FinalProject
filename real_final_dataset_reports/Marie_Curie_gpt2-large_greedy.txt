@@ -1,0 +1,200 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Marie Curie ==========
+Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.46
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: chemist
+❌ MISSING: conducted
+❌ MISSING: french
+❌ MISSING: known
+❌ MISSING: maria
+❌ MISSING: naturalised
+❌ MISSING: physicist
+❌ MISSING: pioneering
+❌ MISSING: polish
+❌ MISSING: radioactivity
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity
+[GPT-2]     Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.58
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.46
+Missing Keywords: 14
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Marie Curie (ID: Q7186) ===
+part of: Pierre and Marie Curie
+Commons category: Marie Curie
+SBN author ID: VIAV099896
+Libraries Australia ID: 35032691
+MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+member of: Commission on Isotopic Abundances and Atomic Weights
+archives at: Bibliothèque nationale de France
+cause of death: aplastic anemia
+academic degree: doctorate
+Find a Grave memorial ID: 1613
+Mathematics Genealogy Project ID: 177944
+residence: Warsaw
+handedness: left-handedness
+date of birth: 1867-11-07T00:00:00Z
+date of death: 1934-07-04T00:00:00Z
+Freebase ID: /m/053_d
+Open Library ID: OL58151A
+NL CR AUT ID: jn20000601235
+family name: Skłodowska-Curie
+given name: Salomea
+significant event: funeral
+notable work: Treatise on Radioactivity
+student: Ellen Gleditsch
+IPA transcription: ˈmarja salɔˈmɛa skwɔˈdɔfska
+SELIBR ID: 182625
+topic's main category: Category:Marie Curie
+Commons gallery: Maria Skłodowska-Curie
+National Library of Israel ID (old): 000036050
+National Library of Spain ID: XX899975
+described at URL: http://www.digiporta.net/index.php?id=826393978
+spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Spoken%20Wikipedia-Marie%20Curie.oga
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.46
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: part of: Pierre and Marie Curie
+✅ Mentioned: Commons category: Marie Curie
+❌ MISSING: SBN author ID: VIAV099896
+❌ MISSING: Libraries Australia ID: 35032691
+❌ MISSING: MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d
+❌ MISSING: member of: Commission on Isotopic Abundances and Atomic Weights
+❌ MISSING: archives at: Bibliothèque nationale de France
+❌ MISSING: cause of death: aplastic anemia
+❌ MISSING: academic degree: doctorate
+❌ MISSING: Find a Grave memorial ID: 1613
+❌ MISSING: Mathematics Genealogy Project ID: 177944
+❌ MISSING: residence: Warsaw
+❌ MISSING: handedness: left-handedness
+✅ Mentioned: date of birth: 1867-11-07T00:00:00Z
+❌ MISSING: date of death: 1934-07-04T00:00:00Z
+❌ MISSING: Freebase ID: /m/053_d
+❌ MISSING: Open Library ID: OL58151A
+❌ MISSING: NL CR AUT ID: jn20000601235
+❌ MISSING: family name: Skłodowska-Curie
+❌ MISSING: given name: Salomea
+❌ MISSING: significant event: funeral
+❌ MISSING: notable work: Treatise on Radioactivity
+❌ MISSING: student: Ellen Gleditsch
+❌ MISSING: IPA transcription: ˈmarja salɔˈmɛa skwɔˈdɔfska
+❌ MISSING: SELIBR ID: 182625
+❌ MISSING: topic's main category: Category:Marie Curie
+❌ MISSING: Commons gallery: Maria Skłodowska-Curie
+❌ MISSING: National Library of Israel ID (old): 000036050
+❌ MISSING: National Library of Spain ID: XX899975
+❌ MISSING: described at URL: http://www.digiporta.net/index.php?id=826393978
+❌ MISSING: spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Spoken%20Wikipedia-Marie%20Curie.oga
+
+=== Semantic Match per Fact ===
+❌ part of: Pierre and Marie Curie — Similarity: 0.49
+❌ Commons category: Marie Curie — Similarity: 0.47
+❌ SBN author ID: VIAV099896 — Similarity: 0.14
+❌ Libraries Australia ID: 35032691 — Similarity: 0.11
+❌ MusicBrainz artist ID: 73f235f9-98b7-4092-a219-85ad031bcd6d — Similarity: 0.04
+❌ member of: Commission on Isotopic Abundances and Atomic Weights — Similarity: 0.09
+❌ archives at: Bibliothèque nationale de France — Similarity: 0.31
+❌ cause of death: aplastic anemia — Similarity: 0.02
+❌ academic degree: doctorate — Similarity: 0.09
+❌ Find a Grave memorial ID: 1613 — Similarity: 0.20
+❌ Mathematics Genealogy Project ID: 177944 — Similarity: 0.25
+❌ residence: Warsaw — Similarity: 0.11
+❌ handedness: left-handedness — Similarity: -0.03
+❌ date of birth: 1867-11-07T00:00:00Z — Similarity: 0.32
+❌ date of death: 1934-07-04T00:00:00Z — Similarity: 0.17
+❌ Freebase ID: /m/053_d — Similarity: 0.17
+❌ Open Library ID: OL58151A — Similarity: 0.08
+❌ NL CR AUT ID: jn20000601235 — Similarity: 0.15
+❌ family name: Skłodowska-Curie — Similarity: 0.33
+❌ given name: Salomea — Similarity: 0.12
+❌ significant event: funeral — Similarity: 0.24
+❌ notable work: Treatise on Radioactivity — Similarity: 0.18
+❌ student: Ellen Gleditsch — Similarity: 0.32
+❌ IPA transcription: ˈmarja salɔˈmɛa skwɔˈdɔfska — Similarity: -0.02
+❌ SELIBR ID: 182625 — Similarity: 0.14
+❌ topic's main category: Category:Marie Curie — Similarity: 0.49
+❌ Commons gallery: Maria Skłodowska-Curie — Similarity: 0.31
+❌ National Library of Israel ID (old): 000036050 — Similarity: 0.14
+❌ National Library of Spain ID: XX899975 — Similarity: 0.24
+❌ described at URL: http://www.digiporta.net/index.php?id=826393978 — Similarity: 0.05
+❌ spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-Spoken%20Wikipedia-Marie%20Curie.oga — Similarity: 0.21
+
+=== Final Summary ===
+Semantic Similarity: 0.46
+Prompt Repeated: Yes
+Facts Semantically Matched: 0/31
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Marie Curie ==========
+Marie Curie. Polish-French physicist and chemist. Maria Salomea Skłodowska-Curie, known simply as Marie Curie, was a Polish and naturalised-French physicist and chemist who conducted pioneering research on radioactivity.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Marie Curie, including important facts such as date of birth, occupation, major achievements, awards, and
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.50
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: salomea
+❌ MISSING: known
+❌ MISSING: simply
+❌ MISSING: polish
+❌ MISSING: conducted
+❌ MISSING: pioneering
+❌ MISSING: research
+❌ MISSING: physicist
+❌ MISSING: maria
+❌ MISSING: chemist
+
+========== Verdict Summary ==========
+Semantic Score: 0.50
+Missing Keywords: 10
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 14)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/31 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

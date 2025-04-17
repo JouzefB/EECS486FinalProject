@@ -10,15 +10,15 @@ Keyword matches are used to identify missing facts or details.
 ========== Wikipedia Comparison ==========
 
 ========== GPT-2 Generated Biography for Søren Bjerg ==========
-Write a short biography of Søren Bjerg.
+Write a short biography of Søren Bjerg. There's an excellent essay by Jørgen Nijsen: Bjerg's Life in Sweden and then to the North. He's an expert on women politics and politics and her research is very important to people who will try to understand her work and to engage with her for decades to come.
 
-The following is a transcript of a conversation with Bjerg from April 8, 2013:
+This short is not complete, but for me, which is the key, is I haven't gotten the sense to read into all that much or see that all this talk about the women in her writing will have an impact on me. I haven't tried to connect what Bjerg is that she's writing and her writing is very open. He's not just about women – he's a lot bigger than that. Bjerg is very different from other feminists, I think, in two things we have to be very careful of, first and foremost: she's not just about working with political issues like misogyny and whatnot, she's very central to the women's movement and in a way, is important. And she's very clearly connected in some way with people in the movement: she's a strong feminist who's the voice and is part of a key group which is important, but also she's not just about being a feminist. There's always a lot of things you can do for that. But she is one of my favorite people and I think a lot of the women on the field are very supportive. It's a
 
 ========== Wikipedia Summary ==========
 Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series (LCS) team. He followed that with shorter stints as a head coach for TSM, and again as a mid laner for Team Liquid and 100 Thieves. He is one of the winningest North American players of all time with 6 domestic titles and 10 finals appearances, and has never finished below 5th place. Internationally, he won IEM Katowice 2015 and qualified to the League of Legends World Championship 5 times, but only advanced past the group stage once. Widely regarded as one of the greatest North American League of Legends Championship Series players for his individual prowess as a mid laner, where he was a perennial MVP and 1st Team All Pro candidate; he won 4 MVP titles, 3 playoff MVP titles, and 6 1st Team All Pro titles. He has never finished below 4th in All Pro voting, and is the current all-time LCS kills leader. He retired from competitive eSports in April of 2023.
 
 ========== Semantic Similarity Score ==========
-Cosine Similarity Score: 0.54
+Cosine Similarity Score: 0.44
 ⚠️ GPT-2 output is potentially hallucinated or unrelated.
 
 ========== Top Missing Keywords ==========
@@ -26,12 +26,12 @@ Cosine Similarity Score: 0.54
 ❌ MISSING: again
 ❌ MISSING: american
 ❌ MISSING: appearances
+❌ MISSING: april
 ❌ MISSING: below
 ❌ MISSING: better
 ❌ MISSING: bjergsen
 ❌ MISSING: candidate
 ❌ MISSING: championship
-❌ MISSING: coach
 
 ========== Closest Matching Sentence Pair ==========
 [Wikipedia] Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player
@@ -39,8 +39,8 @@ Cosine Similarity Score: 0.54
 → Cosine Similarity: 0.73
 
 ========== Verdict Summary ==========
-Semantic Similarity: 0.54
-Missing Keywords: 58
+Semantic Similarity: 0.44
+Missing Keywords: 57
 ⚠️ Possible hallucination or deviation from trusted summary.
 
 ========== Wikidata Comparison ==========
@@ -75,11 +75,11 @@ Liquipedia ID: leagueoflegends/Bjergsen
 cybersport.ru player ID: league-of-legends/bjergsen3696
 
 === GPT-2 Generated Biography ===
-Write a short biography of Søren Bjerg.
+Write a short biography of Søren Bjerg. There's an excellent essay by Jørgen Nijsen: Bjerg's Life in Sweden and then to the North. He's an expert on women politics and politics and her research is very important to people who will try to understand her work and to engage with her for decades to come.
 
-The following is a transcript of a conversation with Bjerg from April 8, 2013:
+This short is not complete, but for me, which is the key, is I haven't gotten the sense to read into all that much or see that all this talk about the women in her writing will have an impact on me. I haven't tried to connect what Bjerg is that she's writing and her writing is very open. He's not just about women – he's a lot bigger than that. Bjerg is very different from other feminists, I think, in two things we have to be very careful of, first and foremost: she's not just about working with political issues like misogyny and whatnot, she's very central to the women's movement and in a way, is important. And she's very clearly connected in some way with people in the movement: she's a strong feminist who's the voice and is part of a key group which is important, but also she's not just about being a feminist. There's always a lot of things you can do for that. But she is one of my favorite people and I think a lot of the women on the field are very supportive. It's a
 
-Semantic Similarity Score: 0.49
+Semantic Similarity Score: 0.37
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Fact Presence in GPT-2 Output (Keyword Check) ===
@@ -113,39 +113,39 @@ Semantic Similarity Score: 0.49
 ❌ MISSING: cybersport.ru player ID: league-of-legends/bjergsen3696
 
 === Semantic Match per Fact ===
-❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.38
-❌ place of birth: Holstebro — Similarity: 0.15
-❌ sex or gender: male — Similarity: 0.11
-❌ country of citizenship: Kingdom of Denmark — Similarity: 0.33
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bjergsen%20at%202015%20Worlds.jpeg — Similarity: 0.32
+❌ place of birth: Holstebro — Similarity: 0.12
+❌ sex or gender: male — Similarity: 0.16
+❌ country of citizenship: Kingdom of Denmark — Similarity: 0.24
 ❌ instance of: human — Similarity: 0.09
-❌ member of sports team: 100 Thieves — Similarity: 0.05
-❌ occupation: professional gamer — Similarity: 0.16
-❌ Commons category: Bjergsen — Similarity: 0.45
-❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.23
-❌ sport: esports — Similarity: 0.14
-❌ Freebase ID: /m/0134y3_9 — Similarity: 0.04
-✅ family name: Bjerg — Similarity: 0.60
-✅ given name: Søren — Similarity: 0.56
-❌ sponsor: Red Bull GmbH — Similarity: 0.15
-✅ name in native language: Søren Bjerg — Similarity: 0.76
-❌ X (Twitter) username: Bjergsen — Similarity: 0.49
-❌ Instagram username: bjergsen — Similarity: 0.48
-❌ Facebook username: Bjergsen — Similarity: 0.47
-❌ sports discipline competed in: League of Legends — Similarity: 0.16
-❌ Prabook ID: 1837130 — Similarity: 0.22
-❌ Red Bull athlete ID: 1331826899945/soren-bjergsen-bjerg — Similarity: 0.29
-❌ Reddit username: XLBjergsen — Similarity: 0.34
-❌ Twitch channel ID: tsm_bjergsen — Similarity: 0.34
-❌ Golden ID: Bjergsen-4K6YJW — Similarity: 0.40
-❌ social media followers: 1286677 — Similarity: 0.12
-❌ Esports Earnings player ID: 3556 — Similarity: 0.14
-❌ Liquipedia ID: leagueoflegends/Bjergsen — Similarity: 0.36
-❌ cybersport.ru player ID: league-of-legends/bjergsen3696 — Similarity: 0.36
+❌ member of sports team: 100 Thieves — Similarity: 0.01
+❌ occupation: professional gamer — Similarity: 0.14
+❌ Commons category: Bjergsen — Similarity: 0.43
+❌ date of birth: 1996-02-21T00:00:00Z — Similarity: 0.15
+❌ sport: esports — Similarity: 0.11
+❌ Freebase ID: /m/0134y3_9 — Similarity: 0.03
+❌ family name: Bjerg — Similarity: 0.48
+❌ given name: Søren — Similarity: 0.31
+❌ sponsor: Red Bull GmbH — Similarity: 0.10
+✅ name in native language: Søren Bjerg — Similarity: 0.56
+❌ X (Twitter) username: Bjergsen — Similarity: 0.43
+❌ Instagram username: bjergsen — Similarity: 0.45
+❌ Facebook username: Bjergsen — Similarity: 0.42
+❌ sports discipline competed in: League of Legends — Similarity: 0.11
+❌ Prabook ID: 1837130 — Similarity: 0.14
+❌ Red Bull athlete ID: 1331826899945/soren-bjergsen-bjerg — Similarity: 0.19
+❌ Reddit username: XLBjergsen — Similarity: 0.28
+❌ Twitch channel ID: tsm_bjergsen — Similarity: 0.24
+❌ Golden ID: Bjergsen-4K6YJW — Similarity: 0.30
+❌ social media followers: 1286677 — Similarity: 0.14
+❌ Esports Earnings player ID: 3556 — Similarity: 0.05
+❌ Liquipedia ID: leagueoflegends/Bjergsen — Similarity: 0.29
+❌ cybersport.ru player ID: league-of-legends/bjergsen3696 — Similarity: 0.27
 
 === Final Summary ===
-Semantic Similarity: 0.49
+Semantic Similarity: 0.37
 Prompt Repeated: No
-Facts Semantically Matched: 3/28
+Facts Semantically Matched: 1/28
 ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
 
 ========== Google Knowledge Graph Comparison ==========
@@ -154,33 +154,33 @@ Facts Semantically Matched: 3/28
 Bjergsen. Danish gamer. Søren Bjerg, better known as Bjergsen, is a Danish former professional League of Legends player. He is best known for his 7 years from 2014 to 2020 as the starting mid laner for the Team SoloMid League of Legends Championship Series team.
 
 ========== GPT-2 Generated Biography ==========
-Write a short biography of Søren Bjerg.
+Write a short biography of Søren Bjerg. There's an excellent essay by Jørgen Nijsen: Bjerg's Life in Sweden and then to the North. He's an expert on women politics and politics and her research is very important to people who will try to understand her work and to engage with her for decades to come.
 
-The following is a transcript of a conversation with Bjerg from April 8, 2013:
+This short is not complete, but for me, which is the key, is I haven't gotten the sense to read into all that much or see that all this talk about the women in her writing will have an impact on me. I haven't tried to connect what Bjerg is that she's writing and her writing is very open. He's not just about women – he's a lot bigger than that. Bjerg is very different from other feminists, I think, in two things we have to be very careful of, first and foremost: she's not just about working with political issues like misogyny and whatnot, she's very central to the women's movement and in a way, is important. And she's very clearly connected in some way with people in the movement: she's a strong feminist who's the voice and is part of a key group which is important, but also she's not just about being a feminist. There's always a lot of things you can do for that. But she is one of my favorite people and I think a lot of the women on the field are very supportive. It's a
 
 ========== Semantic Similarity Score ==========
-Cosine Similarity Score: 0.71
-✅ GPT-2 output aligns semantically with Knowledge Graph.
+Cosine Similarity Score: 0.57
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
 
 ========== Missing Key Terms from GPT-2 Output ==========
-❌ MISSING: legends
-❌ MISSING: danish
-❌ MISSING: professional
-❌ MISSING: former
-❌ MISSING: starting
-❌ MISSING: championship
-❌ MISSING: known
 ❌ MISSING: better
-❌ MISSING: laner
 ❌ MISSING: league
+❌ MISSING: solomid
+❌ MISSING: legends
+❌ MISSING: starting
+❌ MISSING: professional
+❌ MISSING: laner
+❌ MISSING: former
+❌ MISSING: years
+❌ MISSING: championship
 
 ========== Verdict Summary ==========
-Semantic Score: 0.71
+Semantic Score: 0.57
 Missing Keywords: 10
 Prompt Repeated: No
 ⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
 
 ========== Overall Verdicts ==========
-Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 58)
-Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (3/28 facts matched)
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 57)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/28 facts matched)
 Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

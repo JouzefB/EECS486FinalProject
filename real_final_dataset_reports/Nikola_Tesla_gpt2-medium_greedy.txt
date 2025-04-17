@@ -1,0 +1,240 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Nikola Tesla ==========
+Write a short and informative biography of Nikola Tesla, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will also include a short biography of Nikola Tesla's father, Nikolaus Tesla, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Tesla, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's father, Nikolaus Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's father, Nikolaus Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus
+
+========== Wikipedia Summary ==========
+Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current (AC) electricity supply system.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.49
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: alternating
+❌ MISSING: american
+❌ MISSING: current
+❌ MISSING: design
+❌ MISSING: electricity
+❌ MISSING: engineer
+❌ MISSING: futurist
+❌ MISSING: inventor
+❌ MISSING: known
+❌ MISSING: modern
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Nikola Tesla was a Serbian-American engineer, futurist, and inventor
+[GPT-2]     Write a short and informative biography of Nikola Tesla, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.65
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.49
+Missing Keywords: 13
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Nikola Tesla (ID: Q9036) ===
+mother: Đuka Mandic
+country of citizenship: Kingdom of Hungary
+instance of: human
+educated at: Graz University of Technology
+field of work: inventor
+native language: Serbo-Croatian
+occupation: electrical engineer
+employer: Tesla Electric Light & Manufacturing
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Nikola%20Tesla%20%281856%E2%80%931943%29%20Forscher%20und%20Erfinde.png
+religion or worldview: Serbian Orthodox Church
+award received: Edison Medal
+ISNI: 0000000121021829
+VIAF cluster ID: 70194046
+GND ID: 119219166
+Library of Congress authority ID: n78086404
+Union List of Artist Names ID: 500087411
+Bibliothèque nationale de France ID: 12567608n
+IdRef ID: 034983023
+NACSIS-CAT author ID: DA07566440
+IMDb ID: nm2410046
+NDL Authority ID: 00621553
+Commons category: Nikola Tesla
+SBN author ID: LO1V173467
+Libraries Australia ID: 35544219
+MusicBrainz artist ID: 7a69c37a-18ba-40dc-b808-da6c516346b3
+member of: Institute of Electrical and Electronics Engineers
+cause of death: myocardial infarction
+Find a Grave memorial ID: 1623
+residence: Colorado Springs
+date of birth: 1856-07-10T00:00:00Z
+date of death: 1943-01-07T00:00:00Z
+Freebase ID: /m/05d1y
+Open Library ID: OL31675A
+NL CR AUT ID: jn20000701791
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Nikola Tesla, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will also include a short biography of Nikola Tesla's father, Nikolaus Tesla, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Tesla, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's father, Nikolaus Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's father, Nikolaus Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus
+
+Semantic Similarity Score: 0.39
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+✅ Mentioned: mother: Đuka Mandic
+❌ MISSING: country of citizenship: Kingdom of Hungary
+❌ MISSING: instance of: human
+❌ MISSING: educated at: Graz University of Technology
+❌ MISSING: field of work: inventor
+❌ MISSING: native language: Serbo-Croatian
+✅ Mentioned: occupation: electrical engineer
+❌ MISSING: employer: Tesla Electric Light & Manufacturing
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Nikola%20Tesla%20%281856%E2%80%931943%29%20Forscher%20und%20Erfinde.png
+❌ MISSING: religion or worldview: Serbian Orthodox Church
+❌ MISSING: award received: Edison Medal
+❌ MISSING: ISNI: 0000000121021829
+❌ MISSING: VIAF cluster ID: 70194046
+❌ MISSING: GND ID: 119219166
+❌ MISSING: Library of Congress authority ID: n78086404
+❌ MISSING: Union List of Artist Names ID: 500087411
+❌ MISSING: Bibliothèque nationale de France ID: 12567608n
+❌ MISSING: IdRef ID: 034983023
+❌ MISSING: NACSIS-CAT author ID: DA07566440
+❌ MISSING: IMDb ID: nm2410046
+❌ MISSING: NDL Authority ID: 00621553
+✅ Mentioned: Commons category: Nikola Tesla
+❌ MISSING: SBN author ID: LO1V173467
+❌ MISSING: Libraries Australia ID: 35544219
+❌ MISSING: MusicBrainz artist ID: 7a69c37a-18ba-40dc-b808-da6c516346b3
+❌ MISSING: member of: Institute of Electrical and Electronics Engineers
+❌ MISSING: cause of death: myocardial infarction
+❌ MISSING: Find a Grave memorial ID: 1623
+❌ MISSING: residence: Colorado Springs
+✅ Mentioned: date of birth: 1856-07-10T00:00:00Z
+❌ MISSING: date of death: 1943-01-07T00:00:00Z
+❌ MISSING: Freebase ID: /m/05d1y
+❌ MISSING: Open Library ID: OL31675A
+❌ MISSING: NL CR AUT ID: jn20000701791
+
+=== Semantic Match per Fact ===
+❌ mother: Đuka Mandic — Similarity: 0.21
+❌ country of citizenship: Kingdom of Hungary — Similarity: 0.20
+❌ instance of: human — Similarity: -0.04
+❌ educated at: Graz University of Technology — Similarity: 0.09
+❌ field of work: inventor — Similarity: 0.22
+❌ native language: Serbo-Croatian — Similarity: 0.23
+❌ occupation: electrical engineer — Similarity: 0.18
+❌ employer: Tesla Electric Light & Manufacturing — Similarity: 0.26
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Unterschrift%20Nikola%20Tesla%20%281856%E2%80%931943%29%20Forscher%20und%20Erfinde.png — Similarity: 0.00
+❌ religion or worldview: Serbian Orthodox Church — Similarity: 0.17
+❌ award received: Edison Medal — Similarity: 0.22
+❌ ISNI: 0000000121021829 — Similarity: 0.03
+❌ VIAF cluster ID: 70194046 — Similarity: -0.02
+❌ GND ID: 119219166 — Similarity: -0.02
+❌ Library of Congress authority ID: n78086404 — Similarity: 0.16
+❌ Union List of Artist Names ID: 500087411 — Similarity: 0.11
+❌ Bibliothèque nationale de France ID: 12567608n — Similarity: 0.19
+❌ IdRef ID: 034983023 — Similarity: -0.01
+❌ NACSIS-CAT author ID: DA07566440 — Similarity: 0.11
+❌ IMDb ID: nm2410046 — Similarity: 0.06
+❌ NDL Authority ID: 00621553 — Similarity: -0.07
+❌ Commons category: Nikola Tesla — Similarity: 0.39
+❌ SBN author ID: LO1V173467 — Similarity: 0.05
+❌ Libraries Australia ID: 35544219 — Similarity: 0.06
+❌ MusicBrainz artist ID: 7a69c37a-18ba-40dc-b808-da6c516346b3 — Similarity: 0.01
+❌ member of: Institute of Electrical and Electronics Engineers — Similarity: 0.14
+❌ cause of death: myocardial infarction — Similarity: 0.06
+❌ Find a Grave memorial ID: 1623 — Similarity: 0.09
+❌ residence: Colorado Springs — Similarity: 0.01
+❌ date of birth: 1856-07-10T00:00:00Z — Similarity: 0.30
+❌ date of death: 1943-01-07T00:00:00Z — Similarity: 0.26
+❌ Freebase ID: /m/05d1y — Similarity: 0.11
+❌ Open Library ID: OL31675A — Similarity: 0.01
+❌ NL CR AUT ID: jn20000701791 — Similarity: 0.02
+
+=== Final Summary ===
+Semantic Similarity: 0.39
+Prompt Repeated: No
+Facts Semantically Matched: 0/34
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Nikola Tesla ==========
+Nikola Tesla. Engineer and futurist. Nikola Tesla was a Serbian-American engineer, futurist, and inventor. He is known for his contributions to the design of the modern alternating current electricity supply system.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Nikola Tesla, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will also include a short biography of Nikola Tesla's father, Nikolaus Tesla, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Tesla, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's father, Nikolaus Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's father, Nikolaus Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus Tesla's mother, Maria Nikolaus, who was born in 1843 in the village of Königsberg in the German state of Brandenburg.
+
+The book will also include a short biography of Nikolaus
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.48
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: modern
+❌ MISSING: electricity
+❌ MISSING: supply
+❌ MISSING: contributions
+❌ MISSING: current
+❌ MISSING: design
+❌ MISSING: alternating
+❌ MISSING: tesla
+❌ MISSING: engineer
+❌ MISSING: known
+
+========== Verdict Summary ==========
+Semantic Score: 0.48
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 13)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/34 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

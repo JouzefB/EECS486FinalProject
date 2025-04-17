@@ -1,0 +1,152 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Elon Musk ==========
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== Wikipedia Summary ==========
+Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency (DOGE). Musk is the wealthiest person in the world; as of March 2025, Forbes estimates his net worth to be US$345 billion. He was named Time magazine's Person of the Year in 2021.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.37
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: advisor
+❌ MISSING: billion
+❌ MISSING: businessman
+❌ MISSING: department
+❌ MISSING: donald
+❌ MISSING: efficiency
+❌ MISSING: estimates
+❌ MISSING: facto
+❌ MISSING: forbes
+❌ MISSING: government
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X
+[GPT-2]     Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.54
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.37
+Missing Keywords: 28
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Elon Musk (ID: Q317521) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg
+place of birth: Pretoria
+sex or gender: male
+father: Errol Musk
+mother: Maye Musk
+spouse: Justine Musk
+country of citizenship: South Africa
+instance of: human
+position held: co-president
+child: Arcadia Musk
+family: Musk family
+educated at: Smith School of Business
+field of work: tech entrepreneurship
+native language: English
+occupation: programmer
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon
+
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+Semantic Similarity Score: 0.48
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg
+❌ MISSING: place of birth: Pretoria
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Errol Musk
+❌ MISSING: mother: Maye Musk
+❌ MISSING: spouse: Justine Musk
+❌ MISSING: country of citizenship: South Africa
+❌ MISSING: instance of: human
+❌ MISSING: position held: co-president
+❌ MISSING: child: Arcadia Musk
+❌ MISSING: family: Musk family
+❌ MISSING: educated at: Smith School of Business
+❌ MISSING: field of work: tech entrepreneurship
+❌ MISSING: native language: English
+✅ Mentioned: occupation: programmer
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Elon%20Musk%20Colorado%202022%20%28cropped2%29.jpg — Similarity: 0.17
+❌ place of birth: Pretoria — Similarity: 0.07
+❌ sex or gender: male — Similarity: 0.05
+❌ father: Errol Musk — Similarity: 0.39
+❌ mother: Maye Musk — Similarity: 0.33
+❌ spouse: Justine Musk — Similarity: 0.35
+❌ country of citizenship: South Africa — Similarity: 0.08
+❌ instance of: human — Similarity: 0.06
+❌ position held: co-president — Similarity: 0.15
+❌ child: Arcadia Musk — Similarity: 0.17
+❌ family: Musk family — Similarity: 0.39
+❌ educated at: Smith School of Business — Similarity: 0.05
+❌ field of work: tech entrepreneurship — Similarity: 0.15
+❌ native language: English — Similarity: 0.11
+❌ occupation: programmer — Similarity: 0.13
+
+=== Final Summary ===
+Semantic Similarity: 0.48
+Prompt Repeated: Yes
+Facts Semantically Matched: 0/15
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Elon Musk ==========
+Elon Musk. Senior Advisor to the President of the United States. Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency.
+⚠️ Detected prompt repetition — GPT may have echoed the instruction.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions. Write a short and informative biography of Elon
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.36
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: businessman
+❌ MISSING: known
+❌ MISSING: government
+❌ MISSING: reeve
+❌ MISSING: facto
+❌ MISSING: leadership
+❌ MISSING: department
+❌ MISSING: since
+❌ MISSING: advisor
+❌ MISSING: trump
+
+========== Verdict Summary ==========
+Semantic Score: 0.36
+Missing Keywords: 10
+Prompt Repeated: Yes
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 28)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/15 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

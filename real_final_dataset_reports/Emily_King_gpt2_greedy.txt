@@ -1,0 +1,297 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Emily King ==========
+Write a short and informative biography of Emily King, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in the fall of 2016.
+
+The book will be available in paperback and e-book formats.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats,
+
+========== Wikipedia Summary ==========
+Emily King is an American singer and songwriter. She started her career in 2004 and her first album East Side Story was released in August 2007. In December 2007, King was listed as a Grammy nominee for Best Contemporary R&B Album. In 2019 Emily King was nominated for Best R&B Song for the 62nd Grammy Awards and her album Scenery was nominated for Best Engineered Album, Non-Classical. In 2020 Emily King was nominated again, this time for the category of Best R&B Performance for her song "See Me".
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.37
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: again
+❌ MISSING: album
+❌ MISSING: american
+❌ MISSING: august
+❌ MISSING: career
+❌ MISSING: category
+❌ MISSING: classical
+❌ MISSING: contemporary
+❌ MISSING: december
+❌ MISSING: engineered
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Emily King is an American singer and songwriter
+[GPT-2]     Write a short and informative biography of Emily King, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.56
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.37
+Missing Keywords: 22
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Emily King (ID: Q13562073) ===
+work period (start): 2004-01-01T00:00:00Z
+TED speaker ID: emily_king
+Apple Music artist ID (U.S. version): 448444762
+Myspace ID: emilykingmusic
+Bandcamp profile ID: emilyking
+Prabook ID: 2417753
+Songkick artist ID: 195027
+Babelio author ID: 21512
+Carnegie Hall agent ID: 137202
+Rate Your Music artist ID: emily_king
+Jaxsta profile ID: 84fcdfc0-a67f-4493-acec-6f911028a8c5
+AZLyrics.com artist ID: e/emilyking
+Grammy Awards artist ID: emily-king/3718
+Europeana entity: agent/base/94532
+social media followers: 37623
+Pitchfork artist ID: 33853-emily-king
+Podchaser creator ID: 107aDqVxXU
+WorldCat Entities ID: E39PBJyxkdp4hpJRfhPxTDYByd
+image: http://commons.wikimedia.org/wiki/Special:FilePath/EmilyKingAtDougFir2016.jpg
+place of birth: New York City
+sex or gender: female
+country of citizenship: United States
+instance of: human
+occupation: singer-songwriter
+genre: rhythm and blues
+VIAF cluster ID: 296950473
+Library of Congress authority ID: no2007146170
+record label: Sony Music
+Bibliothèque nationale de France ID: 16663670t
+Commons category: Emily King
+MusicBrainz artist ID: 1b7de629-8e8a-4748-b402-bd58de30e5f1
+date of birth: 1985-07-10T00:00:00Z
+Freebase ID: /m/0282jbk
+family name: King
+given name: Emily
+official website: http://www.emilykingmusic.com
+BBC Things ID: 80821d32-64a0-4bf0-956b-57e98e070393
+AllMusic artist ID: mn0000928158
+Spotify artist ID: 6jlWj6y00bMQt8XoKuCjyZ
+Discogs artist ID: 662423
+X (Twitter) username: Emilykingmusic
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Emily King, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in the fall of 2016.
+
+The book will be available in paperback and e-book formats.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats,
+
+Semantic Similarity Score: 0.32
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: work period (start): 2004-01-01T00:00:00Z
+❌ MISSING: TED speaker ID: emily_king
+❌ MISSING: Apple Music artist ID (U.S. version): 448444762
+❌ MISSING: Myspace ID: emilykingmusic
+❌ MISSING: Bandcamp profile ID: emilyking
+❌ MISSING: Prabook ID: 2417753
+❌ MISSING: Songkick artist ID: 195027
+❌ MISSING: Babelio author ID: 21512
+❌ MISSING: Carnegie Hall agent ID: 137202
+❌ MISSING: Rate Your Music artist ID: emily_king
+❌ MISSING: Jaxsta profile ID: 84fcdfc0-a67f-4493-acec-6f911028a8c5
+❌ MISSING: AZLyrics.com artist ID: e/emilyking
+❌ MISSING: Grammy Awards artist ID: emily-king/3718
+❌ MISSING: Europeana entity: agent/base/94532
+❌ MISSING: social media followers: 37623
+❌ MISSING: Pitchfork artist ID: 33853-emily-king
+❌ MISSING: Podchaser creator ID: 107aDqVxXU
+❌ MISSING: WorldCat Entities ID: E39PBJyxkdp4hpJRfhPxTDYByd
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/EmilyKingAtDougFir2016.jpg
+❌ MISSING: place of birth: New York City
+❌ MISSING: sex or gender: female
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+✅ Mentioned: occupation: singer-songwriter
+❌ MISSING: genre: rhythm and blues
+❌ MISSING: VIAF cluster ID: 296950473
+❌ MISSING: Library of Congress authority ID: no2007146170
+❌ MISSING: record label: Sony Music
+❌ MISSING: Bibliothèque nationale de France ID: 16663670t
+✅ Mentioned: Commons category: Emily King
+❌ MISSING: MusicBrainz artist ID: 1b7de629-8e8a-4748-b402-bd58de30e5f1
+✅ Mentioned: date of birth: 1985-07-10T00:00:00Z
+❌ MISSING: Freebase ID: /m/0282jbk
+✅ Mentioned: family name: King
+✅ Mentioned: given name: Emily
+❌ MISSING: official website: http://www.emilykingmusic.com
+❌ MISSING: BBC Things ID: 80821d32-64a0-4bf0-956b-57e98e070393
+❌ MISSING: AllMusic artist ID: mn0000928158
+❌ MISSING: Spotify artist ID: 6jlWj6y00bMQt8XoKuCjyZ
+❌ MISSING: Discogs artist ID: 662423
+❌ MISSING: X (Twitter) username: Emilykingmusic
+
+=== Semantic Match per Fact ===
+❌ work period (start): 2004-01-01T00:00:00Z — Similarity: 0.03
+❌ TED speaker ID: emily_king — Similarity: 0.26
+❌ Apple Music artist ID (U.S. version): 448444762 — Similarity: 0.09
+❌ Myspace ID: emilykingmusic — Similarity: 0.23
+❌ Bandcamp profile ID: emilyking — Similarity: 0.30
+❌ Prabook ID: 2417753 — Similarity: 0.13
+❌ Songkick artist ID: 195027 — Similarity: 0.10
+❌ Babelio author ID: 21512 — Similarity: 0.18
+❌ Carnegie Hall agent ID: 137202 — Similarity: 0.11
+❌ Rate Your Music artist ID: emily_king — Similarity: 0.27
+❌ Jaxsta profile ID: 84fcdfc0-a67f-4493-acec-6f911028a8c5 — Similarity: 0.09
+❌ AZLyrics.com artist ID: e/emilyking — Similarity: 0.26
+❌ Grammy Awards artist ID: emily-king/3718 — Similarity: 0.24
+❌ Europeana entity: agent/base/94532 — Similarity: 0.07
+❌ social media followers: 37623 — Similarity: 0.01
+❌ Pitchfork artist ID: 33853-emily-king — Similarity: 0.24
+❌ Podchaser creator ID: 107aDqVxXU — Similarity: 0.15
+❌ WorldCat Entities ID: E39PBJyxkdp4hpJRfhPxTDYByd — Similarity: 0.08
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/EmilyKingAtDougFir2016.jpg — Similarity: 0.35
+❌ place of birth: New York City — Similarity: 0.11
+❌ sex or gender: female — Similarity: 0.15
+❌ country of citizenship: United States — Similarity: 0.01
+❌ instance of: human — Similarity: 0.06
+❌ occupation: singer-songwriter — Similarity: 0.26
+❌ genre: rhythm and blues — Similarity: 0.19
+❌ VIAF cluster ID: 296950473 — Similarity: 0.01
+❌ Library of Congress authority ID: no2007146170 — Similarity: 0.22
+❌ record label: Sony Music — Similarity: 0.11
+❌ Bibliothèque nationale de France ID: 16663670t — Similarity: 0.20
+❌ Commons category: Emily King — Similarity: 0.45
+❌ MusicBrainz artist ID: 1b7de629-8e8a-4748-b402-bd58de30e5f1 — Similarity: 0.02
+❌ date of birth: 1985-07-10T00:00:00Z — Similarity: 0.19
+❌ Freebase ID: /m/0282jbk — Similarity: 0.09
+❌ family name: King — Similarity: 0.29
+❌ given name: Emily — Similarity: 0.42
+❌ official website: http://www.emilykingmusic.com — Similarity: 0.42
+❌ BBC Things ID: 80821d32-64a0-4bf0-956b-57e98e070393 — Similarity: 0.11
+❌ AllMusic artist ID: mn0000928158 — Similarity: 0.06
+❌ Spotify artist ID: 6jlWj6y00bMQt8XoKuCjyZ — Similarity: 0.02
+❌ Discogs artist ID: 662423 — Similarity: 0.04
+❌ X (Twitter) username: Emilykingmusic — Similarity: 0.29
+
+=== Final Summary ===
+Semantic Similarity: 0.32
+Prompt Repeated: No
+Facts Semantically Matched: 0/41
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Emily King ==========
+Emily King. American singer-songwriter. Emily King is an American singer and songwriter. She started her career in 2004 and her first album East Side Story was released in August 2007. In December 2007, King was listed as a Grammy nominee for Best Contemporary R&amp;B Album.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Emily King, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in the fall of 2016.
+
+The book will be available in paperback and e-book formats.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats, including e-book, print, and digital.
+
+The book will be available in a variety of formats,
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.48
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: first
+❌ MISSING: album
+❌ MISSING: american
+❌ MISSING: december
+❌ MISSING: singer
+❌ MISSING: listed
+❌ MISSING: career
+❌ MISSING: story
+❌ MISSING: contemporary
+❌ MISSING: nominee
+
+========== Verdict Summary ==========
+Semantic Score: 0.48
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 22)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/41 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

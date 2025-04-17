@@ -1,0 +1,162 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Barack Obama ==========
+Write a short and informative biography of Barack Obama, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Read the book, "Obama: The Untold Story of a President Who Was a Hero," by David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David
+
+========== Wikipedia Summary ==========
+Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president in American history. Obama previously served as a U.S. senator representing Illinois from 2005 to 2008 and as an Illinois state senator from 1997 to 2004.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.50
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: african
+❌ MISSING: american
+❌ MISSING: democratic
+❌ MISSING: first
+❌ MISSING: history
+❌ MISSING: hussein
+❌ MISSING: illinois
+❌ MISSING: member
+❌ MISSING: party
+❌ MISSING: politician
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017
+[GPT-2]     Write a short and informative biography of Barack Obama, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.52
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.50
+Missing Keywords: 17
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Barack Obama (ID: Q76) ===
+video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+place of birth: Kapiolani Medical Center for Women and Children
+sex or gender: male
+father: Barack Obama Sr.
+mother: Stanley Ann Dunham
+spouse: Michelle Obama
+country of citizenship: Kenya
+instance of: human
+position held: member of the State Senate of Illinois
+child: Sasha Obama
+family: family of Barack Obama
+educated at: Noelani Elementary School
+field of work: civil rights
+member of political party: Democratic Party
+native language: English
+occupation: community organizer
+employer: Gamaliel Foundation
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Barack%20Obama%20signature.svg
+religion or worldview: congregationalist polity
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Barack Obama, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Read the book, "Obama: The Untold Story of a President Who Was a Hero," by David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David
+
+Semantic Similarity Score: 0.59
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg
+❌ MISSING: place of birth: Kapiolani Medical Center for Women and Children
+❌ MISSING: sex or gender: male
+❌ MISSING: father: Barack Obama Sr.
+❌ MISSING: mother: Stanley Ann Dunham
+❌ MISSING: spouse: Michelle Obama
+❌ MISSING: country of citizenship: Kenya
+❌ MISSING: instance of: human
+❌ MISSING: position held: member of the State Senate of Illinois
+❌ MISSING: child: Sasha Obama
+❌ MISSING: family: family of Barack Obama
+❌ MISSING: educated at: Noelani Elementary School
+❌ MISSING: field of work: civil rights
+❌ MISSING: member of political party: Democratic Party
+❌ MISSING: native language: English
+✅ Mentioned: occupation: community organizer
+❌ MISSING: employer: Gamaliel Foundation
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Barack%20Obama%20signature.svg
+❌ MISSING: religion or worldview: congregationalist polity
+
+=== Semantic Match per Fact ===
+❌ video: http://commons.wikimedia.org/wiki/Special:FilePath/2016%20State%20of%20the%20Union%20Address%20%E2%80%93%20Barack%20Obama%20Presidential%20Library.webm — Similarity: 0.12
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/President%20Barack%20Obama.jpg — Similarity: 0.39
+❌ place of birth: Kapiolani Medical Center for Women and Children — Similarity: 0.08
+❌ sex or gender: male — Similarity: 0.06
+✅ father: Barack Obama Sr. — Similarity: 0.52
+❌ mother: Stanley Ann Dunham — Similarity: 0.13
+❌ spouse: Michelle Obama — Similarity: 0.41
+❌ country of citizenship: Kenya — Similarity: 0.20
+❌ instance of: human — Similarity: 0.08
+❌ position held: member of the State Senate of Illinois — Similarity: 0.24
+❌ child: Sasha Obama — Similarity: 0.33
+✅ family: family of Barack Obama — Similarity: 0.57
+❌ educated at: Noelani Elementary School — Similarity: 0.09
+❌ field of work: civil rights — Similarity: 0.19
+❌ member of political party: Democratic Party — Similarity: 0.27
+❌ native language: English — Similarity: 0.06
+❌ occupation: community organizer — Similarity: 0.19
+❌ employer: Gamaliel Foundation — Similarity: 0.15
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Barack%20Obama%20signature.svg — Similarity: 0.46
+❌ religion or worldview: congregationalist polity — Similarity: 0.09
+
+=== Final Summary ===
+Semantic Similarity: 0.59
+Prompt Repeated: No
+Facts Semantically Matched: 2/20
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Barack Obama ==========
+Barack Obama. 44th U.S. President. Barack Hussein Obama II is an American politician who served as the 44th president of the United States from 2009 to 2017. A member of the Democratic Party, he was the first African-American president in American history.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Barack Obama, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Read the book, "Obama: The Untold Story of a President Who Was a Hero," by David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David A. Cohen, Jr., and David
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.50
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: obama
+❌ MISSING: first
+❌ MISSING: american
+❌ MISSING: politician
+❌ MISSING: united
+❌ MISSING: democratic
+❌ MISSING: states
+❌ MISSING: hussein
+❌ MISSING: served
+❌ MISSING: member
+
+========== Verdict Summary ==========
+Semantic Score: 0.50
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 17)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (2/20 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

@@ -10,45 +10,19 @@ Keyword matches are used to identify missing facts or details.
 ========== Wikipedia Comparison ==========
 
 ========== GPT-2 Generated Biography for Timothée Chalamet ==========
-Write a short biography of Timothée Chalamet.
+Write a short biography of Timothée Chalamet. Then post it in your own blog.
 
-Déjà vu: a biography of Timothée Chalamet.
+Here are some other interesting posts that you might enjoy:
 
-Letté à l'art. (A long letter).
+Sophie is the founder and editor of A Gentleman's Guide To Living, a personal blog for aspiring writers. See her posts at:
 
-Olivier de Pérouvail, Histoire du Louvre, 1887
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-Jouer de la vivir de la République: a portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-Le Monde, Les étrangers de la République, 1890
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-The History of Charles de Gaulle, 1845
-
-A portrait of Charles de Gaulle.
-
-The History of Charles de Gaulle, 1845
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-The History of Charles de Gaulle, 1845
+She's the latest contributor to the New York Times best-seller Men, and co-edited an anthology of poetry, the Great American Novel, with her beautiful daughter Dora. S. Eliot may be the biggest fan of Hemingway, and after a lot of blogging, I recommend writing on "Sophie and Me".
 
 ========== Wikipedia Summary ==========
 Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
 
 ========== Semantic Similarity Score ==========
-Cosine Similarity Score: 0.28
+Cosine Similarity Score: 0.38
 ⚠️ GPT-2 output is potentially hallucinated or unrelated.
 
 ========== Top Missing Keywords ==========
@@ -57,11 +31,11 @@ Cosine Similarity Score: 0.28
 ❌ MISSING: actor
 ❌ MISSING: actors
 ❌ MISSING: addition
-❌ MISSING: american
 ❌ MISSING: award
 ❌ MISSING: awards
 ❌ MISSING: british
 ❌ MISSING: french
+❌ MISSING: globe
 
 ========== Closest Matching Sentence Pair ==========
 [Wikipedia] Timothée Hal Chalamet is an American and French actor
@@ -69,8 +43,8 @@ Cosine Similarity Score: 0.28
 → Cosine Similarity: 0.67
 
 ========== Verdict Summary ==========
-Semantic Similarity: 0.28
-Missing Keywords: 16
+Semantic Similarity: 0.38
+Missing Keywords: 15
 ⚠️ Possible hallucination or deviation from trusted summary.
 
 ========== Wikidata Comparison ==========
@@ -113,41 +87,15 @@ Rotten Tomatoes ID: celebrity/timothee_chalamet
 AlloCiné person ID: 525421
 
 === GPT-2 Generated Biography ===
-Write a short biography of Timothée Chalamet.
+Write a short biography of Timothée Chalamet. Then post it in your own blog.
 
-Déjà vu: a biography of Timothée Chalamet.
+Here are some other interesting posts that you might enjoy:
 
-Letté à l'art. (A long letter).
+Sophie is the founder and editor of A Gentleman's Guide To Living, a personal blog for aspiring writers. See her posts at:
 
-Olivier de Pérouvail, Histoire du Louvre, 1887
+She's the latest contributor to the New York Times best-seller Men, and co-edited an anthology of poetry, the Great American Novel, with her beautiful daughter Dora. S. Eliot may be the biggest fan of Hemingway, and after a lot of blogging, I recommend writing on "Sophie and Me".
 
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-Jouer de la vivir de la République: a portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-Le Monde, Les étrangers de la République, 1890
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-The History of Charles de Gaulle, 1845
-
-A portrait of Charles de Gaulle.
-
-The History of Charles de Gaulle, 1845
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-The History of Charles de Gaulle, 1845
-
-Semantic Similarity Score: 0.23
+Semantic Similarity Score: 0.32
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Fact Presence in GPT-2 Output (Keyword Check) ===
@@ -189,45 +137,45 @@ Semantic Similarity Score: 0.23
 ❌ MISSING: AlloCiné person ID: 525421
 
 === Semantic Match per Fact ===
-❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.18
-❌ place of birth: Manhattan — Similarity: 0.00
-❌ sex or gender: male — Similarity: 0.01
-❌ country of citizenship: France — Similarity: 0.23
-❌ instance of: human — Similarity: 0.07
-❌ educated at: PS 87 William T. Sherman School — Similarity: 0.04
-❌ field of work: acting — Similarity: 0.00
-❌ native language: American English — Similarity: -0.01
-❌ occupation: actor — Similarity: 0.12
-❌ religion or worldview: Judaism — Similarity: 0.03
-❌ award received: Lucille Lortel Award for Outstanding Lead Actor in a Play — Similarity: 0.03
-❌ ISNI: 0000000468713031 — Similarity: -0.11
-❌ VIAF cluster ID: 28152820127300681335 — Similarity: -0.08
-❌ GND ID: 1154460568 — Similarity: -0.03
-❌ Library of Congress authority ID: no2016041218 — Similarity: 0.01
-❌ Bibliothèque nationale de France ID: 17759386x — Similarity: 0.27
-❌ IdRef ID: 22873200X — Similarity: 0.01
-❌ NACSIS-CAT author ID: DB00062901 — Similarity: 0.00
-❌ IMDb ID: nm3154303 — Similarity: -0.04
-❌ Commons category: Timothée Chalamet — Similarity: 0.16
-❌ MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd — Similarity: 0.04
-❌ unmarried partner: Lily-Rose Depp — Similarity: 0.10
-❌ residence: Concourse — Similarity: -0.01
-❌ date of birth: 1995-12-27T00:00:00Z — Similarity: 0.13
-❌ Freebase ID: /m/0p2n1fp — Similarity: -0.04
-❌ NL CR AUT ID: xx0249508 — Similarity: 0.08
-❌ family name: Chalamet — Similarity: 0.25
-❌ given name: Timothée — Similarity: 0.20
-❌ National Library of Spain ID: XX5792543 — Similarity: 0.12
-❌ described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style — Similarity: 0.29
-❌ Nationale Thesaurus voor Auteursnamen ID: 417485956 — Similarity: 0.21
-❌ NORAF ID: 1523345892159 — Similarity: 0.01
-❌ relative: Harold Flender — Similarity: 0.14
-❌ NUKAT ID: n2018137114 — Similarity: -0.05
-❌ Rotten Tomatoes ID: celebrity/timothee_chalamet — Similarity: 0.25
-❌ AlloCiné person ID: 525421 — Similarity: 0.06
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.23
+❌ place of birth: Manhattan — Similarity: 0.18
+❌ sex or gender: male — Similarity: 0.07
+❌ country of citizenship: France — Similarity: 0.01
+❌ instance of: human — Similarity: 0.02
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.16
+❌ field of work: acting — Similarity: 0.13
+❌ native language: American English — Similarity: 0.17
+❌ occupation: actor — Similarity: 0.20
+❌ religion or worldview: Judaism — Similarity: 0.05
+❌ award received: Lucille Lortel Award for Outstanding Lead Actor in a Play — Similarity: 0.10
+❌ ISNI: 0000000468713031 — Similarity: 0.03
+❌ VIAF cluster ID: 28152820127300681335 — Similarity: 0.02
+❌ GND ID: 1154460568 — Similarity: 0.04
+❌ Library of Congress authority ID: no2016041218 — Similarity: 0.04
+❌ Bibliothèque nationale de France ID: 17759386x — Similarity: 0.15
+❌ IdRef ID: 22873200X — Similarity: 0.04
+❌ NACSIS-CAT author ID: DB00062901 — Similarity: 0.15
+❌ IMDb ID: nm3154303 — Similarity: 0.11
+❌ Commons category: Timothée Chalamet — Similarity: 0.30
+❌ MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd — Similarity: 0.03
+❌ unmarried partner: Lily-Rose Depp — Similarity: 0.16
+❌ residence: Concourse — Similarity: -0.06
+❌ date of birth: 1995-12-27T00:00:00Z — Similarity: 0.18
+❌ Freebase ID: /m/0p2n1fp — Similarity: 0.06
+❌ NL CR AUT ID: xx0249508 — Similarity: 0.17
+❌ family name: Chalamet — Similarity: 0.28
+❌ given name: Timothée — Similarity: 0.41
+❌ National Library of Spain ID: XX5792543 — Similarity: 0.13
+❌ described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style — Similarity: 0.31
+❌ Nationale Thesaurus voor Auteursnamen ID: 417485956 — Similarity: 0.07
+❌ NORAF ID: 1523345892159 — Similarity: 0.15
+❌ relative: Harold Flender — Similarity: 0.16
+❌ NUKAT ID: n2018137114 — Similarity: 0.05
+❌ Rotten Tomatoes ID: celebrity/timothee_chalamet — Similarity: 0.24
+❌ AlloCiné person ID: 525421 — Similarity: 0.10
 
 === Final Summary ===
-Semantic Similarity: 0.23
+Semantic Similarity: 0.32
 Prompt Repeated: No
 Facts Semantically Matched: 0/36
 ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
@@ -238,63 +186,37 @@ Facts Semantically Matched: 0/36
 Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
 
 ========== GPT-2 Generated Biography ==========
-Write a short biography of Timothée Chalamet.
+Write a short biography of Timothée Chalamet. Then post it in your own blog.
 
-Déjà vu: a biography of Timothée Chalamet.
+Here are some other interesting posts that you might enjoy:
 
-Letté à l'art. (A long letter).
+Sophie is the founder and editor of A Gentleman's Guide To Living, a personal blog for aspiring writers. See her posts at:
 
-Olivier de Pérouvail, Histoire du Louvre, 1887
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-Jouer de la vivir de la République: a portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-Le Monde, Les étrangers de la République, 1890
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-The History of Charles de Gaulle, 1845
-
-A portrait of Charles de Gaulle.
-
-The History of Charles de Gaulle, 1845
-
-A portrait of Jean-Jacques Chirac.
-
-La Vie et Déjà vu: a portrait of Jean-Jacques Chirac.
-
-The History of Charles de Gaulle, 1845
+She's the latest contributor to the New York Times best-seller Men, and co-edited an anthology of poetry, the Great American Novel, with her beautiful daughter Dora. S. Eliot may be the biggest fan of Hemingway, and after a lot of blogging, I recommend writing on "Sophie and Me".
 
 ========== Semantic Similarity Score ==========
-Cosine Similarity Score: 0.33
+Cosine Similarity Score: 0.40
 ⚠️ GPT-2 output is semantically inconsistent or unrelated.
 
 ========== Missing Key Terms from GPT-2 Output ==========
-❌ MISSING: awards
 ❌ MISSING: globe
-❌ MISSING: golden
+❌ MISSING: awards
 ❌ MISSING: chalamet
-❌ MISSING: guild
-❌ MISSING: french
-❌ MISSING: accolades
-❌ MISSING: nominations
-❌ MISSING: include
 ❌ MISSING: screen
+❌ MISSING: golden
+❌ MISSING: accolades
+❌ MISSING: actors
+❌ MISSING: french
+❌ MISSING: academy
+❌ MISSING: nominations
 
 ========== Verdict Summary ==========
-Semantic Score: 0.33
+Semantic Score: 0.40
 Missing Keywords: 10
 Prompt Repeated: No
 ⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
 
 ========== Overall Verdicts ==========
-Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 16)
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 15)
 Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/36 facts matched)
 Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

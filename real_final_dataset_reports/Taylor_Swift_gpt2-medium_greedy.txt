@@ -1,0 +1,255 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Taylor Swift ==========
+Write a short and informative biography of Taylor Swift, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The biography should be written in a way that is easy to read and understand.
+
+The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy
+
+========== Wikipedia Summary ==========
+Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music. Swift holds records for seven albums with one million first-week US sales. She has become one of the 21st century's most prominent entertainers and is the richest female musician.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.28
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: albums
+❌ MISSING: alison
+❌ MISSING: amass
+❌ MISSING: american
+❌ MISSING: artist
+❌ MISSING: artistic
+❌ MISSING: artists
+❌ MISSING: autobiographical
+❌ MISSING: become
+❌ MISSING: billion
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Taylor Alison Swift is an American singer-songwriter
+[GPT-2]     Write a short and informative biography of Taylor Swift, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.57
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.28
+Missing Keywords: 37
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Taylor Swift (ID: Q26876) ===
+Guardian topic ID: music/taylor-swift
+ISzDb person ID: 69182
+elCinema person ID: 1980285
+EDb person ID: n0014237
+Sratim ID: nm177644
+VK username: taylorswiftofficial
+Last.fm ID: Taylor+Swift
+Ciné-Ressources person ID: 301731
+NE.se ID: taylor-swift
+Myspace ID: taylorswift
+KINENOTE person ID: 242518
+Kvikmyndir person ID: 25229
+Treccani ID: taylor-alison-swift
+Prabook ID: 342960
+sibling: Austin Swift
+LittleSis people ID: 159557
+Quora topic ID: Taylor-Swift-musician
+SNAC ARK ID: w6jv0hk7
+Songkick artist ID: 217815
+Omni topic ID: 59760cfe-fb0e-4a80-8f1b-593f12bd061e
+Zhihu topic ID: 19672823
+Weibo user ID: taylorswiftvip
+Babelio author ID: 259482
+Elle.fr person ID: Taylor-Swift
+TV Guide person ID (former scheme): 285271
+DBC author ID: 87097919155005
+Open Library subject ID: person:taylor_swift
+MobyGames person ID: 389754
+Cinema.de ID: 3678256
+Tumblr username: taylorswift
+subreddit: TaylorSwift
+Giphy username: taylorswift
+Fandom wiki ID: taylorswiftlifeandmusic
+Dagens Næringsliv topic ID: Taylor_Swift
+Familypedia person ID: Taylor_Alison_Swift_(1989)
+Google Play Music artist ID (former scheme): A4saifqiazru565jhrrm6d72jaa
+The Times of India topic ID: Taylor-Swift
+Billboard artist ID: taylor-swift
+BFI Filmography person ID: 1361594
+Deutsche Synchronkartei actor ID: 28942
+Store norske leksikon (Great Norwegian Encyclopedia) ID: Taylor_Swift
+BFI Films, TV and people ID: 4ce2bdf57e406
+Melon artist ID: 325867
+Prisma ID: 5797140
+UK Parliament thesaurus ID: 549137
+Tidal artist ID: 3557299
+National Library of Brazil ID: 001119462
+The Numbers person ID: 268840401
+CineMagia person ID: 76245
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Taylor Swift, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The biography should be written in a way that is easy to read and understand.
+
+The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy
+
+Semantic Similarity Score: 0.36
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: Guardian topic ID: music/taylor-swift
+❌ MISSING: ISzDb person ID: 69182
+❌ MISSING: elCinema person ID: 1980285
+❌ MISSING: EDb person ID: n0014237
+❌ MISSING: Sratim ID: nm177644
+❌ MISSING: VK username: taylorswiftofficial
+❌ MISSING: Last.fm ID: Taylor+Swift
+❌ MISSING: Ciné-Ressources person ID: 301731
+❌ MISSING: NE.se ID: taylor-swift
+❌ MISSING: Myspace ID: taylorswift
+❌ MISSING: KINENOTE person ID: 242518
+❌ MISSING: Kvikmyndir person ID: 25229
+❌ MISSING: Treccani ID: taylor-alison-swift
+❌ MISSING: Prabook ID: 342960
+❌ MISSING: sibling: Austin Swift
+❌ MISSING: LittleSis people ID: 159557
+❌ MISSING: Quora topic ID: Taylor-Swift-musician
+❌ MISSING: SNAC ARK ID: w6jv0hk7
+❌ MISSING: Songkick artist ID: 217815
+❌ MISSING: Omni topic ID: 59760cfe-fb0e-4a80-8f1b-593f12bd061e
+❌ MISSING: Zhihu topic ID: 19672823
+❌ MISSING: Weibo user ID: taylorswiftvip
+❌ MISSING: Babelio author ID: 259482
+❌ MISSING: Elle.fr person ID: Taylor-Swift
+❌ MISSING: TV Guide person ID (former scheme): 285271
+❌ MISSING: DBC author ID: 87097919155005
+❌ MISSING: Open Library subject ID: person:taylor_swift
+❌ MISSING: MobyGames person ID: 389754
+❌ MISSING: Cinema.de ID: 3678256
+❌ MISSING: Tumblr username: taylorswift
+❌ MISSING: subreddit: TaylorSwift
+❌ MISSING: Giphy username: taylorswift
+❌ MISSING: Fandom wiki ID: taylorswiftlifeandmusic
+❌ MISSING: Dagens Næringsliv topic ID: Taylor_Swift
+❌ MISSING: Familypedia person ID: Taylor_Alison_Swift_(1989)
+❌ MISSING: Google Play Music artist ID (former scheme): A4saifqiazru565jhrrm6d72jaa
+❌ MISSING: The Times of India topic ID: Taylor-Swift
+❌ MISSING: Billboard artist ID: taylor-swift
+❌ MISSING: BFI Filmography person ID: 1361594
+❌ MISSING: Deutsche Synchronkartei actor ID: 28942
+❌ MISSING: Store norske leksikon (Great Norwegian Encyclopedia) ID: Taylor_Swift
+❌ MISSING: BFI Films, TV and people ID: 4ce2bdf57e406
+❌ MISSING: Melon artist ID: 325867
+❌ MISSING: Prisma ID: 5797140
+❌ MISSING: UK Parliament thesaurus ID: 549137
+❌ MISSING: Tidal artist ID: 3557299
+❌ MISSING: National Library of Brazil ID: 001119462
+❌ MISSING: The Numbers person ID: 268840401
+❌ MISSING: CineMagia person ID: 76245
+
+=== Semantic Match per Fact ===
+❌ Guardian topic ID: music/taylor-swift — Similarity: 0.35
+❌ ISzDb person ID: 69182 — Similarity: 0.11
+❌ elCinema person ID: 1980285 — Similarity: 0.07
+❌ EDb person ID: n0014237 — Similarity: 0.11
+❌ Sratim ID: nm177644 — Similarity: 0.06
+❌ VK username: taylorswiftofficial — Similarity: 0.18
+❌ Last.fm ID: Taylor+Swift — Similarity: 0.25
+❌ Ciné-Ressources person ID: 301731 — Similarity: 0.07
+❌ NE.se ID: taylor-swift — Similarity: 0.25
+❌ Myspace ID: taylorswift — Similarity: 0.13
+❌ KINENOTE person ID: 242518 — Similarity: 0.10
+❌ Kvikmyndir person ID: 25229 — Similarity: 0.12
+❌ Treccani ID: taylor-alison-swift — Similarity: 0.23
+❌ Prabook ID: 342960 — Similarity: -0.00
+❌ sibling: Austin Swift — Similarity: 0.28
+❌ LittleSis people ID: 159557 — Similarity: 0.07
+❌ Quora topic ID: Taylor-Swift-musician — Similarity: 0.31
+❌ SNAC ARK ID: w6jv0hk7 — Similarity: 0.05
+❌ Songkick artist ID: 217815 — Similarity: -0.00
+❌ Omni topic ID: 59760cfe-fb0e-4a80-8f1b-593f12bd061e — Similarity: 0.11
+❌ Zhihu topic ID: 19672823 — Similarity: 0.15
+❌ Weibo user ID: taylorswiftvip — Similarity: 0.12
+❌ Babelio author ID: 259482 — Similarity: 0.26
+❌ Elle.fr person ID: Taylor-Swift — Similarity: 0.31
+❌ TV Guide person ID (former scheme): 285271 — Similarity: 0.15
+❌ DBC author ID: 87097919155005 — Similarity: 0.14
+❌ Open Library subject ID: person:taylor_swift — Similarity: 0.38
+❌ MobyGames person ID: 389754 — Similarity: 0.03
+❌ Cinema.de ID: 3678256 — Similarity: 0.15
+❌ Tumblr username: taylorswift — Similarity: 0.22
+❌ subreddit: TaylorSwift — Similarity: 0.23
+❌ Giphy username: taylorswift — Similarity: 0.10
+❌ Fandom wiki ID: taylorswiftlifeandmusic — Similarity: 0.26
+❌ Dagens Næringsliv topic ID: Taylor_Swift — Similarity: 0.30
+❌ Familypedia person ID: Taylor_Alison_Swift_(1989) — Similarity: 0.36
+❌ Google Play Music artist ID (former scheme): A4saifqiazru565jhrrm6d72jaa — Similarity: 0.04
+❌ The Times of India topic ID: Taylor-Swift — Similarity: 0.43
+❌ Billboard artist ID: taylor-swift — Similarity: 0.20
+❌ BFI Filmography person ID: 1361594 — Similarity: 0.25
+❌ Deutsche Synchronkartei actor ID: 28942 — Similarity: 0.14
+❌ Store norske leksikon (Great Norwegian Encyclopedia) ID: Taylor_Swift — Similarity: 0.25
+❌ BFI Films, TV and people ID: 4ce2bdf57e406 — Similarity: 0.18
+❌ Melon artist ID: 325867 — Similarity: 0.07
+❌ Prisma ID: 5797140 — Similarity: 0.03
+❌ UK Parliament thesaurus ID: 549137 — Similarity: 0.14
+❌ Tidal artist ID: 3557299 — Similarity: 0.08
+❌ National Library of Brazil ID: 001119462 — Similarity: 0.19
+❌ The Numbers person ID: 268840401 — Similarity: 0.08
+❌ CineMagia person ID: 76245 — Similarity: 0.18
+
+=== Final Summary ===
+Semantic Similarity: 0.36
+Prompt Repeated: No
+Facts Semantically Matched: 0/49
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Taylor Swift ==========
+Taylor Swift. American singer and songwriter. Taylor Alison Swift is an American singer-songwriter. Known for her autobiographical songwriting and artistic versatility, she is one of the world's best-selling artists, the highest-grossing touring artist and the first musician to amass a billion-dollar net worth primarily through music.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Taylor Swift, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The biography should be written in a way that is easy to read and understand.
+
+The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy to read and understand. The biography should be written in a way that is easy
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.31
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: first
+❌ MISSING: primarily
+❌ MISSING: singer
+❌ MISSING: songwriting
+❌ MISSING: american
+❌ MISSING: alison
+❌ MISSING: autobiographical
+❌ MISSING: swift
+❌ MISSING: artist
+❌ MISSING: touring
+
+========== Verdict Summary ==========
+Semantic Score: 0.31
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 37)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/49 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

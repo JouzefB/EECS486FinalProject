@@ -1,0 +1,139 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Cleopatra ==========
+Write a short and informative biography of Cleopatra, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+How to Become a Good Scholar
+
+A quick overview of the major requirements for a good scholar – including important requirements such as a Ph.D. in literature, or a B.A. in English, with some experience in literature.
+
+========== Wikipedia Summary ==========
+Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh. A member of the Ptolemaic dynasty, she was a descendant of its founder Ptolemy I Soter, a Macedonian Greek general and companion of Alexander the Great. Her first language was Koine Greek, and she is the only Ptolemaic ruler known to have learned the Egyptian language, among several others. After her death, Egypt became a province of the Roman Empire, marking the end of the Hellenistic period in the Mediterranean, which had begun during the reign of Alexander.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.47
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: active
+❌ MISSING: after
+❌ MISSING: alexander
+❌ MISSING: among
+❌ MISSING: became
+❌ MISSING: begun
+❌ MISSING: companion
+❌ MISSING: death
+❌ MISSING: descendant
+❌ MISSING: during
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh
+[GPT-2]     Write a short and informative biography of Cleopatra, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.52
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.47
+Missing Keywords: 43
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Cleopatra (ID: Q18002300) ===
+instance of: female given name
+writing system: Latin script
+Commons category: Cleopatra (given name)
+language of work or name: Italian
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+said to be the same as: Κλεοπάτρα
+native label: Cleopatra
+different from: Cleopatra
+Soundex: C413
+Cologne phonetics: 45127
+Caverphone: KLPTR1
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Cleopatra, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+How to Become a Good Scholar
+
+A quick overview of the major requirements for a good scholar – including important requirements such as a Ph.D. in literature, or a B.A. in English, with some experience in literature.
+
+Semantic Similarity Score: 0.36
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: instance of: female given name
+❌ MISSING: writing system: Latin script
+❌ MISSING: Commons category: Cleopatra (given name)
+❌ MISSING: language of work or name: Italian
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav
+❌ MISSING: said to be the same as: Κλεοπάτρα
+✅ Mentioned: native label: Cleopatra
+✅ Mentioned: different from: Cleopatra
+❌ MISSING: Soundex: C413
+❌ MISSING: Cologne phonetics: 45127
+❌ MISSING: Caverphone: KLPTR1
+
+=== Semantic Match per Fact ===
+❌ instance of: female given name — Similarity: 0.15
+❌ writing system: Latin script — Similarity: 0.06
+❌ Commons category: Cleopatra (given name) — Similarity: 0.49
+❌ language of work or name: Italian — Similarity: 0.15
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Cleopatra.wav — Similarity: 0.25
+❌ said to be the same as: Κλεοπάτρα — Similarity: 0.06
+❌ native label: Cleopatra — Similarity: 0.49
+✅ different from: Cleopatra — Similarity: 0.54
+❌ Soundex: C413 — Similarity: -0.03
+❌ Cologne phonetics: 45127 — Similarity: 0.06
+❌ Caverphone: KLPTR1 — Similarity: 0.00
+
+=== Final Summary ===
+Semantic Similarity: 0.36
+Prompt Repeated: No
+Facts Semantically Matched: 1/11
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Cleopatra ==========
+Cleopatra. Queen of the Ptolemaic Kingdom of Egypt. Cleopatra VII Thea Philopator was Queen of the Ptolemaic Kingdom of Egypt from 51 to 30 BC, and the last active Hellenistic pharaoh.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Cleopatra, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+How to Become a Good Scholar
+
+A quick overview of the major requirements for a good scholar – including important requirements such as a Ph.D. in literature, or a B.A. in English, with some experience in literature.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.48
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: cleopatra
+❌ MISSING: philopator
+❌ MISSING: hellenistic
+❌ MISSING: kingdom
+❌ MISSING: queen
+❌ MISSING: ptolemaic
+❌ MISSING: active
+❌ MISSING: egypt
+
+========== Verdict Summary ==========
+Semantic Score: 0.48
+Missing Keywords: 8
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 43)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/11 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

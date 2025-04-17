@@ -1,0 +1,32 @@
+certifi==2025.1.31
+charset-normalizer==3.4.1
+filelock @ file:///home/conda/feedstock_root/build_artifacts/filelock_1741969488311/work
+fsspec==2025.3.2
+gmpy2 @ file:///Users/runner/miniforge3/conda-bld/gmpy2_1733462580180/work
+huggingface-hub==0.30.2
+idna==3.10
+Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1741263328855/work
+joblib==1.4.2
+MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1733219682943/work
+mpmath @ file:///home/conda/feedstock_root/build_artifacts/mpmath_1733302684489/work
+networkx @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_networkx_1731521053/work
+numpy==1.26.4
+packaging==24.2
+pillow==11.2.1
+PyYAML @ file:///Users/runner/miniforge3/conda-bld/pyyaml_1737454702303/work
+regex==2024.11.6
+requests==2.32.3
+safetensors==0.5.3
+scikit-learn==1.6.1
+scipy==1.15.2
+sentence-transformers==3.0.1
+sympy @ file:///home/conda/feedstock_root/build_artifacts/sympy_1736248176451/work
+threadpoolctl==3.6.0
+tokenizers==0.15.2
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+tqdm==4.67.1
+transformers==4.36.2
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_typing_extensions_1744302253/work
+urllib3==2.4.0

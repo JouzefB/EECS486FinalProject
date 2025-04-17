@@ -1,0 +1,315 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Anne Frank ==========
+Write a short and informative biography of Anne Frank, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will
+
+========== Wikipedia Summary ==========
+Annelies Marie Frank was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands. A celebrated diarist, Frank described everyday life from her family's hiding place in an Amsterdam attic. She gained fame posthumously and became one of the most-discussed Jewish victims of the Holocaust with the 1947 publication of The Diary of a Young Girl, which documents her life in hiding from 1942 to 1944. It is one of the world's best-known books and has been the basis for several plays and films.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.51
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: amsterdam
+❌ MISSING: annelies
+❌ MISSING: attic
+❌ MISSING: basis
+❌ MISSING: became
+❌ MISSING: books
+❌ MISSING: celebrated
+❌ MISSING: described
+❌ MISSING: diarist
+❌ MISSING: diary
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Annelies Marie Frank was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands
+[GPT-2]     Write a short and informative biography of Anne Frank, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.58
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.51
+Missing Keywords: 35
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Anne Frank (ID: Q4583) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20%28cropped%29.jpg
+place of birth: Maingau Clinic of the Red Cross
+place of death: Bergen-Belsen concentration camp
+sex or gender: female
+father: Otto Heinrich Frank
+mother: Edith Frank-Holländer
+country of citizenship: statelessness
+instance of: human
+educated at: 6th Montessori School Anne Frank
+sexual orientation: non-heterosexuality
+field of work: diary
+native language: German
+occupation: diarist
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20signature.svg
+place of burial: Bergen-Belsen concentration camp
+religion or worldview: Reform Judaism
+ISNI: 0000000121251130
+VIAF cluster ID: 27064673
+GND ID: 118534734
+Library of Congress authority ID: n79125789
+Union List of Artist Names ID: 500240135
+Bibliothèque nationale de France ID: 11903452x
+IdRef ID: 02687332X
+CALIS ID: n2004352877
+NACSIS-CAT author ID: DA01507686
+IMDb ID: nm0290833
+NDL Authority ID: 00439999
+part of: Canon of Dutch Literature
+Commons category: Anne Frank
+SBN author ID: CFIV002837
+Libraries Australia ID: 35099418
+MusicBrainz artist ID: 264a2f9c-e362-47fc-aa3c-9dafc51a9a61
+cause of death: typhus
+Find a Grave memorial ID: 6870415
+residence: Merwedeplein 37-II
+date of birth: 1929-06-12T00:00:00Z
+date of death: 1945-02-01T00:00:00Z
+Freebase ID: /m/03d9rk
+Open Library ID: OL446842A
+Biografisch Portaal van Nederland ID: 05308737
+NL CR AUT ID: jn20000601616
+Dodis ID: P21978
+Digitale Bibliotheek voor de Nederlandse Letteren author ID: fran034
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Anne Frank, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will
+
+Semantic Similarity Score: 0.38
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20%28cropped%29.jpg
+❌ MISSING: place of birth: Maingau Clinic of the Red Cross
+❌ MISSING: place of death: Bergen-Belsen concentration camp
+❌ MISSING: sex or gender: female
+❌ MISSING: father: Otto Heinrich Frank
+❌ MISSING: mother: Edith Frank-Holländer
+❌ MISSING: country of citizenship: statelessness
+❌ MISSING: instance of: human
+❌ MISSING: educated at: 6th Montessori School Anne Frank
+❌ MISSING: sexual orientation: non-heterosexuality
+❌ MISSING: field of work: diary
+❌ MISSING: native language: German
+✅ Mentioned: occupation: diarist
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20signature.svg
+❌ MISSING: place of burial: Bergen-Belsen concentration camp
+❌ MISSING: religion or worldview: Reform Judaism
+❌ MISSING: ISNI: 0000000121251130
+❌ MISSING: VIAF cluster ID: 27064673
+❌ MISSING: GND ID: 118534734
+❌ MISSING: Library of Congress authority ID: n79125789
+❌ MISSING: Union List of Artist Names ID: 500240135
+❌ MISSING: Bibliothèque nationale de France ID: 11903452x
+❌ MISSING: IdRef ID: 02687332X
+❌ MISSING: CALIS ID: n2004352877
+❌ MISSING: NACSIS-CAT author ID: DA01507686
+❌ MISSING: IMDb ID: nm0290833
+❌ MISSING: NDL Authority ID: 00439999
+❌ MISSING: part of: Canon of Dutch Literature
+✅ Mentioned: Commons category: Anne Frank
+❌ MISSING: SBN author ID: CFIV002837
+❌ MISSING: Libraries Australia ID: 35099418
+❌ MISSING: MusicBrainz artist ID: 264a2f9c-e362-47fc-aa3c-9dafc51a9a61
+❌ MISSING: cause of death: typhus
+❌ MISSING: Find a Grave memorial ID: 6870415
+❌ MISSING: residence: Merwedeplein 37-II
+✅ Mentioned: date of birth: 1929-06-12T00:00:00Z
+❌ MISSING: date of death: 1945-02-01T00:00:00Z
+❌ MISSING: Freebase ID: /m/03d9rk
+❌ MISSING: Open Library ID: OL446842A
+❌ MISSING: Biografisch Portaal van Nederland ID: 05308737
+❌ MISSING: NL CR AUT ID: jn20000601616
+❌ MISSING: Dodis ID: P21978
+❌ MISSING: Digitale Bibliotheek voor de Nederlandse Letteren author ID: fran034
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20%28cropped%29.jpg — Similarity: 0.32
+❌ place of birth: Maingau Clinic of the Red Cross — Similarity: 0.10
+❌ place of death: Bergen-Belsen concentration camp — Similarity: 0.16
+❌ sex or gender: female — Similarity: 0.13
+❌ father: Otto Heinrich Frank — Similarity: 0.29
+❌ mother: Edith Frank-Holländer — Similarity: 0.31
+❌ country of citizenship: statelessness — Similarity: 0.01
+❌ instance of: human — Similarity: -0.01
+❌ educated at: 6th Montessori School Anne Frank — Similarity: 0.40
+❌ sexual orientation: non-heterosexuality — Similarity: 0.03
+❌ field of work: diary — Similarity: 0.37
+❌ native language: German — Similarity: 0.17
+❌ occupation: diarist — Similarity: 0.16
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Anne%20Frank%20signature.svg — Similarity: 0.25
+❌ place of burial: Bergen-Belsen concentration camp — Similarity: 0.16
+❌ religion or worldview: Reform Judaism — Similarity: 0.10
+❌ ISNI: 0000000121251130 — Similarity: 0.18
+❌ VIAF cluster ID: 27064673 — Similarity: 0.04
+❌ GND ID: 118534734 — Similarity: 0.03
+❌ Library of Congress authority ID: n79125789 — Similarity: 0.29
+❌ Union List of Artist Names ID: 500240135 — Similarity: 0.11
+❌ Bibliothèque nationale de France ID: 11903452x — Similarity: 0.28
+❌ IdRef ID: 02687332X — Similarity: 0.12
+❌ CALIS ID: n2004352877 — Similarity: 0.13
+❌ NACSIS-CAT author ID: DA01507686 — Similarity: 0.21
+❌ IMDb ID: nm0290833 — Similarity: 0.11
+❌ NDL Authority ID: 00439999 — Similarity: 0.09
+❌ part of: Canon of Dutch Literature — Similarity: 0.29
+❌ Commons category: Anne Frank — Similarity: 0.49
+❌ SBN author ID: CFIV002837 — Similarity: 0.27
+❌ Libraries Australia ID: 35099418 — Similarity: 0.24
+❌ MusicBrainz artist ID: 264a2f9c-e362-47fc-aa3c-9dafc51a9a61 — Similarity: -0.03
+❌ cause of death: typhus — Similarity: 0.01
+❌ Find a Grave memorial ID: 6870415 — Similarity: 0.11
+❌ residence: Merwedeplein 37-II — Similarity: 0.22
+❌ date of birth: 1929-06-12T00:00:00Z — Similarity: 0.27
+❌ date of death: 1945-02-01T00:00:00Z — Similarity: 0.29
+❌ Freebase ID: /m/03d9rk — Similarity: 0.11
+❌ Open Library ID: OL446842A — Similarity: 0.17
+❌ Biografisch Portaal van Nederland ID: 05308737 — Similarity: 0.26
+❌ NL CR AUT ID: jn20000601616 — Similarity: 0.22
+❌ Dodis ID: P21978 — Similarity: 0.10
+❌ Digitale Bibliotheek voor de Nederlandse Letteren author ID: fran034 — Similarity: 0.40
+
+=== Final Summary ===
+Semantic Similarity: 0.38
+Prompt Repeated: No
+Facts Semantically Matched: 0/43
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Anne Frank ==========
+Anne Frank. German diarist. Annelies Marie Frank was a German-born Jewish girl who kept a diary documenting her life in hiding amid Nazi persecution during the German occupation of the Netherlands.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Anne Frank, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.40
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: during
+❌ MISSING: diary
+❌ MISSING: hiding
+❌ MISSING: jewish
+❌ MISSING: documenting
+❌ MISSING: marie
+❌ MISSING: persecution
+❌ MISSING: occupation
+❌ MISSING: annelies
+❌ MISSING: german
+
+========== Verdict Summary ==========
+Semantic Score: 0.40
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 35)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/43 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

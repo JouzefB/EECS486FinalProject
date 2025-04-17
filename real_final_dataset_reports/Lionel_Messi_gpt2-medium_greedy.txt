@@ -1,0 +1,153 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Lionel Messi ==========
+Write a short and informative biography of Lionel Messi, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The biography should be written in English, Spanish, or both.
+
+The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English
+
+========== Wikipedia Summary ==========
+Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team. Widely regarded as one of the greatest players of all time, Messi set numerous records for individual accolades won throughout his professional footballing career such as eight Ballon d'Or awards and eight times being named the world's best player by FIFA. He is the most decorated player in the history of professional football having won 45 team trophies, including twelve Big Five league titles, four UEFA Champions Leagues, two Copa Américas, and one FIFA World Cup. Messi holds the records for most European Golden Shoes (6), most goals in a calendar year (91), most goals for a single club, most goals (474), hat-tricks (36) and assists (192) in La Liga, most assists (18) and goal contributions (32) in the Copa América, most goal contributions (21) in the World Cup, most international appearances (191) and international goals (112) by a South American male, and the second-most in the latter category outright. A prolific goalscorer and creative playmaker, Messi has scored over 850 senior career goals and has provided over 380 assists for club and country.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: accolades
+❌ MISSING: american
+❌ MISSING: américa
+❌ MISSING: américas
+❌ MISSING: andrés
+❌ MISSING: appearances
+❌ MISSING: argentina
+❌ MISSING: argentine
+❌ MISSING: assists
+❌ MISSING: ballon
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Widely regarded as one of the greatest players of all time, Messi set numerous records for individual accolades won throughout his professional footballing career such as eight Ballon d'Or awards and eight times being named the world's best player by FIFA
+[GPT-2]     Write a short and informative biography of Lionel Messi, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.58
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.33
+Missing Keywords: 67
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Lionel Messi (ID: Q615) ===
+father: Jorge Messi
+spouse: Antonela Roccuzzo
+country of citizenship: Argentina
+instance of: human
+position held: UNICEF Goodwill Ambassador
+child: Ciro Messi Roccuzzo
+member of sports team: Inter Miami CF
+field of work: association football
+native language: Argentine Spanish
+occupation: association football player
+employer: Inter Miami CF
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
+league or competition: Ligue 1
+religion or worldview: Catholicism
+award received: Trofeo Gol Televisión
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Lionel Messi, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The biography should be written in English, Spanish, or both.
+
+The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English
+
+Semantic Similarity Score: 0.38
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: father: Jorge Messi
+❌ MISSING: spouse: Antonela Roccuzzo
+❌ MISSING: country of citizenship: Argentina
+❌ MISSING: instance of: human
+❌ MISSING: position held: UNICEF Goodwill Ambassador
+❌ MISSING: child: Ciro Messi Roccuzzo
+❌ MISSING: member of sports team: Inter Miami CF
+❌ MISSING: field of work: association football
+❌ MISSING: native language: Argentine Spanish
+✅ Mentioned: occupation: association football player
+❌ MISSING: employer: Inter Miami CF
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg
+❌ MISSING: league or competition: Ligue 1
+❌ MISSING: religion or worldview: Catholicism
+❌ MISSING: award received: Trofeo Gol Televisión
+
+=== Semantic Match per Fact ===
+❌ father: Jorge Messi — Similarity: 0.34
+❌ spouse: Antonela Roccuzzo — Similarity: 0.16
+❌ country of citizenship: Argentina — Similarity: 0.27
+❌ instance of: human — Similarity: 0.13
+❌ position held: UNICEF Goodwill Ambassador — Similarity: 0.09
+❌ child: Ciro Messi Roccuzzo — Similarity: 0.28
+❌ member of sports team: Inter Miami CF — Similarity: 0.18
+❌ field of work: association football — Similarity: 0.17
+❌ native language: Argentine Spanish — Similarity: 0.38
+❌ occupation: association football player — Similarity: 0.27
+❌ employer: Inter Miami CF — Similarity: 0.09
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Firma%20de%20Lionel%20Messi.svg — Similarity: 0.15
+❌ league or competition: Ligue 1 — Similarity: 0.01
+❌ religion or worldview: Catholicism — Similarity: 0.08
+❌ award received: Trofeo Gol Televisión — Similarity: 0.03
+
+=== Final Summary ===
+Semantic Similarity: 0.38
+Prompt Repeated: No
+Facts Semantically Matched: 0/15
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Lionel Messi ==========
+Lionel Messi. Argentine footballer. Lionel Andrés "Leo" Messi is an Argentine professional footballer who plays as a forward for and captains both Major League Soccer club Inter Miami and the Argentina national team.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Lionel Messi, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The biography should be written in English, Spanish, or both.
+
+The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English, Spanish, or both. The biography should be written in English
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.37
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: captains
+❌ MISSING: argentine
+❌ MISSING: inter
+❌ MISSING: footballer
+❌ MISSING: argentina
+❌ MISSING: miami
+❌ MISSING: national
+❌ MISSING: forward
+❌ MISSING: soccer
+❌ MISSING: plays
+
+========== Verdict Summary ==========
+Semantic Score: 0.37
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 67)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/15 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

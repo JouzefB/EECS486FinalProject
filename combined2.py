@@ -22,9 +22,9 @@ def section_header(title):
     return f"{'=' * 10} {title} {'=' * 10}"
 
 def main(model_name, tag, temperature):
-    os.makedirs("final_dataset_reports", exist_ok=True)
-
-    summary_csv = os.path.join("final_dataset_reports", "summary.csv")
+    output_dir = "real_final_dataset_reports"
+    os.makedirs(output_dir, exist_ok=True)
+    summary_csv = os.path.join(output_dir, "summary.csv")
     write_header = not os.path.exists(summary_csv)
 
     with open(summary_csv, "a", newline='', encoding="utf-8") as csvfile:
@@ -44,7 +44,7 @@ def main(model_name, tag, temperature):
             print(f"\n🔍 Processing {person} with model '{model_name}' and tag '{tag}'...")
             start = time.time()
 
-            prompt = f"Write a short biography of {person}."
+            prompt = f"Write a short and informative biography of {person}, including important facts such as date of birth, occupation, major achievements, awards, and contributions."
             sampling = (tag == "sampling")
             gpt_output = generator(prompt, max_length=300, do_sample=sampling, temperature=temperature)[0]["generated_text"]
             prompt_repeated = detect_prompt_repetition(prompt, gpt_output)
@@ -58,7 +58,7 @@ def main(model_name, tag, temperature):
                 continue
 
             filename = f"{person.replace(' ', '_')}_{model_name.replace('/', '_')}_{tag}.txt"
-            filepath = os.path.join("final_dataset_reports", filename)
+            filepath = os.path.join(output_dir, filename)
 
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write("========== LEGEND ==========\n")

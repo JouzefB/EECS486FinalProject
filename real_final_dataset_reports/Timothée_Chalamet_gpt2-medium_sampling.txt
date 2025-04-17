@@ -1,0 +1,306 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Timothée Chalamet ==========
+Write a short and informative biography of Timothée Chalamet, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Prerequisites
+
+A general degree in history and the history of art, literature, and art history.
+
+Course was offered Spring 2013
+
+TUT 652: Modernist Art (3.00)
+
+TUT 652: Modernist Art: Art History, Theory, and Criticism (3.00)
+
+TUT 652: Modernist Art: Art and Popular Culture (3.00)
+
+TUT 653: The Origins of Modernism (3.00)
+
+Offered
+
+Fall 2018 An introduction to the history of art and popular culture, focusing on the period from the late 17th century through the 1960s, and highlighting the influence of modernist techniques on the art of the early 20th century.
+
+Summer 2011 Course was offered Summer 2013
+
+TUT 654: Art in the Modern Period (3.00)
+
+TUT 655: Contemporary Modern Art (3.00)
+
+TUT 656: Contemporary Modern Art: Art History, Theory, and Criticism (3.00)
+
+TUT 657: Contemporary Art: Art and Popular Culture (3.00)
+
+TUT 658: Modern Art and the New Wave (3.00)
+
+Offered
+
+Fall 2018
+
+========== Wikipedia Summary ==========
+Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.29
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: academy
+❌ MISSING: accolades
+❌ MISSING: actor
+❌ MISSING: actors
+❌ MISSING: addition
+❌ MISSING: american
+❌ MISSING: award
+❌ MISSING: british
+❌ MISSING: french
+❌ MISSING: globe
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Timothée Hal Chalamet is an American and French actor
+[GPT-2]     Write a short and informative biography of Timothée Chalamet, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.54
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.29
+Missing Keywords: 15
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Timothée Chalamet (ID: Q19877770) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+place of birth: Manhattan
+sex or gender: male
+country of citizenship: France
+instance of: human
+educated at: PS 87 William T. Sherman School
+field of work: acting
+native language: American English
+occupation: actor
+religion or worldview: Judaism
+award received: Lucille Lortel Award for Outstanding Lead Actor in a Play
+ISNI: 0000000468713031
+VIAF cluster ID: 28152820127300681335
+GND ID: 1154460568
+Library of Congress authority ID: no2016041218
+Bibliothèque nationale de France ID: 17759386x
+IdRef ID: 22873200X
+NACSIS-CAT author ID: DB00062901
+IMDb ID: nm3154303
+Commons category: Timothée Chalamet
+MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd
+unmarried partner: Lily-Rose Depp
+residence: Concourse
+date of birth: 1995-12-27T00:00:00Z
+Freebase ID: /m/0p2n1fp
+NL CR AUT ID: xx0249508
+family name: Chalamet
+given name: Timothée
+National Library of Spain ID: XX5792543
+described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style
+Nationale Thesaurus voor Auteursnamen ID: 417485956
+NORAF ID: 1523345892159
+relative: Harold Flender
+NUKAT ID: n2018137114
+Rotten Tomatoes ID: celebrity/timothee_chalamet
+AlloCiné person ID: 525421
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Timothée Chalamet, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Prerequisites
+
+A general degree in history and the history of art, literature, and art history.
+
+Course was offered Spring 2013
+
+TUT 652: Modernist Art (3.00)
+
+TUT 652: Modernist Art: Art History, Theory, and Criticism (3.00)
+
+TUT 652: Modernist Art: Art and Popular Culture (3.00)
+
+TUT 653: The Origins of Modernism (3.00)
+
+Offered
+
+Fall 2018 An introduction to the history of art and popular culture, focusing on the period from the late 17th century through the 1960s, and highlighting the influence of modernist techniques on the art of the early 20th century.
+
+Summer 2011 Course was offered Summer 2013
+
+TUT 654: Art in the Modern Period (3.00)
+
+TUT 655: Contemporary Modern Art (3.00)
+
+TUT 656: Contemporary Modern Art: Art History, Theory, and Criticism (3.00)
+
+TUT 657: Contemporary Art: Art and Popular Culture (3.00)
+
+TUT 658: Modern Art and the New Wave (3.00)
+
+Offered
+
+Fall 2018
+
+Semantic Similarity Score: 0.30
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg
+❌ MISSING: place of birth: Manhattan
+❌ MISSING: sex or gender: male
+❌ MISSING: country of citizenship: France
+❌ MISSING: instance of: human
+❌ MISSING: educated at: PS 87 William T. Sherman School
+❌ MISSING: field of work: acting
+❌ MISSING: native language: American English
+✅ Mentioned: occupation: actor
+❌ MISSING: religion or worldview: Judaism
+❌ MISSING: award received: Lucille Lortel Award for Outstanding Lead Actor in a Play
+❌ MISSING: ISNI: 0000000468713031
+❌ MISSING: VIAF cluster ID: 28152820127300681335
+❌ MISSING: GND ID: 1154460568
+❌ MISSING: Library of Congress authority ID: no2016041218
+❌ MISSING: Bibliothèque nationale de France ID: 17759386x
+❌ MISSING: IdRef ID: 22873200X
+❌ MISSING: NACSIS-CAT author ID: DB00062901
+❌ MISSING: IMDb ID: nm3154303
+✅ Mentioned: Commons category: Timothée Chalamet
+❌ MISSING: MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd
+❌ MISSING: unmarried partner: Lily-Rose Depp
+❌ MISSING: residence: Concourse
+✅ Mentioned: date of birth: 1995-12-27T00:00:00Z
+❌ MISSING: Freebase ID: /m/0p2n1fp
+❌ MISSING: NL CR AUT ID: xx0249508
+✅ Mentioned: family name: Chalamet
+✅ Mentioned: given name: Timothée
+❌ MISSING: National Library of Spain ID: XX5792543
+❌ MISSING: described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style
+❌ MISSING: Nationale Thesaurus voor Auteursnamen ID: 417485956
+❌ MISSING: NORAF ID: 1523345892159
+❌ MISSING: relative: Harold Flender
+❌ MISSING: NUKAT ID: n2018137114
+❌ MISSING: Rotten Tomatoes ID: celebrity/timothee_chalamet
+❌ MISSING: AlloCiné person ID: 525421
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Timoth%C3%A9e%20Chalamet-63541%20%28cropped%29.jpg — Similarity: 0.27
+❌ place of birth: Manhattan — Similarity: 0.14
+❌ sex or gender: male — Similarity: 0.07
+❌ country of citizenship: France — Similarity: 0.06
+❌ instance of: human — Similarity: 0.00
+❌ educated at: PS 87 William T. Sherman School — Similarity: 0.19
+❌ field of work: acting — Similarity: 0.16
+❌ native language: American English — Similarity: 0.24
+❌ occupation: actor — Similarity: 0.17
+❌ religion or worldview: Judaism — Similarity: 0.03
+❌ award received: Lucille Lortel Award for Outstanding Lead Actor in a Play — Similarity: -0.04
+❌ ISNI: 0000000468713031 — Similarity: 0.07
+❌ VIAF cluster ID: 28152820127300681335 — Similarity: 0.11
+❌ GND ID: 1154460568 — Similarity: 0.06
+❌ Library of Congress authority ID: no2016041218 — Similarity: 0.15
+❌ Bibliothèque nationale de France ID: 17759386x — Similarity: 0.23
+❌ IdRef ID: 22873200X — Similarity: 0.09
+❌ NACSIS-CAT author ID: DB00062901 — Similarity: 0.12
+❌ IMDb ID: nm3154303 — Similarity: 0.03
+❌ Commons category: Timothée Chalamet — Similarity: 0.37
+❌ MusicBrainz artist ID: 18d0a6fb-2b58-499d-9516-9689b37f01dd — Similarity: 0.17
+❌ unmarried partner: Lily-Rose Depp — Similarity: 0.11
+❌ residence: Concourse — Similarity: 0.00
+❌ date of birth: 1995-12-27T00:00:00Z — Similarity: 0.20
+❌ Freebase ID: /m/0p2n1fp — Similarity: 0.01
+❌ NL CR AUT ID: xx0249508 — Similarity: 0.22
+❌ family name: Chalamet — Similarity: 0.21
+❌ given name: Timothée — Similarity: 0.31
+❌ National Library of Spain ID: XX5792543 — Similarity: 0.07
+❌ described at URL: https://www.gq.com/story/timothee-chalamet-off-duty-style — Similarity: 0.36
+❌ Nationale Thesaurus voor Auteursnamen ID: 417485956 — Similarity: 0.21
+❌ NORAF ID: 1523345892159 — Similarity: 0.12
+❌ relative: Harold Flender — Similarity: 0.10
+❌ NUKAT ID: n2018137114 — Similarity: 0.13
+❌ Rotten Tomatoes ID: celebrity/timothee_chalamet — Similarity: 0.25
+❌ AlloCiné person ID: 525421 — Similarity: 0.06
+
+=== Final Summary ===
+Semantic Similarity: 0.30
+Prompt Repeated: No
+Facts Semantically Matched: 0/36
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Timothée Chalamet ==========
+Timothée Chalamet. American-French actor. Timothée Hal Chalamet is an American and French actor. His accolades include a Screen Actors Guild Award, in addition to nominations for two Academy Awards, four British Academy Film Awards and four Golden Globe Awards.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Timothée Chalamet, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Prerequisites
+
+A general degree in history and the history of art, literature, and art history.
+
+Course was offered Spring 2013
+
+TUT 652: Modernist Art (3.00)
+
+TUT 652: Modernist Art: Art History, Theory, and Criticism (3.00)
+
+TUT 652: Modernist Art: Art and Popular Culture (3.00)
+
+TUT 653: The Origins of Modernism (3.00)
+
+Offered
+
+Fall 2018 An introduction to the history of art and popular culture, focusing on the period from the late 17th century through the 1960s, and highlighting the influence of modernist techniques on the art of the early 20th century.
+
+Summer 2011 Course was offered Summer 2013
+
+TUT 654: Art in the Modern Period (3.00)
+
+TUT 655: Contemporary Modern Art (3.00)
+
+TUT 656: Contemporary Modern Art: Art History, Theory, and Criticism (3.00)
+
+TUT 657: Contemporary Art: Art and Popular Culture (3.00)
+
+TUT 658: Modern Art and the New Wave (3.00)
+
+Offered
+
+Fall 2018
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.29
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: screen
+❌ MISSING: guild
+❌ MISSING: actors
+❌ MISSING: british
+❌ MISSING: chalamet
+❌ MISSING: globe
+❌ MISSING: american
+❌ MISSING: addition
+❌ MISSING: include
+❌ MISSING: academy
+
+========== Verdict Summary ==========
+Semantic Score: 0.29
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 15)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/36 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

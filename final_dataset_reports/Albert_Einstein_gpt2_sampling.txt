@@ -10,43 +10,13 @@ Keyword matches are used to identify missing facts or details.
 ========== Wikipedia Comparison ==========
 
 ========== GPT-2 Generated Biography for Albert Einstein ==========
-Write a short biography of Albert Einstein. Then, try to find out where he got his ideas from.
-
-Do you think Einstein was the only person who could answer a question like this?
-
-Nope.
-
-Okay, so what does all that mean? If you read the book, you'll understand that Einstein's words are not about the theory of relativity, but about how relativity works.
-
-That's a great question!
-
-Well, I don't think that's true.
-
-Well, what is a theory? A theory is a scientific theory. I'm not saying that Einstein's words are not scientific, or even that some of the stuff that he says is scientific. I'm saying that these are questions that science has to address.
-
-That's not the way it used to be.
-
-I think it's a very good question.
-
-Well, not really.
-
-What's the problem with saying it is scientific?
-
-Well, science is in the process of exploring the question of whether or not we can make sense of something that has never been known before, or something that is very different.
-
-Well, it's just because we've never been able to find out who created the universe.
-
-You know, we can't really understand the way the universe works.
-
-But you can come up with hypotheses, and then we can say that we can't explain anything.
-
-Well, you know
+Write a short biography of Albert Einstein. See also: How Einstein Made It Official
 
 ========== Wikipedia Summary ==========
 Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called "the world's most famous equation". He received the 1921 Nobel Prize in Physics for his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect.
 
 ========== Semantic Similarity Score ==========
-Cosine Similarity Score: 0.40
+Cosine Similarity Score: 0.54
 ⚠️ GPT-2 output is potentially hallucinated or unrelated.
 
 ========== Top Missing Keywords ==========
@@ -67,120 +37,99 @@ Cosine Similarity Score: 0.40
 → Cosine Similarity: 0.65
 
 ========== Verdict Summary ==========
-Semantic Similarity: 0.40
-Missing Keywords: 27
+Semantic Similarity: 0.54
+Missing Keywords: 30
 ⚠️ Possible hallucination or deviation from trusted summary.
 
 ========== Wikidata Comparison ==========
 === Wikidata Facts for Albert Einstein (ID: Q937) ===
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
-place of birth: Ulm
-place of death: Princeton
-sex or gender: male
-father: Hermann Einstein
-mother: Pauline Koch
-spouse: Mileva Marić
-country of citizenship: Cisleithania
-instance of: human
-position held: professor
-child: Lieserl (Einstein)
-educated at: Luitpold-Gymnasium
-field of work: theoretical physics
-member of political party: German Democratic Party
-native language: German
-occupation: physicist
-employer: German University in Prague
-signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg
-place of burial: National Museum of Health and Medicine
-religion or worldview: Pantheism
-award received: Max Planck Medal
+Bibliothèque nationale de France ID: 119016075
+IdRef ID: 026849186
+CALIS ID: n2004370668
+NACSIS-CAT author ID: DA00708434
+IMDb ID: nm0251868
+NDL Authority ID: 00438728
+Commons category: Albert Einstein
+SBN author ID: CFIV035853
+Libraries Australia ID: 36582360
+MusicBrainz artist ID: c98c325e-7277-46e8-8b44-e3517f3e041a
+pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Albert%20Einstein.wav
+member of: Russian Academy of Sciences (1917–1925)
+archives at: ETH Zurich University Archives
+ORCID iD: 0000-0001-9183-9538
+cause of death: abdominal aortic aneurysm
+academic degree: Doctor of Philosophy in Physics
+Find a Grave memorial ID: 314
+Mathematics Genealogy Project ID: 53269
+residence: Einsteinhaus Caputh
+date of birth: 1879-03-14T00:00:00Z
+date of death: 1955-04-18T00:00:00Z
+Freebase ID: /m/0jcx
+Open Library ID: OL3175986A
+NL CR AUT ID: jn19990002019
 
 === GPT-2 Generated Biography ===
-Write a short biography of Albert Einstein. Then, try to find out where he got his ideas from.
+Write a short biography of Albert Einstein. See also: How Einstein Made It Official
 
-Do you think Einstein was the only person who could answer a question like this?
-
-Nope.
-
-Okay, so what does all that mean? If you read the book, you'll understand that Einstein's words are not about the theory of relativity, but about how relativity works.
-
-That's a great question!
-
-Well, I don't think that's true.
-
-Well, what is a theory? A theory is a scientific theory. I'm not saying that Einstein's words are not scientific, or even that some of the stuff that he says is scientific. I'm saying that these are questions that science has to address.
-
-That's not the way it used to be.
-
-I think it's a very good question.
-
-Well, not really.
-
-What's the problem with saying it is scientific?
-
-Well, science is in the process of exploring the question of whether or not we can make sense of something that has never been known before, or something that is very different.
-
-Well, it's just because we've never been able to find out who created the universe.
-
-You know, we can't really understand the way the universe works.
-
-But you can come up with hypotheses, and then we can say that we can't explain anything.
-
-Well, you know
-
-Semantic Similarity Score: 0.38
+Semantic Similarity Score: 0.36
 ⚠️ GPT-2 output is SUSPICIOUS.
 
 === Fact Presence in GPT-2 Output (Keyword Check) ===
-❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg
-❌ MISSING: place of birth: Ulm
-❌ MISSING: place of death: Princeton
-❌ MISSING: sex or gender: male
-❌ MISSING: father: Hermann Einstein
-❌ MISSING: mother: Pauline Koch
-❌ MISSING: spouse: Mileva Marić
-❌ MISSING: country of citizenship: Cisleithania
-❌ MISSING: instance of: human
-❌ MISSING: position held: professor
-❌ MISSING: child: Lieserl (Einstein)
-❌ MISSING: educated at: Luitpold-Gymnasium
-❌ MISSING: field of work: theoretical physics
-❌ MISSING: member of political party: German Democratic Party
-❌ MISSING: native language: German
-❌ MISSING: occupation: physicist
-❌ MISSING: employer: German University in Prague
-❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg
-❌ MISSING: place of burial: National Museum of Health and Medicine
-❌ MISSING: religion or worldview: Pantheism
-❌ MISSING: award received: Max Planck Medal
+❌ MISSING: Bibliothèque nationale de France ID: 119016075
+❌ MISSING: IdRef ID: 026849186
+❌ MISSING: CALIS ID: n2004370668
+❌ MISSING: NACSIS-CAT author ID: DA00708434
+❌ MISSING: IMDb ID: nm0251868
+❌ MISSING: NDL Authority ID: 00438728
+✅ Mentioned: Commons category: Albert Einstein
+❌ MISSING: SBN author ID: CFIV035853
+❌ MISSING: Libraries Australia ID: 36582360
+❌ MISSING: MusicBrainz artist ID: c98c325e-7277-46e8-8b44-e3517f3e041a
+❌ MISSING: pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Albert%20Einstein.wav
+❌ MISSING: member of: Russian Academy of Sciences (1917–1925)
+❌ MISSING: archives at: ETH Zurich University Archives
+❌ MISSING: ORCID iD: 0000-0001-9183-9538
+❌ MISSING: cause of death: abdominal aortic aneurysm
+❌ MISSING: academic degree: Doctor of Philosophy in Physics
+❌ MISSING: Find a Grave memorial ID: 314
+❌ MISSING: Mathematics Genealogy Project ID: 53269
+❌ MISSING: residence: Einsteinhaus Caputh
+❌ MISSING: date of birth: 1879-03-14T00:00:00Z
+❌ MISSING: date of death: 1955-04-18T00:00:00Z
+❌ MISSING: Freebase ID: /m/0jcx
+❌ MISSING: Open Library ID: OL3175986A
+❌ MISSING: NL CR AUT ID: jn19990002019
 
 === Semantic Match per Fact ===
-❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20Head.jpg — Similarity: 0.20
-❌ place of birth: Ulm — Similarity: 0.12
-❌ place of death: Princeton — Similarity: 0.06
-❌ sex or gender: male — Similarity: 0.16
-❌ father: Hermann Einstein — Similarity: 0.41
-❌ mother: Pauline Koch — Similarity: 0.04
-❌ spouse: Mileva Marić — Similarity: -0.03
-❌ country of citizenship: Cisleithania — Similarity: 0.02
-❌ instance of: human — Similarity: 0.09
-❌ position held: professor — Similarity: 0.07
-❌ child: Lieserl (Einstein) — Similarity: 0.33
-❌ educated at: Luitpold-Gymnasium — Similarity: 0.05
-❌ field of work: theoretical physics — Similarity: 0.27
-❌ member of political party: German Democratic Party — Similarity: 0.05
-❌ native language: German — Similarity: 0.11
-❌ occupation: physicist — Similarity: 0.29
-❌ employer: German University in Prague — Similarity: 0.01
-❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Albert%20Einstein%20signature%201934.svg — Similarity: 0.12
-❌ place of burial: National Museum of Health and Medicine — Similarity: 0.03
-❌ religion or worldview: Pantheism — Similarity: 0.18
-❌ award received: Max Planck Medal — Similarity: 0.10
+❌ Bibliothèque nationale de France ID: 119016075 — Similarity: 0.15
+❌ IdRef ID: 026849186 — Similarity: 0.00
+❌ CALIS ID: n2004370668 — Similarity: 0.01
+❌ NACSIS-CAT author ID: DA00708434 — Similarity: 0.16
+❌ IMDb ID: nm0251868 — Similarity: 0.08
+❌ NDL Authority ID: 00438728 — Similarity: -0.00
+✅ Commons category: Albert Einstein — Similarity: 0.53
+❌ SBN author ID: CFIV035853 — Similarity: 0.20
+❌ Libraries Australia ID: 36582360 — Similarity: 0.21
+❌ MusicBrainz artist ID: c98c325e-7277-46e8-8b44-e3517f3e041a — Similarity: -0.01
+❌ pronunciation audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q34239%20%28kok%29-Fredericknoronha-Albert%20Einstein.wav — Similarity: 0.09
+❌ member of: Russian Academy of Sciences (1917–1925) — Similarity: 0.21
+❌ archives at: ETH Zurich University Archives — Similarity: 0.20
+❌ ORCID iD: 0000-0001-9183-9538 — Similarity: -0.00
+❌ cause of death: abdominal aortic aneurysm — Similarity: 0.10
+❌ academic degree: Doctor of Philosophy in Physics — Similarity: 0.29
+❌ Find a Grave memorial ID: 314 — Similarity: 0.07
+❌ Mathematics Genealogy Project ID: 53269 — Similarity: 0.19
+❌ residence: Einsteinhaus Caputh — Similarity: 0.33
+❌ date of birth: 1879-03-14T00:00:00Z — Similarity: 0.29
+❌ date of death: 1955-04-18T00:00:00Z — Similarity: 0.23
+❌ Freebase ID: /m/0jcx — Similarity: 0.09
+❌ Open Library ID: OL3175986A — Similarity: 0.10
+❌ NL CR AUT ID: jn19990002019 — Similarity: 0.11
 
 === Final Summary ===
-Semantic Similarity: 0.38
+Semantic Similarity: 0.36
 Prompt Repeated: No
-Facts Semantically Matched: 0/21
+Facts Semantically Matched: 1/24
 ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
 
 ========== Google Knowledge Graph Comparison ==========
@@ -189,57 +138,29 @@ Facts Semantically Matched: 0/21
 Albert Einstein. Theoretical physicist. Albert Einstein was a German-born theoretical physicist who is best known for developing the theory of relativity. Einstein also made important contributions to quantum mechanics.
 
 ========== GPT-2 Generated Biography ==========
-Write a short biography of Albert Einstein. Then, try to find out where he got his ideas from.
-
-Do you think Einstein was the only person who could answer a question like this?
-
-Nope.
-
-Okay, so what does all that mean? If you read the book, you'll understand that Einstein's words are not about the theory of relativity, but about how relativity works.
-
-That's a great question!
-
-Well, I don't think that's true.
-
-Well, what is a theory? A theory is a scientific theory. I'm not saying that Einstein's words are not scientific, or even that some of the stuff that he says is scientific. I'm saying that these are questions that science has to address.
-
-That's not the way it used to be.
-
-I think it's a very good question.
-
-Well, not really.
-
-What's the problem with saying it is scientific?
-
-Well, science is in the process of exploring the question of whether or not we can make sense of something that has never been known before, or something that is very different.
-
-Well, it's just because we've never been able to find out who created the universe.
-
-You know, we can't really understand the way the universe works.
-
-But you can come up with hypotheses, and then we can say that we can't explain anything.
-
-Well, you know
+Write a short biography of Albert Einstein. See also: How Einstein Made It Official
 
 ========== Semantic Similarity Score ==========
-Cosine Similarity Score: 0.46
+Cosine Similarity Score: 0.59
 ⚠️ GPT-2 output is semantically inconsistent or unrelated.
 
 ========== Missing Key Terms from GPT-2 Output ==========
-❌ MISSING: contributions
-❌ MISSING: quantum
-❌ MISSING: physicist
 ❌ MISSING: theoretical
-❌ MISSING: developing
+❌ MISSING: contributions
+❌ MISSING: theory
+❌ MISSING: physicist
+❌ MISSING: known
+❌ MISSING: quantum
 ❌ MISSING: important
+❌ MISSING: developing
 
 ========== Verdict Summary ==========
-Semantic Score: 0.46
-Missing Keywords: 6
+Semantic Score: 0.59
+Missing Keywords: 8
 Prompt Repeated: No
 ⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
 
 ========== Overall Verdicts ==========
-Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 27)
-Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/21 facts matched)
-Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 6)
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 30)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/24 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 8)

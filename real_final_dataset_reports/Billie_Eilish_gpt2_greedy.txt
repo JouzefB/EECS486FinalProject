@@ -1,0 +1,234 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Billie Eilish ==========
+Write a short and informative biography of Billie Eilish, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+
+
+========== Wikipedia Summary ==========
+Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows. In 2017, she released her debut extended play (EP), Don't Smile at Me. Commercially successful, it reached the top 15 of record charts in numerous countries, including the US, UK, Canada, and Australia.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.22
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: american
+❌ MISSING: attention
+❌ MISSING: australia
+❌ MISSING: baird
+❌ MISSING: brother
+❌ MISSING: canada
+❌ MISSING: charts
+❌ MISSING: collaborates
+❌ MISSING: commercially
+❌ MISSING: connell
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician
+[GPT-2]     Write a short and informative biography of Billie Eilish, including important facts such as date of birth, occupation, major achievements, awards, and contributions
+→ Cosine Similarity: 0.42
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.22
+Missing Keywords: 33
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Billie Eilish (ID: Q29564107) ===
+image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+place of birth: Los Angeles
+sex or gender: non-binary
+father: Patrick O'Connell
+mother: Maggie Baird
+country of citizenship: United States
+instance of: human
+sexual orientation: non-heterosexuality
+field of work: music
+native language: American English
+occupation: dancer
+signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+genre: alternative pop
+logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+award received: Apple Music's Artist of the Year
+ethnic group: Irish Americans
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Billie Eilish, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+
+
+Semantic Similarity Score: 0.30
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg
+❌ MISSING: place of birth: Los Angeles
+❌ MISSING: sex or gender: non-binary
+❌ MISSING: father: Patrick O'Connell
+❌ MISSING: mother: Maggie Baird
+❌ MISSING: country of citizenship: United States
+❌ MISSING: instance of: human
+❌ MISSING: sexual orientation: non-heterosexuality
+❌ MISSING: field of work: music
+❌ MISSING: native language: American English
+✅ Mentioned: occupation: dancer
+❌ MISSING: signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg
+❌ MISSING: genre: alternative pop
+❌ MISSING: logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg
+❌ MISSING: award received: Apple Music's Artist of the Year
+❌ MISSING: ethnic group: Irish Americans
+
+=== Semantic Match per Fact ===
+❌ image: http://commons.wikimedia.org/wiki/Special:FilePath/BillieEilishO2160622%20%2819%20of%2045%29%20%2852153214339%29%20%28cropped%203%29.jpg — Similarity: 0.30
+❌ place of birth: Los Angeles — Similarity: 0.16
+❌ sex or gender: non-binary — Similarity: 0.11
+❌ father: Patrick O'Connell — Similarity: 0.15
+❌ mother: Maggie Baird — Similarity: 0.08
+❌ country of citizenship: United States — Similarity: 0.07
+❌ instance of: human — Similarity: 0.08
+❌ sexual orientation: non-heterosexuality — Similarity: 0.07
+❌ field of work: music — Similarity: 0.20
+❌ native language: American English — Similarity: 0.21
+❌ occupation: dancer — Similarity: 0.09
+❌ signature: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%20signature.svg — Similarity: 0.38
+❌ genre: alternative pop — Similarity: 0.11
+❌ logo image: http://commons.wikimedia.org/wiki/Special:FilePath/Billie%20Eilish%202021%20logo.svg — Similarity: 0.41
+❌ award received: Apple Music's Artist of the Year — Similarity: 0.12
+❌ ethnic group: Irish Americans — Similarity: 0.09
+
+=== Final Summary ===
+Semantic Similarity: 0.30
+Prompt Repeated: No
+Facts Semantically Matched: 0/16
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Billie Eilish ==========
+Billie Eilish. American singer-songwriter and musician. Billie Eilish Pirate Baird O'Connell is an American singer-songwriter and musician. She first gained public attention in 2015 with her debut single "Ocean Eyes", written and produced by her brother Finneas O'Connell, with whom she collaborates on music and live shows.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Billie Eilish, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+The book will be published in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+The book will be available in paperback and ebook formats by the end of the year.
+
+
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.33
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: debut
+❌ MISSING: first
+❌ MISSING: collaborates
+❌ MISSING: american
+❌ MISSING: music
+❌ MISSING: brother
+❌ MISSING: written
+❌ MISSING: finneas
+❌ MISSING: pirate
+❌ MISSING: gained
+
+========== Verdict Summary ==========
+Semantic Score: 0.33
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 33)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (0/16 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)

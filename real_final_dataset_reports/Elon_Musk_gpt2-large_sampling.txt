@@ -1,0 +1,393 @@
+========== LEGEND ==========
+✅ = Output is likely factual or consistent
+⚠️ = Output is likely hallucinated or contains omissions
+Semantic Similarity thresholds:
+  - ✅ ≥ 0.60 → semantically aligned
+  - ⚠️ < 0.60 → possibly unrelated or hallucinated
+Prompt Repetition detected if the model repeats the prompt multiple times.
+Keyword matches are used to identify missing facts or details.
+
+========== Wikipedia Comparison ==========
+
+========== GPT-2 Generated Biography for Elon Musk ==========
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Create a short and informative essay on Elon Musk.
+
+Send the essay to Elon Musk's address.
+
+Note: This essay will be reviewed by Elon Musk.
+
+Your essay should be no more than 500 words. Please do not send any attachments.
+
+Please include a cover letter and resume.
+
+Please include:
+
+A few words about yourself.
+
+Your contact information.
+
+A short statement about your achievements.
+
+A short statement about the work you are doing at SpaceX.
+
+A brief bio of Elon Musk.
+
+Please include your email address and a phone number.
+
+Please include:
+
+Your current mailing address.
+
+A current telephone number.
+
+Your date of birth.
+
+Your address, if any.
+
+If you are a professional, please include your name, title, and address.
+
+If you are a student, please include your name, title, and address.
+
+If you are a spouse, please include your name, title, and address.
+
+(Please note: The deadline for submitting your essay is March 11, 2019.)
+
+Submit Online
+
+Use the following link to submit your essay online:
+
+https://elonmusk.com/essay-submit/
+
+Send Essay
+
+========== Wikipedia Summary ==========
+Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency (DOGE). Musk is the wealthiest person in the world; as of March 2025, Forbes estimates his net worth to be US$345 billion. He was named Time magazine's Person of the Year in 2021.
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.45
+⚠️ GPT-2 output is potentially hallucinated or unrelated.
+
+========== Top Missing Keywords ==========
+❌ MISSING: advisor
+❌ MISSING: billion
+❌ MISSING: businessman
+❌ MISSING: department
+❌ MISSING: donald
+❌ MISSING: efficiency
+❌ MISSING: estimates
+❌ MISSING: facto
+❌ MISSING: forbes
+❌ MISSING: government
+
+========== Closest Matching Sentence Pair ==========
+[Wikipedia] Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X
+[GPT-2]     A brief bio of Elon Musk
+→ Cosine Similarity: 0.57
+
+========== Verdict Summary ==========
+Semantic Similarity: 0.45
+Missing Keywords: 26
+⚠️ Possible hallucination or deviation from trusted summary.
+
+========== Wikidata Comparison ==========
+=== Wikidata Facts for Elon Musk (ID: Q317521) ===
+National Library of Russia ID: 770167835
+Album of the Year artist ID: 53397
+TikTok username: elonmuskb
+The Independent topic ID: elon-musk
+National Library of Poland MMS ID: 9810569544605606
+Online PWN Encyclopedia ID: 9283194
+National Library of Chile ID: 000823972
+LibraryThing author ID: muskelon
+Golden ID: Elon_Musk
+Visuotinė lietuvių enciklopedija ID: elon-musk
+National Library of Lithuania ID: LNB:CrP8;=Bj
+Slovak National Library (VIAF) ID: vtls010547626
+RationalWiki ID: Elon_Musk
+MarketScreener business leaders ID: ELON-MUSK-A03NJH
+Deutsche Biographie (GND) ID: 1062481119
+TheTVDB person ID: 248262
+Roglo person ID: p=elon;n=musk
+Hrvatska enciklopedija ID: 71403
+Trakt.tv ID: people/elon-musk
+GeneaStar person ID: muskelon
+Fandango person ID: 481746
+Il Sole 24 Ore topic ID: elon-musk
+Canadiana Name Authority ID: ncf11047410
+J9U ID: 987007592088005171
+Yle topic ID: 18-141382
+Lex ID: Elon_Musk
+Our Campaigns candidate ID: 400743
+X topic ID: 808713037230157824
+social media followers: 149482571
+CONOR.SR ID: 32321639
+Kinorium person ID: 1260208
+Namuwiki ID: 일론 머스크
+France 24 topic ID (French): elon-musk
+France 24 topic ID (English): elon-musk
+France 24 topic ID (Spanish): elon-musk
+CNA topic ID: elon-musk
+Forbes Russia profile ID: 394293-ilon-mask-elon-musk
+Podchaser creator ID: 107Zzj88OH
+SNK ID: 157556
+Bing entity ID: ce6414c0-f9f0-b48b-31f9-42a7dab4db59
+Kallías ID: PE00673467
+Postimees topic ID: 325768
+CANTIC ID: 981058620098506706
+MYmovies person ID: 182554
+Tabakalera ID: 54870
+Kinobaza person ID: elon-musk
+National Library of Ireland ID: vtls002821158
+Der Spiegel topic ID: elon_musk
+OpenAlex ID: A5067618361
+
+=== GPT-2 Generated Biography ===
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Create a short and informative essay on Elon Musk.
+
+Send the essay to Elon Musk's address.
+
+Note: This essay will be reviewed by Elon Musk.
+
+Your essay should be no more than 500 words. Please do not send any attachments.
+
+Please include a cover letter and resume.
+
+Please include:
+
+A few words about yourself.
+
+Your contact information.
+
+A short statement about your achievements.
+
+A short statement about the work you are doing at SpaceX.
+
+A brief bio of Elon Musk.
+
+Please include your email address and a phone number.
+
+Please include:
+
+Your current mailing address.
+
+A current telephone number.
+
+Your date of birth.
+
+Your address, if any.
+
+If you are a professional, please include your name, title, and address.
+
+If you are a student, please include your name, title, and address.
+
+If you are a spouse, please include your name, title, and address.
+
+(Please note: The deadline for submitting your essay is March 11, 2019.)
+
+Submit Online
+
+Use the following link to submit your essay online:
+
+https://elonmusk.com/essay-submit/
+
+Send Essay
+
+Semantic Similarity Score: 0.48
+⚠️ GPT-2 output is SUSPICIOUS.
+
+=== Fact Presence in GPT-2 Output (Keyword Check) ===
+❌ MISSING: National Library of Russia ID: 770167835
+❌ MISSING: Album of the Year artist ID: 53397
+❌ MISSING: TikTok username: elonmuskb
+❌ MISSING: The Independent topic ID: elon-musk
+❌ MISSING: National Library of Poland MMS ID: 9810569544605606
+❌ MISSING: Online PWN Encyclopedia ID: 9283194
+❌ MISSING: National Library of Chile ID: 000823972
+❌ MISSING: LibraryThing author ID: muskelon
+❌ MISSING: Golden ID: Elon_Musk
+❌ MISSING: Visuotinė lietuvių enciklopedija ID: elon-musk
+❌ MISSING: National Library of Lithuania ID: LNB:CrP8;=Bj
+❌ MISSING: Slovak National Library (VIAF) ID: vtls010547626
+❌ MISSING: RationalWiki ID: Elon_Musk
+❌ MISSING: MarketScreener business leaders ID: ELON-MUSK-A03NJH
+❌ MISSING: Deutsche Biographie (GND) ID: 1062481119
+❌ MISSING: TheTVDB person ID: 248262
+❌ MISSING: Roglo person ID: p=elon;n=musk
+❌ MISSING: Hrvatska enciklopedija ID: 71403
+❌ MISSING: Trakt.tv ID: people/elon-musk
+❌ MISSING: GeneaStar person ID: muskelon
+❌ MISSING: Fandango person ID: 481746
+❌ MISSING: Il Sole 24 Ore topic ID: elon-musk
+❌ MISSING: Canadiana Name Authority ID: ncf11047410
+❌ MISSING: J9U ID: 987007592088005171
+❌ MISSING: Yle topic ID: 18-141382
+❌ MISSING: Lex ID: Elon_Musk
+❌ MISSING: Our Campaigns candidate ID: 400743
+❌ MISSING: X topic ID: 808713037230157824
+❌ MISSING: social media followers: 149482571
+❌ MISSING: CONOR.SR ID: 32321639
+❌ MISSING: Kinorium person ID: 1260208
+❌ MISSING: Namuwiki ID: 일론 머스크
+❌ MISSING: France 24 topic ID (French): elon-musk
+❌ MISSING: France 24 topic ID (English): elon-musk
+❌ MISSING: France 24 topic ID (Spanish): elon-musk
+❌ MISSING: CNA topic ID: elon-musk
+❌ MISSING: Forbes Russia profile ID: 394293-ilon-mask-elon-musk
+❌ MISSING: Podchaser creator ID: 107Zzj88OH
+❌ MISSING: SNK ID: 157556
+❌ MISSING: Bing entity ID: ce6414c0-f9f0-b48b-31f9-42a7dab4db59
+❌ MISSING: Kallías ID: PE00673467
+❌ MISSING: Postimees topic ID: 325768
+❌ MISSING: CANTIC ID: 981058620098506706
+❌ MISSING: MYmovies person ID: 182554
+❌ MISSING: Tabakalera ID: 54870
+❌ MISSING: Kinobaza person ID: elon-musk
+❌ MISSING: National Library of Ireland ID: vtls002821158
+❌ MISSING: Der Spiegel topic ID: elon_musk
+❌ MISSING: OpenAlex ID: A5067618361
+
+=== Semantic Match per Fact ===
+❌ National Library of Russia ID: 770167835 — Similarity: 0.12
+❌ Album of the Year artist ID: 53397 — Similarity: 0.06
+❌ TikTok username: elonmuskb — Similarity: 0.31
+❌ The Independent topic ID: elon-musk — Similarity: 0.46
+❌ National Library of Poland MMS ID: 9810569544605606 — Similarity: 0.16
+❌ Online PWN Encyclopedia ID: 9283194 — Similarity: 0.26
+❌ National Library of Chile ID: 000823972 — Similarity: 0.05
+❌ LibraryThing author ID: muskelon — Similarity: 0.33
+❌ Golden ID: Elon_Musk — Similarity: 0.45
+❌ Visuotinė lietuvių enciklopedija ID: elon-musk — Similarity: 0.42
+❌ National Library of Lithuania ID: LNB:CrP8;=Bj — Similarity: 0.14
+❌ Slovak National Library (VIAF) ID: vtls010547626 — Similarity: 0.16
+❌ RationalWiki ID: Elon_Musk — Similarity: 0.43
+❌ MarketScreener business leaders ID: ELON-MUSK-A03NJH — Similarity: 0.38
+❌ Deutsche Biographie (GND) ID: 1062481119 — Similarity: 0.24
+❌ TheTVDB person ID: 248262 — Similarity: 0.16
+❌ Roglo person ID: p=elon;n=musk — Similarity: 0.44
+❌ Hrvatska enciklopedija ID: 71403 — Similarity: 0.22
+❌ Trakt.tv ID: people/elon-musk — Similarity: 0.43
+❌ GeneaStar person ID: muskelon — Similarity: 0.35
+❌ Fandango person ID: 481746 — Similarity: 0.13
+❌ Il Sole 24 Ore topic ID: elon-musk — Similarity: 0.40
+❌ Canadiana Name Authority ID: ncf11047410 — Similarity: 0.11
+❌ J9U ID: 987007592088005171 — Similarity: 0.18
+❌ Yle topic ID: 18-141382 — Similarity: 0.22
+❌ Lex ID: Elon_Musk — Similarity: 0.46
+❌ Our Campaigns candidate ID: 400743 — Similarity: 0.19
+❌ X topic ID: 808713037230157824 — Similarity: 0.17
+❌ social media followers: 149482571 — Similarity: 0.21
+❌ CONOR.SR ID: 32321639 — Similarity: 0.18
+❌ Kinorium person ID: 1260208 — Similarity: 0.19
+❌ Namuwiki ID: 일론 머스크 — Similarity: 0.20
+❌ France 24 topic ID (French): elon-musk — Similarity: 0.44
+❌ France 24 topic ID (English): elon-musk — Similarity: 0.47
+❌ France 24 topic ID (Spanish): elon-musk — Similarity: 0.43
+❌ CNA topic ID: elon-musk — Similarity: 0.38
+❌ Forbes Russia profile ID: 394293-ilon-mask-elon-musk — Similarity: 0.47
+❌ Podchaser creator ID: 107Zzj88OH — Similarity: 0.21
+❌ SNK ID: 157556 — Similarity: 0.20
+❌ Bing entity ID: ce6414c0-f9f0-b48b-31f9-42a7dab4db59 — Similarity: 0.11
+❌ Kallías ID: PE00673467 — Similarity: 0.17
+❌ Postimees topic ID: 325768 — Similarity: 0.23
+❌ CANTIC ID: 981058620098506706 — Similarity: 0.12
+❌ MYmovies person ID: 182554 — Similarity: 0.19
+❌ Tabakalera ID: 54870 — Similarity: 0.13
+❌ Kinobaza person ID: elon-musk — Similarity: 0.45
+❌ National Library of Ireland ID: vtls002821158 — Similarity: 0.02
+✅ Der Spiegel topic ID: elon_musk — Similarity: 0.52
+❌ OpenAlex ID: A5067618361 — Similarity: 0.10
+
+=== Final Summary ===
+Semantic Similarity: 0.48
+Prompt Repeated: No
+Facts Semantically Matched: 1/49
+⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated.
+
+========== Google Knowledge Graph Comparison ==========
+
+========== Knowledge Graph Data for Elon Musk ==========
+Elon Musk. Senior Advisor to the President of the United States. Elon Reeve Musk is a businessman known for his leadership of Tesla, SpaceX, and X. Since 2025, he has been a senior advisor to United States President Donald Trump and the de facto head of the Department of Government Efficiency.
+
+========== GPT-2 Generated Biography ==========
+Write a short and informative biography of Elon Musk, including important facts such as date of birth, occupation, major achievements, awards, and contributions.
+
+Create a short and informative essay on Elon Musk.
+
+Send the essay to Elon Musk's address.
+
+Note: This essay will be reviewed by Elon Musk.
+
+Your essay should be no more than 500 words. Please do not send any attachments.
+
+Please include a cover letter and resume.
+
+Please include:
+
+A few words about yourself.
+
+Your contact information.
+
+A short statement about your achievements.
+
+A short statement about the work you are doing at SpaceX.
+
+A brief bio of Elon Musk.
+
+Please include your email address and a phone number.
+
+Please include:
+
+Your current mailing address.
+
+A current telephone number.
+
+Your date of birth.
+
+Your address, if any.
+
+If you are a professional, please include your name, title, and address.
+
+If you are a student, please include your name, title, and address.
+
+If you are a spouse, please include your name, title, and address.
+
+(Please note: The deadline for submitting your essay is March 11, 2019.)
+
+Submit Online
+
+Use the following link to submit your essay online:
+
+https://elonmusk.com/essay-submit/
+
+Send Essay
+
+========== Semantic Similarity Score ==========
+Cosine Similarity Score: 0.43
+⚠️ GPT-2 output is semantically inconsistent or unrelated.
+
+========== Missing Key Terms from GPT-2 Output ==========
+❌ MISSING: businessman
+❌ MISSING: facto
+❌ MISSING: states
+❌ MISSING: trump
+❌ MISSING: donald
+❌ MISSING: leadership
+❌ MISSING: department
+❌ MISSING: president
+❌ MISSING: known
+❌ MISSING: senior
+
+========== Verdict Summary ==========
+Semantic Score: 0.43
+Missing Keywords: 10
+Prompt Repeated: No
+⚠️ GPT-2 output LIKELY contains hallucinations or omissions.
+
+========== Overall Verdicts ==========
+Wikipedia: ⚠️ GPT-2 output is potentially hallucinated or unrelated. (Missing: 26)
+Wikidata: ⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated. (1/49 facts matched)
+Google KG: ⚠️ GPT-2 output LIKELY contains hallucinations or omissions. (Missing: 10)
