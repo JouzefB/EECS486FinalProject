@@ -43,9 +43,10 @@ GOOGLE_API_KEY = "your-api-key-here"
 - `compare_gpt2_to_wiki.py`: Wikipedia comparison logic that's used in combined2.py
 - `wikidata_lookup.py`: Wikidata fact-checking logic that's used in combined2.py
 - `Google_Knowledge_API_Graph_vs_chatgpt2.py`: Google KG comparison logic that's used in combined2.py
-- `final_dataset_reports/`: All generated output reports (text format)
-- `summary.csv`: CSV file summarizing results across all configurations
-- `requirements.txt`: Python dependencies
+- 'real_final_dataset_reports/': Contains the final reports we used in our findings in the Final Report Paper
+- `final_dataset_reports/`: These Reports were useful because my laptop ran some GPT-2 xl model so I decided to keep them in for good data for the future
+- `real_final_dataset_reports/summary.csv`: CSV file summarizing results across all configurations
+- `requirements.txt`: all the requirements, python dependencies needed to download
 
 ## Datasets
 
@@ -57,7 +58,7 @@ This project uses the following data:
     "Cleopatra", "Rosalind Franklin", "Nikola Tesla", "Elon Musk",
     "Anne Frank", "Taylor Swift", "Emily King"
 - Generated Biographies: GPT-2 outputs in both greedy and sampling modes
-- Annotated Reports: Factual comparisons saved as `.txt` in `final_dataset_reports/`
+- Annotated Reports: Factual comparisons saved as `.txt` in `real_final_dataset_reports/`
 - Aggregate Results: `summary.csv` contains verdicts, similarity scores, fact matches, and runtime per model+setting
 
 All data used for analysis is included in this repository.

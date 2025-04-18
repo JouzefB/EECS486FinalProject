@@ -7,6 +7,7 @@ os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
+##function to get knowledge graph data from Google's Knowledge Graph API
 def get_knowledge_graph_data(query, api_key):
     url = "https://kgsearch.googleapis.com/v1/entities:search"
     params = {
@@ -27,12 +28,15 @@ def get_knowledge_graph_data(query, api_key):
                 return summary.strip()
     return None
 
+## for the outputs to summarize the differences between knowledge graph and gpt output
 def summarize_differences(kg_text, gpt_text):
     kg_words = set(kg_text.lower().split())
     gpt_words = set(gpt_text.lower().split())
     missing_words = kg_words - gpt_words
     return [w for w in missing_words if len(w) > 4 and w.isalpha()][:10]
 
+
+## main function that compares the output of the Google API facts vs the LLM model
 def run_kg_comparison(person, api_key, model_name="gpt2", gpt_output=None, repeated_prompt=False):
     lines = []
     header = lambda title: f"\n{'=' * 10} {title} {'=' * 10}"
@@ -68,23 +72,27 @@ def run_kg_comparison(person, api_key, model_name="gpt2", gpt_output=None, repea
     # Semantic Similarity Calculation
     model = SentenceTransformer("all-MiniLM-L6-v2")
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
+
     embedding_kg = model.encode(kg_text, convert_to_tensor=True)
     similarity = util.pytorch_cos_sim(embedding_gpt, embedding_kg).item()
 
     lines.append(header("Semantic Similarity Score"))
     lines.append(f"Cosine Similarity Score: {similarity:.2f}")
+
     semantic_ok = similarity >= 0.6
     lines.append("✅ GPT-2 output aligns semantically with Knowledge Graph." if semantic_ok else "⚠️ GPT-2 output is semantically inconsistent or unrelated.")
 
     # Keyword Difference Summary
     lines.append(header("Missing Key Terms from GPT-2 Output"))
+
     missing_keywords = summarize_differences(kg_text, gpt_output)
+    
     for word in missing_keywords:
         lines.append(f"❌ MISSING: {word}")
     if not missing_keywords:
         lines.append("✅ All major keywords present in GPT-2 output.")
 
-    # Final Verdict
+    #fincal verdict summary printing
     lines.append(header("Verdict Summary"))
     lines.append(f"Semantic Score: {similarity:.2f}")
     lines.append(f"Missing Keywords: {len(missing_keywords)}")
@@ -104,7 +112,7 @@ def run_kg_comparison(person, api_key, model_name="gpt2", gpt_output=None, repea
         "missing_keywords": missing_keywords
     }
 
-# CLI test entry
+# if want to test by itself and own model instead of the combined FACT or AI? pipeline
 if __name__ == "__main__":
     import argparse
     from transformers import pipeline

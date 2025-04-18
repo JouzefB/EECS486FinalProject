@@ -7,6 +7,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
+#fetches wikidata id for each person given
 def get_wikidata_id(person_name):
     url = "https://www.wikidata.org/w/api.php"
     params = {
@@ -20,6 +21,7 @@ def get_wikidata_id(person_name):
         return response["search"][0]["id"]
     return None
 
+## main fucntion that actually gets the wikidata facts from the id we got earlier
 def get_wikidata_facts(entity_id):
     sparql_query = f"""
     SELECT ?propertyLabel ?valueLabel WHERE {{
@@ -41,6 +43,8 @@ def get_wikidata_facts(entity_id):
         facts[prop] = val
     return facts
 
+
+##main function that compares if the gpt2 output contains the facts from wikidata
 def run_wikidata_comparison(person, model_name="gpt2", gpt_output=None, repeated_prompt=False):
     lines = []
     entity_id = get_wikidata_id(person)
@@ -57,6 +61,7 @@ def run_wikidata_comparison(person, model_name="gpt2", gpt_output=None, repeated
     facts = get_wikidata_facts(entity_id)
     fact_text = ". ".join([f"{k}: {v}" for k, v in facts.items()])
 
+    ##fallsafe if gpt diddnt work or didnt wanna use it
     if gpt_output is None:
         prompt = f"Write a short biography of {person}."
         generator = pipeline("text-generation", model=model_name, device=-1)
@@ -73,17 +78,18 @@ def run_wikidata_comparison(person, model_name="gpt2", gpt_output=None, repeated
     if repeated_prompt:
         lines.append("\n⚠️ Detected prompt repetition — GPT may have echoed the instruction.")
 
-    # === Semantic Similarity ===
+    #Semantic Similarity
     model = SentenceTransformer("all-MiniLM-L6-v2")
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
     embedding_wiki = model.encode(fact_text, convert_to_tensor=True)
+    #cosine similarity
     similarity = util.pytorch_cos_sim(embedding_gpt, embedding_wiki).item()
 
     lines.append(f"\nSemantic Similarity Score: {similarity:.2f}")
     final_verdict = "✅ GPT-2 output looks consistent with Wikidata." if similarity >= 0.6 else "⚠️ GPT-2 output is SUSPICIOUS."
     lines.append(final_verdict)
 
-    # === Keyword Match ===
+    #Keyword Match
     lines.append("\n=== Fact Presence in GPT-2 Output (Keyword Check) ===")
     missing_keywords = []
     for prop, val in facts.items():
@@ -93,7 +99,9 @@ def run_wikidata_comparison(person, model_name="gpt2", gpt_output=None, repeated
             lines.append(f"❌ MISSING: {prop}: {val}")
             missing_keywords.append(f"{prop}: {val}")
 
-    # === Per-Fact Semantic Match ===
+    #Per-Fact Semantic Match
+    ##counts each fact taht got matched or not and also which oens they are
+    ## and has a score calculator if above threshhold its good or bad
     lines.append("\n=== Semantic Match per Fact ===")
     matched = 0
     for prop, val in facts.items():
@@ -105,7 +113,7 @@ def run_wikidata_comparison(person, model_name="gpt2", gpt_output=None, repeated
             matched += 1
         lines.append(f"{status} {fact} — Similarity: {score:.2f}")
 
-    # === Final Summary ===
+    #Verdict summary
     total_facts = len(facts)
     summary_line = "✅ Overall Verdict: GPT-2 Output Seems Factual." if similarity >= 0.6 and matched >= total_facts * 0.5 else "⚠️ Overall Verdict: GPT-2 Output is Likely Hallucinated."
     lines.append(f"\n=== Final Summary ===")
@@ -123,7 +131,7 @@ def run_wikidata_comparison(person, model_name="gpt2", gpt_output=None, repeated
         "missing_keywords": missing_keywords[:10]
     }
 
-# CLI for testing
+# if wanna test by itself without the combined2.py pipeline
 if __name__ == "__main__":
     import argparse
     from transformers import pipeline

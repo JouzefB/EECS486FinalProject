@@ -5,6 +5,7 @@ from sentence_transformers import SentenceTransformer, util
 from wikipedia_lookup import get_wikipedia_summary
 import re
 
+##environmental setup
 os.environ["PYTORCH_ENABLE_MPS_FALLBACK"] = "1"
 os.environ["CUDA_VISIBLE_DEVICES"] = ""
 
@@ -12,30 +13,41 @@ def extract_keywords(text):
     words = re.findall(r"\b\w{5,}\b", text.lower())
     return set(words)
 
+
 def run_wiki_comparison(person, model_name="gpt2", gpt_output=None, repeated_prompt=False):
+    #list to count the report lines
     lines = []
+
+    ##helper function for the headers
     header = lambda title: f"\n{'=' * 10} {title} {'=' * 10}"
+
+
+    ##this prompt is for the wikipedia to generate good output
+    ##can change the prompt to something else if want to change the code to fit like places or facts
 
     prompt = f"Write a short biography of {person}."
 
     if gpt_output is None:
         raise ValueError("GPT output must be provided externally.")
 
-    # Header and GPT output
+    #header for the repoert 
     lines.append(header(f"GPT-2 Generated Biography for {person}"))
     lines.append(gpt_output)
     if repeated_prompt:
         lines.append("\n⚠️ Detected prompt repetition — GPT may have echoed the instruction.")
 
-    # Wikipedia reference
+    # gets the full wikipedia summary for the person
+
     wiki_summary = get_wikipedia_summary(person)
     lines.append(header("Wikipedia Summary"))
     lines.append(wiki_summary)
 
-    # Semantic similarity
+    #calculated Semantic Similarity using sentence-BERT model
     model = SentenceTransformer("all-MiniLM-L6-v2")
     embedding_gpt = model.encode(gpt_output, convert_to_tensor=True)
     embedding_wiki = model.encode(wiki_summary, convert_to_tensor=True)
+    
+    ##cosine similarity calculated
     similarity = util.pytorch_cos_sim(embedding_gpt, embedding_wiki).item()
 
     lines.append(header("Semantic Similarity Score"))
@@ -43,7 +55,7 @@ def run_wiki_comparison(person, model_name="gpt2", gpt_output=None, repeated_pro
     final_verdict = "✅ GPT-2 output looks consistent with Wikipedia." if similarity >= 0.6 else "⚠️ GPT-2 output is potentially hallucinated or unrelated."
     lines.append(final_verdict)
 
-    # Keyword comparison
+    #compared the keywords between the gpt output and the wikipedia summaries
     wiki_keywords = extract_keywords(wiki_summary)
     gpt_keywords = extract_keywords(gpt_output)
     missing_keywords = sorted(wiki_keywords - gpt_keywords)
@@ -67,6 +79,7 @@ def run_wiki_comparison(person, model_name="gpt2", gpt_output=None, repeated_pro
                 max_score = score
                 best_pair = (w.strip(), g.strip())
 
+
     lines.append(header("Closest Matching Sentence Pair"))
     if best_pair[0] and best_pair[1]:
         lines.append(f"[Wikipedia] {best_pair[0]}")
@@ -75,8 +88,9 @@ def run_wiki_comparison(person, model_name="gpt2", gpt_output=None, repeated_pro
     else:
         lines.append("No meaningful sentence match found.")
 
-    # Final summary
+    #Final summary
     lines.append(header("Verdict Summary"))
+
     lines.append(f"Semantic Similarity: {similarity:.2f}")
     lines.append(f"Missing Keywords: {len(missing_keywords)}")
     lines.append("✅ Biography is semantically aligned with Wikipedia." if similarity >= 0.6 else "⚠️ Possible hallucination or deviation from trusted summary.")
@@ -89,6 +103,7 @@ def run_wiki_comparison(person, model_name="gpt2", gpt_output=None, repeated_pro
         "missing_keywords": missing_keywords[:10]  # top 10 only
     }
 
+##have a main function just in case want to run it by itself.
 if __name__ == "__main__":
     import argparse
     from transformers import pipeline
